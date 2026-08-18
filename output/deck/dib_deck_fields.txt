@@ -1,0 +1,1 @@
+word_id	en1	en1_xsense	de1	de3	de_audio	de_audio_info	part_of_speech	noun_pl	noun_pl_info	verb_3pres	verb_pret	verb_perf	adj_compsup	chapter_list	chapter	section	enwk_def	n_de1	note_class	Tags

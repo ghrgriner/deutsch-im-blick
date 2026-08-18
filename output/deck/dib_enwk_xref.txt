@@ -1,0 +1,2266 @@
+word_id	en_hw	page	seq_on_page	enwk_part_of_speech	tt_param1	seq_in_param1	keep
+DIB0009342	flexibility	flexibility	1	Noun	quality of being flexible	1	y
+DIB0010861	already	already	1	Adverb	prior to some time	1	y
+DIB0012611	station	station	1	Noun	place where a vehicle may stop	1	y
+DIB0027914	drip	drip	1	Verb	to fall one drop at a time	1	y
+DIB0031280	knife	knife	1	Noun	utensil or tool designed for cutting	1	y
+DIB0033126	gorgeous	gorgeous	1	Adjective	very beautiful	1	y
+DIB0044054	confused	confused	1	Adjective	unable to think clearly or understand	1	y
+DIB0050307	journalist	journalist	1	Noun	one whose occupation or profession is journalism	1	y
+DIB0051095	shirt	shirt	1	Noun	article of clothing	1	y
+DIB0051406	relative	relative	3	Noun	someone connected by blood, marriage, or adoption; someone in the same family	1	y
+DIB0052780	sticky	sticky	1	Adjective	able or likely to stick	1	y
+DIB0063115	birth	birth	2	Noun	instance of childbirth	1	y
+DIB0071195	next	next	3	Adjective	nearest date, time, space or order	1	y
+DIB0075192	chicken	chicken	2	Noun	meat	1	y
+DIB0076017	can	can	5	Noun	a tin-plate canister	1	y
+DIB0081293	apprentice	apprentice	1	Noun	trainee, especially in a skilled trade	1	y
+DIB0090028	expect	expect	2	Verb	to consider obligatory	1	y
+DIB0093130	strawberry	strawberry	1	Noun	accessory fruit	1	y
+DIB0094964	yourself	yourself	1	Pronoun	(reflexive) your own self	1	yp
+DIB0095927	unmask	unmask	2	Verb	to expose the true character of someone	1	y
+DIB0096546	hurt	hurt	1	Verb	to be painful, to ache	1	y
+DIB0108566	hike	hike	5	Verb	to take a long walk for pleasure or exercise	1	y
+DIB0108742	boxer shorts	boxer shorts	1	Noun	underwear	1	y
+DIB0114304	withdraw	withdraw	1	Verb	to draw or pull (something) aside, away, or back from its original position or situation	1	y
+DIB0116480	candy	candy	1	Noun	piece of candy	1	y
+DIB0117487	wife	wife	1	Noun	female partner in a marriage	1	y
+DIB0123916	musicology	musicology	1	Noun	study of music	1	y
+DIB0127084	wish	wish	1	Noun	desire	1	yp
+DIB0130831	take	take/translations	18	Verb	to use as transportation	1	y
+DIB0134186	purple	purple	1	Noun	colour	1	y
+DIB0138260	watermelon	watermelon	2	Noun	fruit	1	y
+DIB0143212	raise	raise	7	Verb	to bring up, to grow	1	yp
+DIB0144594	cream	cream	4	Noun	product to apply to the skin	1	y
+DIB0144995	say	say	1	Verb	to say, to tell	1	y
+DIB0148714	you	you/translations	4	Pronoun	subject pronoun: the person being addressed	1	y
+DIB0157449	resemble	resemble	1	Verb	to be like or similar to something else	1	y
+DIB0161430	meeting	meeting	3	Noun	gathering for a purpose	1	y
+DIB0161430	meeting	meeting	5	Noun	encounter between people	1	y
+DIB0163398	disabled	disabled	2	Adjective	having a disability	1	y
+DIB0171823	child	child	1	Noun	son or daughter; someone's child	1	y
+DIB0171823	child	child	2	Noun	a minor	1	y
+DIB0174827	tenth	tenth	1	Adjective	ordinal form of ten	1	y
+DIB0177124	building	building	2	Noun	closed structure with walls and a roof	1	y
+DIB0180164	mandatory	mandatory	1	Adjective	obligatory	1	y
+DIB0181507	interested	interested	1	Adjective	having or showing interest	1	yp
+DIB0181719	break in	break in	1	Verb	to enter by force or illicitly	1	y
+DIB0182360	engineering	engineering	1	Noun	application of science to the needs of humanity	1	y
+DIB0183325	inflation	inflation	2	Noun	increase in the quantity of money, leading to a devaluation of existing money and increase in the general nominal level of prices or in the cost of living	1	y
+DIB0193945	eve	eve	1	Noun	day or night before	1	yp
+DIB0196766	convenience store	convenience store	1	Noun	a small retail store	1	y
+DIB0199224	Saturday	Saturday	1	Noun	day of the week	1	y
+DIB0199988	tense	tense	2	Adjective	showing stress or strain	1	y
+DIB0208650	she	she	1	Pronoun	person	1	y
+DIB0210522	any more	any more	1	Adverb	in negative or interrogative constructions	1	y
+DIB0226622	retirement	retirement	1	Noun	act of retiring, or the state of being retired	1	y
+DIB0226869	American studies	American studies	1	Noun	an interdisciplinary field dealing with the study of the Americas, with a historical emphasis upon the United States	1	y
+DIB0232613	zoo	zoo	1	Noun	park where live animals are exhibited	1	y
+DIB0252796	poet	poet	1	Noun	person who writes poems	1	y
+DIB0257178	understanding	understanding	3	Noun	opinion, judgement or outlook	1	y
+DIB0258925	insure	insure	1	Verb	to provide for compensation if some risk occurs	1	y
+DIB0259120	hearty	hearty	3	Adjective	promoting strength, nourishing; abundant	1	y
+DIB0267996	come	come	1	Verb	to move nearer	1	y
+DIB0276029	twenty	twenty	1	Numeral	cardinal number	1	y
+DIB0276482	grumpy	grumpy	1	Adjective	dissatisfied and irritable	1	y
+DIB0277040	professor	professor	1	Noun	higher ranking for a teacher or faculty member at a college or university	1	y
+DIB0278832	sweater	sweater	2	Noun	similar garment worn for warmth	1	y
+DIB0281821	special	special	1	Adjective	distinguished by a unique or unusual quality	1	yp
+DIB0282280	aspirin	aspirin	1	Noun	analgesic drug	1	y
+DIB0293221	greeting card	greeting card	1	Noun	card sent as a greeting	1	y
+DIB0294605	Pentecost	Pentecost	2	Proper noun	Sunday on which the feast or festival of Pentecost falls ''(cognates)''	1	y
+DIB0295656	June	June	1	Proper noun	sixth month of the Gregorian calendar	1	y
+DIB0300342	society	society	1	Noun	group of people sharing culture	1	y
+DIB0302022	supposed to	supposed to	2		required to, obliged to	1	y
+DIB0303576	dark	dark	4	Adjective	not bright or light, deeper in hue	1	y
+DIB0323324	receive	receive	3	Verb	to act as a host for guests	1	y
+DIB0328691	seminar	seminar	1	Noun	class held for advanced studies	1	y
+DIB0330964	attentive	attentive	1	Adjective	paying attention	1	y
+DIB0332879	shoot	shoot	3	Verb	to hit with a shot	1	yp
+DIB0334433	celebrate	celebrate	2	Verb	honour by rites, ceremonies, etc.	1	y
+DIB0335713	found	found	1	Verb	to start an organization	1	y
+DIB0335944	turn	turn	3	Verb	intransitive: change one's direction of travel	1	y
+DIB0336858	at	at	2	Preposition	indicating time	1	y
+DIB0340143	tooth	tooth	1	Noun	anatomy: tooth	1	y
+DIB0349614	father	father/translations	1	Noun	male parent	1	y
+DIB0352398	impress	impress	1	Verb	''(transitive)'' affect (someone) strongly and often favourably	1	y
+DIB0354372	sympathize	sympathize	1	Verb	to show sympathy	1	y
+DIB0358203	study	study	1	Verb	to revise/review materials	1	y
+DIB0358203	study	study	3	Verb	to acquire knowledge	1	y
+DIB0360197	energy	energy	3	Noun	physics	1	y
+DIB0365057	blouse	blouse	1	Noun	an outer garment, usually loose, that is similar to a shirt	1	y
+DIB0365306	creek	creek	2	Noun	stream of water	1	y
+DIB0366622	nose	nose/translations	1	Noun	protuberance on the face	1	y
+DIB0375801	scanner	scanner	1	Noun	device which scans documents	1	y
+DIB0376972	know	know	1	Verb	be justifiably certain or sure about (something true)	1	y
+DIB0382380	mother-in-law	mother-in-law	1	Noun	spouse's mother	1	y
+DIB0384261	walk	walk	1	Verb	to move on the feet	1	y
+DIB0384261	walk	walk	5	Verb	to travel a distance by walking	1	y
+DIB0390306	crosswalk	crosswalk	1	Noun	place where pedestrians can cross a street	1	y
+DIB0391576	on	on	9	Preposition	positioned at the upper surface of	1	y
+DIB0395356	can I buy you a drink	can I buy you a drink	1	Phrase	can I buy you a drink?	1	y
+DIB0402897	journey	journey	1	Noun	trip, a voyage	1	y
+DIB0414073	queen	queen	1	Noun	female monarch	1	y
+DIB0415059	United States	United States	1	Proper noun	the United States	1	y
+DIB0418221	kitchen	kitchen	1	Noun	room	1	y
+DIB0421478	deaf	deaf	1	Adjective	unable to hear	1	y
+DIB0428937	friend	friend/translations	1	Noun	person whose company one enjoys	1	y
+DIB0435772	worry	worry	1	Verb	to be troubled	1	y
+DIB0440779	strenuous	strenuous	2	Adjective	requiring great exertion	1	y
+DIB0442862	stiff	stiff	5	Adjective	of muscles, or parts of the body	1	y
+DIB0443389	toothbrush	toothbrush	1	Noun	brush for cleaning the teeth and tongue	1	y
+DIB0445731	wake up	wake up	1	Verb	to (become) awake	1	y
+DIB0448705	search	search	2	Verb	to look throughout (a place) for something	1	y
+DIB0451775	boot	boot	1	Noun	heavy shoe that covers part of the leg	1	y
+DIB0460994	play	play	5	Verb	participate in (a sport or game)	1	y
+DIB0462443	right	right/translations	24	Interjection	checking agreement	1	y
+DIB0462956	small	small	1	Adjective	not large	1	y
+DIB0467088	minute	minute	1	Noun	unit of time	1	y
+DIB0470051	other	other	1	Adjective	not the one previously referred to	1	y
+DIB0474611	mushroom	mushroom	1	Noun	fruiting body of a fungus	1	y
+DIB0475400	pass	pass	3	Verb	to go past	1	y
+DIB0479236	ourselves	ourselves	1	Pronoun	reflexive: us	1	yp
+DIB0487781	impossible	impossible	1	Adjective	not able to be done	1	y
+DIB0489559	toothpaste	toothpaste	1	Noun	paste for cleaning the teeth	1	y
+DIB0493196	aunt	aunt	1	Noun	a parent's sister or sister-in-law	1	y
+DIB0494226	my name is	my name is	1	Phrase	a way to identify oneself	1	y
+DIB0503619	washing-up liquid	washing-up liquid	1	Noun	liquid soap used to wash dishes	1	y
+DIB0509396	broadcast	broadcast	6	Verb	to transmit a message or signal through radio waves or electronic means	1	y
+DIB0516779	dominate	dominate	1	Verb	to govern, rule or control by superior authority or power	1	y
+DIB0519095	back	back	1	Adjective	near the rear	1	y
+DIB0520222	make	make	3	Verb	to create	1	y
+DIB0521060	Germany	Germany	1	Proper noun	id=Q183	1	y
+DIB0525257	blind	blind	1	Adjective	unable to see	1	y
+DIB0527399	yes	yes	1		word used to indicate agreement or acceptance	1	y
+DIB0532697	cherry	cherry	1	Noun	fruit	1	y
+DIB0534389	thank	thank	1	Verb	to express appreciation or gratitude toward (someone or something)	1	yp
+DIB0542746	duffel bag	duffel bag	1	Noun	large duffel cloth bag used to carry personal gear	1	y
+DIB0543064	promise	promise	3	Verb	to commit to something	1	y
+DIB0547013	special	special	1	Adjective	distinguished by a unique or unusual quality	1	y
+DIB0556124	Hungary	Hungary	1	Proper noun	the country	1	y
+DIB0559183	bank	bank	1	Noun	institution	1	y
+DIB0559583	impressive	impressive	1	Adjective	making, or tending to make, an impression; having power to impress	1	y
+DIB0563187	what's the matter	what's the matter	1	Phrase	what's wrong?	1	y
+DIB0567670	downtown	downtown	3	Noun	either the lower, or the business center of a city or town	1	y
+DIB0570360	color	color	1	Noun	spectral composition of visible light	1	y
+DIB0578744	sixty	sixty	1	Numeral	cardinal number	1	y
+DIB0585473	hunt	hunt	1	Verb	to chase down prey	1	y
+DIB0585785	at	at	2	Preposition	indicating time	1	y
+DIB0589479	university	university	1	Noun	institution of higher education	1	y
+DIB0598637	literacy	literacy	2	Noun	understanding of something	1	y
+DIB0601383	handkerchief	handkerchief	1	Noun	cloth for wiping the face, eyes, nose or hands	1	y
+DIB0602492	narrow	narrow	1	Adjective	having small width	1	y
+DIB0612011	kitchen cabinet	kitchen cabinet	1	Noun	built-in cabinet found in a kitchen	1	y
+DIB0612127	only child	only child	1	Noun	person who has no siblings	1	y
+DIB0619282	dormitory	dormitory	2	Noun	building or part thereof	1	y
+DIB0622007	fork	fork	2	Noun	eating utensil	1	y
+DIB0622041	me neither	me neither	1	Phrase	me neither	1	y
+DIB0623149	steal	steal	1	Verb	to illegally take possession of	1	y
+DIB0624187	personal hygiene	personal hygiene	1	Noun	personal hygiene	1	y
+DIB0630934	Christmas carol	Christmas carol	1	Noun	hymn whose lyrics are on the theme of Christmas	1	y
+DIB0640712	same	same	1	Adjective	not different as regards self; identical	1	y
+DIB0641155	reaction	reaction	1	Noun	action in response to an event	1	y
+DIB0641933	chair	chair	1	Noun	furniture	1	y
+DIB0645886	continuously	continuously	1	Adverb	without pause	1	y
+DIB0646998	retell	retell	1	Verb	to tell again	1	y
+DIB0647781	taste	taste	8	Verb	to have a taste	1	y
+DIB0648260	French	French	1	Proper noun	principal language of France and other related countries	1	y
+DIB0651747	cup	cup	1	Noun	drinking vessel	1	y
+DIB0665116	we	we	1	Pronoun	generic ''we'' (the speaker and at least one other person, regardless of whether it's the person being addressed)	1	y
+DIB0667412	merry	merry	1	Adjective	jolly and full of high-spirits	1	y
+DIB0668981	you	you/translations	2	Pronoun	object pronoun: the person being addressed	1	yp
+DIB0670240	cook	cook	2	Verb	to prepare food for eating	1	y
+DIB0671710	stone	stone	1	Noun	substance	1	y
+DIB0697416	plate	plate	1	Noun	flat dish	1	y
+DIB0700239	sauna	sauna	1	Noun	sauna room or house	1	y
+DIB0704590	shower	shower	8	Verb	to bathe using a shower	1	y
+DIB0709418	September	September	1	Proper noun	ninth month of the Gregorian calendar	1	y
+DIB0711430	then	then	1	Adverb	at that time	1	y
+DIB0715371	her	her/translations	1	Determiner	belonging to	1	y
+DIB0718360	cloudy	cloudy	1	Adjective	covered with or characterised by clouds	1	y
+DIB0720668	doctor's office	doctor's office	1	Noun	clinic of a doctor	1	y
+DIB0728757	achievement	achievement	1	Noun	act of achieving or performing	1	y
+DIB0729732	at all	at all	1	Adverb	to the slightest degree, in any way	1	yp
+DIB0733106	lemon	lemon	1	Noun	citrus fruit	1	y
+DIB0734569	spoiled	spoiled	2	Adjective	(of a person, usually a child) having a selfish or greedy character due to pampering	1	y
+DIB0749512	pineapple	pineapple	2	Noun	fruit	1	y
+DIB0754495	get used	get used	1	Verb	to become accustomed (''intransitive'')	1	y
+DIB0755623	run	run/translations	1	Verb	to move quickly on two feet	1	y
+DIB0758547	try on	try on	1	Verb	to test the look of	1	y
+DIB0777438	yourselves	yourselves	1	Pronoun	you (referring to the people being spoken to, previously mentioned)	1	yp
+DIB0779485	nightgown	nightgown	1	Noun	sleeping garment worn by women	1	y
+DIB0781653	busy	busy	2	Adjective	doing a great deal	1	y
+DIB0781830	examination	examination	3	Noun	formal test	1	y
+DIB0782823	weather forecast	weather forecast	1	Noun	prediction of future weather	1	y
+DIB0784341	cheek	cheek	1	Noun	part of face	1	y
+DIB0789021	postcode	postcode	1	Noun	sequence of letters and numbers added to a postal address	1	y
+DIB0793357	balcony	balcony	1	Noun	structure extending from a building	1	y
+DIB0801007	readily	readily	1	Adverb	showing readiness	1	y
+DIB0802143	play	play	4	Verb	act in a performance	1	y
+DIB0802797	fall asleep	fall asleep	1	Verb	to pass into sleep	1	y
+DIB0804288	finish	finish	5	Verb	to complete	1	y
+DIB0813698	describe	describe	1	Verb	to represent in words	1	y
+DIB0817173	confetti	confetti	1	Noun	small pieces of colored paper generally thrown about at festive occasions	1	y
+DIB0824632	breathe a sigh of relief	breathe a sigh of relief	1	Verb	be relieved	1	y
+DIB0835213	chocolate	chocolate	1	Noun	food made from ground roasted cocoa beans	1	y
+DIB0837752	waiter	waiter	1	Noun	a server in a restaurant or similar	1	y
+DIB0842131	your	your	1	Determiner	belonging to you (singular; one owner)	1	y
+DIB0847904	myself	myself	1	Pronoun	me, reflexive form of ''me''	1	yp
+DIB0849929	as	as/translations	8	Preposition	Introducing a basis of comparison	1	y
+DIB0862606	unicycle	unicycle	1	Noun	one-wheeled pedaled cycle	1	y
+DIB0867164	nightstand	nightstand	1	Noun	small table placed beside the head of a bed	1	y
+DIB0871577	acquaint	acquaint	2	Verb	to communicate notice to	1	yp
+DIB0872857	outdoors	outdoors	1	Adverb	in the open air	1	y
+DIB0873225	disco	disco	1	Noun	discotheque	1	y
+DIB0877019	minor	minor	5	Noun	subject of secondary undergraduate study	1	y
+DIB0878063	shine	shine	1	Verb	to emit light	1	y
+DIB0891290	hit	hit	1	Verb	to administer a blow	1	y
+DIB0897651	brave	brave	1	Adjective	strong in the face of fear	1	y
+DIB0904858	ascribe	ascribe	1	Verb	to attribute a cause or characteristic to	1	y
+DIB0907541	name day	name day	1	Noun	feast day of a saint	1	y
+DIB0919697	butterfly	butterfly	1	Noun	id=Q11946202	1	plural
+DIB0924926	seat	seat	1	Noun	place in which to sit	1	y
+DIB0927913	disturb	disturb	1	Verb	confuse or irritate	1	y
+DIB0936215	premiere	premiere	1	Noun	first showing of a film, play or other form of entertainment	1	y
+DIB0936519	combine	combine	1	Verb	bring two or more things or activities together	1	y
+DIB0942551	subway	subway	1	Noun	underground railway	1	y
+DIB0942828	one day	one day	2	Adverb	at unspecified time in the past	1	y
+DIB0948410	board game	board game	1	Noun	game played on a board	1	y
+DIB0961676	huge	huge	1	Adjective	very large	1	y
+DIB0980123	save	save	9	Verb	computing: to write a file to a storage medium	1	y
+DIB0981785	discipline	discipline	1	Noun	controlled behaviour, self-control	1	y
+DIB0987189	icy	icy	1	Adjective	pertaining to, resembling, or abounding in ice	1	y
+DIB0989853	electric shaver	electric shaver	1	Noun		1	y
+DIB0992099	have an affair	have an affair	1	Verb	engage in a relationship while married	1	y
+DIB0996198	sea	sea	1	Noun	body of water	1	y
+DIB1005069	stereotype	stereotype	1	Noun	conventional, formulaic, and oversimplified conception, opinion, or image	1	y
+DIB1013478	well	well	1	Adverb	accurately; competently	1	y
+DIB1017590	amicable	amicable	1	Adjective	showing friendliness or goodwill	1	y
+DIB1018636	either … or	either … or	1	Conjunction		1	y
+DIB1019255	beige	beige	2	Adjective	having a slightly yellowish gray colour	1	y
+DIB1022681	mathematics	mathematics	1	Noun	field of study	1	y
+DIB1024015	smart	smart	5	Adjective	exhibiting intellectual knowledge, such as that found in books	1	y
+DIB1025233	citizen	citizen	1	Noun	legal member of a state	1	y
+DIB1027918	light	light	7	Adjective	pale in colour	1	y
+DIB1036719	health	health	2	Noun	physical condition	1	y
+DIB1042434	separate	separate	4	Verb	to divide itself	1	yp
+DIB1049721	river	river/translations	1	Noun	large stream which drains a landmass	1	y
+DIB1059379	nobody	nobody	1	Noun	unimportant person	1	y
+DIB1072666	perform	perform	5	Verb	to do something in front of an audience	1	y
+DIB1073970	find	find	1	Verb	encounter, locate, discover	1	y
+DIB1085772	judge	judge	9	Verb	to have as an opinion, consider, suppose	1	y
+DIB1093677	expect	expect	1	Verb	to look for, look forward to, anticipate	1	y
+DIB1101166	drama	drama	3	Noun	theatrical plays	1	y
+DIB1106184	novel	novel	2	Noun	work of prose fiction	1	y
+DIB1109254	bear	bear	13	Verb	to endure with patience; to be patient	1	y
+DIB1125645	take away	take away	2	Verb	to remove something, either material or abstract, so that a person no longer has it	1	y
+DIB1134110	opera	opera	4	Noun	building	1	y
+DIB1136582	hair	hair	2	Noun	mass of such filaments on the human head	1	y
+DIB1142041	cookie	cookie	1	Noun	small, flat baked good	1	y
+DIB1144996	earn	earn	2	Verb	transitive: receive (money) for working	1	y
+DIB1150937	appearance	appearance	3	Noun	personal presence, form or look	1	y
+DIB1151681	run off	run off	1	Verb	to leave or depart quickly	1	y
+DIB1158968	birthday	birthday	1	Noun	anniversary	1	y
+DIB1161227	helpful	helpful	1	Adjective	furnishing help; giving aid; useful	1	y
+DIB1161946	party game	party game	1	Noun	game played at a party	1	y
+DIB1163868	sock	sock	1	Noun	covering for the foot	1	y
+DIB1164154	gray	gray	1	Adjective	of a color somewhere between white and black, like [[cinders]]	1	y
+DIB1167051	breakfast	breakfast	1	Noun	first meal of the day	1	y
+DIB1169053	bitter	bitter	1	Adjective	having an acrid taste	1	y
+DIB1172596	police officer	police officer	1	Noun	peace officer who is a member of a police force	1	y
+DIB1173525	chancellor	chancellor	2	Noun	head of government in some German-speaking countries	1	y
+DIB1173620	slow	slow	1	Adjective	not quick in motion	1	y
+DIB1175215	you	you/translations	1	Pronoun	object pronoun: the group being addressed	1	yp
+DIB1185157	paper	paper	1	Noun	sheet material	1	y
+DIB1187991	past	past	1	Noun	period of time that has already happened	1	y
+DIB1195661	windy	windy	1	Adjective	accompanied by wind	1	y
+DIB1195916	symphony	symphony	1	Noun	piece of orchestral music	1	y
+DIB1208136	yesterday	yesterday	3	Adverb	on the day before today	1	y
+DIB1208632	swimming pool	swimming pool	1	Noun	pool for swimming	1	y
+DIB1208760	clear	clear	5	Adjective	free of ambiguity or doubt	1	y
+DIB1213205	Friday	Friday	2	Adverb	on Friday	1	y
+DIB1216020	never	never	1	Adverb	at no time	1	y
+DIB1217083	look back	look back	2	Verb	reminisce about the past	1	y
+DIB1225872	school	school	1	Noun	an institution dedicated to teaching and learning	1	y
+DIB1227829	ten	ten/translations	1	Numeral	the cardinal number occurring after 9 and before 11	1	y
+DIB1234378	attack	attack	1	Noun	attempt to cause damage, injury, or death	1	y
+DIB1237377	theology	theology	1	Noun	study of God, or a god, or gods	1	y
+DIB1238793	economy	economy	3	Noun	production and distribution and consumption	1	y
+DIB1245585	send back	send back	1	Verb	to return something to its origin	1	y
+DIB1254689	carpet	carpet	1	Noun	a fabric used as a floor covering	1	y
+DIB1263312	sew	sew	1	Verb	(transitive) use a needle	1	y
+DIB1272170	free time	free time	1	Noun	time when one is not working	1	y
+DIB1276898	concentration camp	concentration camp	1	Noun	camp where large numbers of persons are detained	1	y
+DIB1281991	will	will	5	Noun	act of choosing to do something; conscious intent or volition	1	y
+DIB1286174	cool	cool	7	Adjective	colloquial: being considered as "popular" by others	1	y
+DIB1288563	ice cream	ice cream	1	Noun	dessert	1	y
+DIB1290302	southern	southern	1	Adjective	of the south	1	y
+DIB1296554	fresh	fresh	2	Adjective	(of food) not dried, frozen, or spoiled	1	y
+DIB1298168	salty	salty	1	Adjective	tasting of salt	1	y
+DIB1313013	injection	injection	1	Noun	act of injecting, or something injected	1	y
+DIB1313632	Friday	Friday	1	Noun	day of the week	1	y
+DIB1317581	depress	depress	2	Verb	to make depressed, sad or bored	1	y
+DIB1334203	skirt	skirt	1	Noun	article of clothing	1	y
+DIB1342061	learn	learn	1	Verb	to acquire knowledge or ability	1	y
+DIB1352918	fail	fail	6	Verb	to receive one or more non-passing grades in academic pursuits	1	yp
+DIB1353079	closed	closed	1	Adjective	not open	1	y
+DIB1356361	thank	thank	1	Verb	to express appreciation or gratitude toward (someone or something)	1	y
+DIB1358890	noise	noise	1	Noun	various sounds, usually unwanted	1	y
+DIB1369931	exclude	exclude	1	Verb	to bar from entering; keep out	1	y
+DIB1374374	turn off	turn off	2	Verb	rotate a tap or valve to stop outflow	1	yp
+DIB1374479	bulletin board	bulletin board	1	Noun	a board	1	y
+DIB1383922	influence	influence	1	Noun	power to affect, control or manipulate	1	y
+DIB1392808	cable	cable	2	Noun	assembly of wires for electricity	1	y
+DIB1393931	costume	costume	2	Noun	disguise	1	y
+DIB1394826	emperor	emperor	1	Noun	ruler of an empire	1	y
+DIB1399713	disappear	disappear	1	Verb	to vanish	1	y
+DIB1403884	frying pan	frying pan	1	Noun	long-handled, shallow pan used for frying food	1	y
+DIB1408340	charge	charge	22	Verb	criminal law, law enforcement: to formally accuse of a crime	1	y
+DIB1415813	dress	dress	26	Noun	item of clothing which both covers the upper part of the body and includes a skirt below the waist	1	y
+DIB1416221	look up	look up	2	Verb	to obtain information about something from a text source	1	y
+DIB1423239	peach	peach	2	Noun	fruit	1	y
+DIB1427392	wash	wash	4	Verb	to clean oneself	1	yp
+DIB1428344	photo	photo	1	Verb	to take a photograph	1	y
+DIB1436988	antibiotic	antibiotic	1	Noun	substance that destroys or inhibits bacteria	1	y
+DIB1439874	living room	living room	1	Noun	room in a private house	1	y
+DIB1440663	telephone	telephone	1	Noun	telecommunication device which converts data or sounds into electrical signals which are then transmitted to enable two or more people to communicate with each other over a distance	1	y
+DIB1445950	instead of	instead of	1	Preposition	in lieu of; in place of; rather than	1	y
+DIB1447085	accommodation	accommodation	1	Noun	lodging	1	y
+DIB1448090	bathtub	bathtub	1	Noun	large container in which a person may bathe	1	y
+DIB1449029	attachment	attachment	6	Noun	file sent along with a message	1	y
+DIB1450476	book	book/translations	1	Noun	collection of sheets of paper bound together containing printed or written material	1	y
+DIB1451766	buy	buy	1	Verb	to obtain something with money	1	y
+DIB1454731	sit	sit	1	Verb	of a person, be in a position in which the upper body is upright and the legs are supported	1	y
+DIB1454875	imperialism	imperialism	1	Noun	the policy of extending power, by force	1	y
+DIB1461567	builder	builder	1	Noun	a person who builds or constructs things	1	y
+DIB1465667	wave	wave	8	Noun	moving disturbance, undulation	1	y
+DIB1467405	acceptable	acceptable	1	Adjective	capable, worthy or sure of being accepted	1	y
+DIB1477315	unify	unify	1	Verb	cause to become one	1	y
+DIB1478087	game	game	1	Noun	playful activity that may be unstructured, amusement, pastime	1	y
+DIB1478212	psychologist	psychologist	1	Noun	expert in the field of psychology	1	y
+DIB1478527	faith	faith	2	Noun	religious belief system	1	y
+DIB1480199	social	social	1	Adjective	extroverted or outgoing	1	y
+DIB1486149	Third Reich	Third Reich	1	Proper noun	Germany under the Nazi regime	1	y
+DIB1491336	hard of hearing	hard of hearing	1	Adjective	having difficulty hearing	1	y
+DIB1497219	when	when	2	Adverb	at what time, as an indirect question	1	y
+DIB1498456	Atlantic Ocean	Atlantic Ocean	1	Proper noun	the ocean lying between the Americas to the west and Europe and Africa to the east	1	y
+DIB1520326	teacher	teacher/translations	1	Noun	person who teaches	1	y
+DIB1523547	mineral water	mineral water	1	Noun	water containing dissolved minerals	1	y
+DIB1526587	strive	strive	1	Verb	to sincerely try to achieve, to make one's best effort	1	y
+DIB1532121	use	use	4	Verb	employ, apply	1	y
+DIB1532121	use	use	5	Verb	to exhaust the supply of, to consume	1	y
+DIB1534934	man	man/translations	1	Noun	adult male human	1	y
+DIB1542841	cough medicine	cough medicine	1	Noun	medication or medicine used to treat those people with coughing and related conditions	1	y
+DIB1544651	shell	shell	27	Noun	by extension, any mollusks having such a covering	1	y
+DIB1553852	possibly	possibly	1	Adverb	adverb indicating that a proposition may be true or false	1	y
+DIB1553852	possibly	possibly	2	Adverb	adverb indicating that an action may successfully be performed	1	y
+DIB1554893	do the dishes	do the dishes	1	Verb	to wash up dishes	1	y
+DIB1562031	board	board	14	Verb	to step or climb onto	1	y
+DIB1562956	set down	set down	1	Verb	to place on a surface	1	y
+DIB1564831	stepmother	stepmother	1	Noun	wife of one's biological father, not one's biological mother	1	y
+DIB1565139	eighty	eighty	1	Numeral	80	1	y
+DIB1565516	notice	notice	8	Verb	to become aware of	1	y
+DIB1567919	consider	consider	1	Verb	think about seriously	1	y
+DIB1573020	put on	put on	1	Verb	to don	1	y
+DIB1574177	warm	warm	1	Adjective	having a temperature slightly higher than usual	1	y
+DIB1576666	dizzy	dizzy	1	Adjective	experiencing a sensation of whirling and being unbalanced	1	y
+DIB1579654	whether	whether	1	Conjunction	introducing indirect questions	1	y
+DIB1589409	loser	loser	1	Noun	person who fails to win	1	y
+DIB1589978	lecture	lecture	1	Noun	a spoken lesson	1	y
+DIB1606190	cancel	cancel	2	Verb	invalidate, annul	1	y
+DIB1607171	elsewhere	elsewhere	1	Adverb	in some other place	1	y
+DIB1607514	New Year's Eve	New Year's Eve	1	Proper noun	holiday on the last day of the year	1	y
+DIB1607709	pedagogy	pedagogy	1	Noun	profession of teaching	1	y
+DIB1610710	apologize	apologize	3	Verb	to make an apology or excuse	1	y
+DIB1617320	excessively	excessively	1	Adverb	to an excessive degree	1	y
+DIB1617320	excessively	excessively	2	Adverb	in excess	1	y
+DIB1625541	spa	spa	1	Noun	health resort near a mineral spring or hot spring	1	y
+DIB1625949	ticket	ticket	1	Noun	admission to entertainment	1	y
+DIB1625949	ticket	ticket	2	Noun	pass for transportation	1	y
+DIB1633811	chemist	chemist	1	Noun	person working in chemistry	1	y
+DIB1647907	oven	oven	1	Noun	chamber used for baking or heating	1	y
+DIB1651485	by	by	1	Preposition	near, or next to	1	y
+DIB1653189	dance	dance	6	Verb	move rhythmically to music	1	y
+DIB1656640	diminish	diminish	1	Verb	To make smaller	1	y
+DIB1657649	injure	injure	1	Verb	to wound or cause physical harm	1	y
+DIB1659463	east	east	1	Noun	compass point	1	y
+DIB1659998	early	early	1	Adjective	at a time in advance of the usual	1	y
+DIB1665624	whose	whose	1	Determiner	of whom (interrogative)	1	y
+DIB1665712	dress up	dress up	2	Verb	to put on a costume portraying oneself as a particular character or figure	1	y
+DIB1666248	political science	political science	1	Noun	study of politics	1	y
+DIB1666475	telephone number	telephone number	1	Noun	digits assigned to a telephone	1	y
+DIB1668721	fire	fire	4	Verb	to terminate the employment of	1	y
+DIB1670103	I'm twenty years old	I'm twenty years old	1	Phrase	I am twenty years old	1	yp
+DIB1671822	complete	complete	2	Verb	to make whole or entire	1	y
+DIB1689594	alone	alone	3	Adverb	without company	1	y
+DIB1705572	desperation	desperation	1	Noun	the act of despairing or becoming desperate; a giving up of hope	1	y
+DIB1706279	fireproof	fireproof	1	Adjective	resistant to damage from fire	1	y
+DIB1711921	certainly	certainly	2	Adverb	without doubt, surely	1	y
+DIB1721328	mature	mature	1	Adjective	fully developed	1	y
+DIB1723883	greasy	greasy	2	Adjective	Containing a lot of [[grease]] or fat	1	y
+DIB1724065	cool	cool	1	Adjective	having a slightly low temperature	1	y
+DIB1726447	unfit	unfit	1	Adjective	not fit; not having the correct requirements	1	y
+DIB1727187	near	near	1	Adjective	physically close	1	y
+DIB1727187	near	near	12	Preposition	in close proximity to	1	y
+DIB1728817	intelligence	intelligence	1	Noun	capacity of mind	1	y
+DIB1732960	bell pepper	bell pepper	1	Noun	spicy-sweet fruit	1	y
+DIB1733789	write	write	1	Verb	to form letters, etc.	1	y
+DIB1739266	cold cuts	cold cuts	1	Noun	meat	1	y
+DIB1746065	sour	sour	1	Adjective	having an acidic, sharp or tangy taste	1	y
+DIB1749209	find	find	1	Verb	encounter, locate, discover	1	yp
+DIB1750383	nothing	nothing	1	Pronoun	not any thing	1	y
+DIB1751877	trust	trust	9	Verb	to give credence to	1	y
+DIB1771092	become	become	1	Verb	to begin to be	1	y
+DIB1772189	cost	cost	1	Verb	to incur a charge, a price	1	y
+DIB1782622	lie	lie	6	Verb	tell an intentional untruth	1	y
+DIB1785693	countryside	countryside	1	Noun	area outside of towns and cities, or such part of a larger area	1	y
+DIB1786833	itself	itself	1	Pronoun	(reflexive) it	1	yp
+DIB1795689	godfather	godfather	1	Noun	man present at the christening of a baby who promises to help raise the child in a Christian manner	1	y
+DIB1796703	strange	strange	2	Adjective	not yet part of one’s experience	1	y
+DIB1803916	take one's leave	take one's leave	1	Verb	say goodbye	1	y
+DIB1805804	neither … nor	neither … nor	1	Conjunction	used for showing that something is not true of two or more people, things, actions, qualities, or ideas	1	y
+DIB1821330	swimsuit	swimsuit	1	Noun	garment worn for swimming	1	y
+DIB1821946	philosophy	philosophy	1	Noun	academic discipline	1	y
+DIB1831167	somewhere	somewhere	1	Adverb	in some place	1	y
+DIB1833851	separation	separation	1	Noun	act of disuniting two or more things	1	y
+DIB1838821	baked good	baked good	1	Noun	baked item with flour as main ingredient	1	plural
+DIB1841909	course	course	5	Noun	education: learning program	1	y
+DIB1842927	VIP	VIP	1	Noun	abbreviation: very important person	1	y
+DIB1846476	castle	castle	1	Noun	fortified building	1	y
+DIB1846921	interesting	interesting	1	Adjective	arousing or holding the attention	1	y
+DIB1855487	and	and/translations	1	Conjunction	used to connect two similar words, phrases, et cetera	1	y
+DIB1860569	differentiate	differentiate	2	Verb	to perceive the difference	1	yp
+DIB1860605	vegetable	vegetable/translations	1	Noun	a plant raised for some edible part of it	1	y
+DIB1861718	rather	rather	4	Adverb	somewhat, fairly	1	y
+DIB1869813	look	look	2	Verb	to appear, to seem	1	y
+DIB1875647	roam	roam	1	Verb	wander freely	1	y
+DIB1876511	step	step	17	Verb	intransitive: to move the foot in walking	1	y
+DIB1882834	address	address	5	Noun	description of the location of a property; direction for correspondence	1	y
+DIB1896419	security	security	1	Noun	condition of not being threatened	1	y
+DIB1899340	supper	supper	4	Verb	to eat dinner	1	y
+DIB1904942	stop	stop	11	Noun	place to get on and off mass transport	1	y
+DIB1907865	enjoy oneself	enjoy oneself	1	Verb	take pleasure	1	y
+DIB1908448	unconscious	unconscious	1	Adjective	not awake	1	y
+DIB1910369	thousand	thousand	1	Numeral	cardinal number 1000	1	y
+DIB1911206	leek	leek	1	Noun	vegetable	1	y
+DIB1911315	stand	stand	1	Verb	to support oneself on the feet in an erect position	1	y
+DIB1912527	electricity	electricity	1	Noun	form of energy	1	y
+DIB1913643	finally	finally	1	Adverb	at the end	1	y
+DIB1913643	finally	finally	2	Adverb	at last	1	y
+DIB1916165	than	than	1	Preposition	Introduces a comparison	1	y
+DIB1916480	garlic	garlic	1	Noun	plant	1	y
+DIB1925614	consciousness	consciousness	1	Noun	awareness	1	y
+DIB1926902	weather report	weather report	1	Noun	description of forecasted meteorological conditions	1	y
+DIB1941489	recycling	recycling	1	Noun	the practice of sorting and collecting waste materials for new use	1	y
+DIB1943585	bazaar	bazaar	1	Noun	marketplace	1	y
+DIB1955718	sibling	sibling	1	Noun	person who shares same parents	1	yp
+DIB1958069	potato crisp	potato crisp	1	Noun	thin deep-fried slice of potato	1	plural
+DIB1959780	businesswoman	businesswoman	1	Noun	woman of business	1	y
+DIB1971097	horror movie	horror movie	1	Noun	motion picture which horrifies or frightens	1	y
+DIB1975538	above	above	2	Preposition	in or to a higher place	1	y
+DIB1990379	request	request	2	Verb	to ask somebody to do something	1	y
+DIB1999696	their	their	1	Determiner	belonging to them (plural)	1	y
+DIB2001276	on foot	on foot	1	Prepositional phrase	walking, jogging, running	1	y
+DIB2003661	knuckle	knuckle	1	Noun	joint of the finger	1	y
+DIB2019594	each	each	1	Determiner	every	1	y
+DIB2026981	blanket	blanket	1	Noun	fabric	1	y
+DIB2029082	relax	relax	4	Verb	(''intransitive'') to rest and become relieved of stress	1	y
+DIB2030379	refreshing	refreshing	1	Adjective	refreshing	1	y
+DIB2030647	military service	military service	1	Noun	service in an army	1	y
+DIB2032876	tight	tight	4	Adjective	fitting close, or too close, to the body	1	y
+DIB2034755	orange	orange	4	Adjective	having the colour of the fruit of an orange tree	1	y
+DIB2036812	watch	watch	8	Verb	to look at for a period of time	1	yp
+DIB2039210	democratize	democratize	1	Verb	to make democratic	1	y
+DIB2044046	dangerous	dangerous	1	Adjective	full of danger	1	y
+DIB2045861	more and more	more and more	1	Adverb	progressively more	1	y
+DIB2045861	more and more	more and more	2	Adverb	in a manner that progressively increases	1	y
+DIB2049983	year	year/translations	1	Noun	time it takes for the Earth to complete one revolution around the Sun	1	y
+DIB2054608	boring	boring	3	Adjective	causing boredom or tiredness	1	y
+DIB2055488	because	because	1	Conjunction	by or for the cause that; on this account that; for the reason that	1	y
+DIB2059415	subject	subject	7	Noun	particular area of study	1	y
+DIB2062951	fool	fool	1	Noun	person with poor judgement or little intelligence	1	yp
+DIB2063710	curriculum vitae	curriculum vitae	1	Noun	written account of one's education, accomplishments, etc.	1	y
+DIB2068405	pick out	pick out	2	Verb	to select	1	y
+DIB2070692	basketball	basketball	1	Noun	the sport	1	y
+DIB2074584	write	write	3	Verb	to be the author of	1	yp
+DIB2079815	translator	translator	1	Noun	someone or something that translates meaning from one language to another	1	y
+DIB2098675	salt	salt/translations	1	Noun	sodium chloride	1	y
+DIB2104396	pasta	pasta	1	Noun	dough	1	y
+DIB2112400	crisis	crisis	2	Noun	unstable situation in political, social, economic or military affairs	1	y
+DIB2113526	disaster	disaster	1	Noun	unexpected catastrophe causing physical damage, etc.	1	y
+DIB2114489	single mother	single mother	1	Noun	a woman raising a child on her own	1	y
+DIB2120306	meet	meet	2	Verb	to come face to face with someone by arrangement	1	y
+DIB2127915	uncle	uncle	1	Noun	brother (or brother-in-law) of someone’s parent	1	y
+DIB2136507	unfortunately	unfortunately	1	Adverb	happening through bad luck	1	y
+DIB2138665	run off	run off	1	Verb	to leave or depart quickly	1	y
+DIB2138913	sober	sober	1	Adjective	not drunk	1	y
+DIB2143378	errand	errand	1	Noun	trip to accomplish a small task	1	y
+DIB2143772	future	future	1	Noun	the time ahead	1	y
+DIB2144260	or	or	1	Conjunction	conjunction	1	y
+DIB2148105	weekdays	weekdays	1	Adverb	On weekdays	1	y
+DIB2148599	play	play	6	Verb	use a device to watch or listen to the indicated recording	1	y
+DIB2149732	CD	CD	1	Noun	abbreviation of compact disc	1	y
+DIB2150033	end	end	1	Noun	extreme part	1	y
+DIB2151783	worksheet	worksheet	1	Noun	sheet on which problems are worked out	1	y
+DIB2157268	May	May	1	Proper noun	fifth month of the Gregorian calendar	1	y
+DIB2158182	refuse	refuse	2	Verb	''(transitive)'' decline (request, demand)	1	y
+DIB2158182	refuse	refuse	3	Verb	''(intransitive)'' decline a request or demand	1	y
+DIB2160506	Christmas	Christmas	1	Proper noun	festival or holiday commemorating the birth of Jesus Christ which in Western Christianity is celebrated on December 25 in most places	1	y
+DIB2160719	separate	separate	2	Verb	to disunite, disconnect	1	y
+DIB2160839	apricot	apricot	1	Noun	fruit	1	y
+DIB2162230	merry Christmas	merry Christmas	1	Phrase	good wishes at Christmas time	1	y
+DIB2166702	policy	policy	1	Noun	principle of conduct	1	y
+DIB2169918	tennis	tennis	1	Noun	sport played by two or four players with strung racquets	1	y
+DIB2169968	pay attention	pay attention	1	Verb	to be attentive	1	y
+DIB2179864	homework	homework	1	Noun	work that is done at home	1	y
+DIB2186387	straight	straight	7	Adjective	heterosexual	1	y
+DIB2202617	be about	be about	1	Verb	to have (something) as a primary focus	1	y
+DIB2215846	painful	painful	1	Adjective	causing pain	1	y
+DIB2223514	modern history	modern history	1	Noun	history of the world beginning after the Middle Ages	1	y
+DIB2225186	thunder	thunder	1	Noun	sound caused by lightning	1	y
+DIB2231347	fairy tale	fairy tale	1	Noun	folktale	1	y
+DIB2241974	belief	belief	2	Noun	something believed	1	y
+DIB2245028	casual	casual	1	Adjective	happening by chance	1	y
+DIB2245876	furnish	furnish	1	Verb	to provide with furniture or other equipment	1	y
+DIB2263541	between	between	1	Preposition	in the position or interval that separates two things	1	y
+DIB2272104	win	win	6	Noun	individual victory	1	y
+DIB2280018	stapler	stapler	1	Noun	device which binds together paper	1	y
+DIB2282207	wait	wait	1	Verb	delay until some event	1	y
+DIB2286270	before	before	11	Conjunction	in advance of the time when	1	y
+DIB2290603	mean	mean	12	Adjective	low-minded; acting without consideration of others	1	y
+DIB2295085	ride	ride	1	Verb	to transport oneself by sitting on and directing a horse, bicycle etc.	1	yp
+DIB2296150	neat	neat	7	Adjective	colloquial: good, excellent, desirable	1	y
+DIB2303202	coffee	coffee/translations	1	Noun	beverage	1	y
+DIB2306465	use	use	4	Verb	employ, apply	1	y
+DIB2306465	use	use	5	Verb	to exhaust the supply of, to consume	1	y
+DIB2308677	remember	remember	1	Verb	to recall from one's memory	1	y
+DIB2315719	secret	secret	1	Noun	knowledge that is hidden	1	y
+DIB2317070	physics	physics	1	Noun	branch of science	1	y
+DIB2319096	accidentally	accidentally	1	Adverb	happening by chance, not necessarily a lucky one	1	y
+DIB2319096	accidentally	accidentally	2	Adverb	unexpectedly	1	y
+DIB2320206	bedding	bedding	1	Noun	bedlinen	1	y
+DIB2322878	shampoo	shampoo	2	Noun	product for washing the hair or other fibres	1	y
+DIB2323709	hint	hint	6	Verb	express suggestively	1	y
+DIB2327086	food	food	1	Noun	any substance consumed by living organisms to sustain life	1	y
+DIB2333966	sound	sound	9	Verb	to convey an impression by one's sound	1	y
+DIB2337999	who	who	1	Pronoun	who? (interrogative pronoun)	1	y
+DIB2340646	nevertheless	nevertheless	1	Adverb	in spite of what preceded	1	y
+DIB2345655	spice	spice	1	Noun	plant matter used to season or flavour food	1	y
+DIB2346135	due	due	3	Adjective	of an event, scheduled, expected	1	yp
+DIB2349271	argue	argue	3	Verb	to have an argument, a quarrel	1	y
+DIB2354573	number	number	1	Noun	abstract entity used to describe quantity	1	y
+DIB2354573	number	number	3	Noun	mathematics: number	1	y
+DIB2361419	supporter	supporter	1	Noun	person who supports, an adherent	1	y
+DIB2371881	try	try	1	Verb	to attempt	1	y
+DIB2372953	in spite of	in spite of	1	Preposition	despite	1	y
+DIB2374379	participate	participate	1	Verb	to join in, to take part, to involve oneself	1	y
+DIB2378859	ATM	ATM	1	Noun	(banking) automated teller machine	1	y
+DIB2382035	thing	thing	1	Noun	that which is considered to exist as a separate entity, object, quality or concept	1	plural
+DIB2382956	cousin	cousin	3	Noun	child of a person’s parent’s brother or sister	1	y
+DIB2403665	potato	potato	1	Noun	plant tuber eaten as starchy vegetable	1	y
+DIB2404804	keyboard	keyboard	1	Noun	set of keys used to operate a typewriter, computer etc.	1	y
+DIB2404932	regularly	regularly	2	Adverb	normally, ordinarily	1	y
+DIB2405565	marry	marry	3	Verb	to take for husband or wife	1	y
+DIB2407963	hardworking	hardworking	1	Adjective	taking their work seriously and doing it well and rapidly	1	y
+DIB2409739	fever	fever	1	Noun	higher than normal body temperature	1	y
+DIB2413033	long	long/translations	2	Adjective	having great duration	1	y
+DIB2413301	hate	hate	2	Verb	to dislike intensely	1	y
+DIB2416790	souvenir	souvenir	1	Noun	item of sentimental value	1	y
+DIB2425130	ask	ask	1	Verb	request an answer	1	y
+DIB2428159	unusual	unusual	1	Adjective	not usual	1	y
+DIB2428393	nurse	nurse	1	Noun	person trained to provide care for the sick	1	y
+DIB2432907	kill	kill	1	Verb	to put to death	1	y
+DIB2448297	run	run/translations	1	Verb	to move quickly on two feet	1	y
+DIB2451691	follow	follow	1	Verb	to go or come after in physical space	1	y
+DIB2455009	computer	computer	1	Noun	programmable electronic device	1	y
+DIB2460232	lesson	lesson	1	Noun	section of learning or teaching	1	y
+DIB2460643	ozone	ozone	1	Noun	O<sub>3</sub>	1	y
+DIB2463232	diplomat	diplomat	1	Noun	person who is accredited to represent a government	1	y
+DIB2466024	scarf	scarf	1	Noun	long garment worn around the neck	1	y
+DIB2467328	Turkey	Turkey	1	Proper noun	id=Q43	1	y
+DIB2468019	now	now	2	Adverb	at the present time	1	y
+DIB2471839	resident	resident	1	Noun	person living at a location or an area	1	y
+DIB2475018	depend	depend	1	Verb	be contingent or conditioned	1	y
+DIB2484221	hitchhike	hitchhike	1	Verb	to try to get a ride in a passing vehicle while standing at the side of a road	1	y
+DIB2490745	immature	immature	2	Adjective	childish	1	y
+DIB2491652	exhibition	exhibition	2	Noun	large scale public showing of objects or products	1	y
+DIB2497409	tell	tell	1	Verb	to pass information	1	y
+DIB2499149	against	against	7	Preposition	in opposition to	1	y
+DIB2518797	sofa	sofa	1	Noun	upholstered seat	1	y
+DIB2525521	drunk	drunk	1	Adjective	intoxicated after drinking too much alcohol	1	y
+DIB2529967	work	work/translations	11	Verb	intransitive: to do a specific task	1	y
+DIB2530709	cough	cough	6	Noun	sudden, often involuntary expulsion of air from the lungs through the glottis, and out through the mouth	1	y
+DIB2533982	accrue	accrue	1	Verb	increase	1	y
+DIB2537042	great	great	2	Adjective	very good	1	y
+DIB2538812	call	call	5	Verb	to name or refer to	1	y
+DIB2542672	answer	answer	5	Verb	to make a reply or response to	1	y
+DIB2544969	lose	lose	1	Verb	cease to have in one's possession or capability	1	y
+DIB2550197	suitcase	suitcase	1	Noun	large piece of luggage	1	y
+DIB2551354	hope	hope	2	Noun	belief that something wished for can happen	1	y
+DIB2554759	youth hostel	youth hostel	1	Noun	an inexpensive supervised lodging place, primarily for young people	1	y
+DIB2555806	geography	geography	1	Noun	study of physical structure and inhabitants of the Earth	1	y
+DIB2557443	health resort	health resort	1	Noun	resort providing services designed to improve people's health	1	y
+DIB2558671	do	do/translations	5	Verb	perform, execute	1	y
+DIB2561950	bruise	bruise	5	Noun	medical: mark on the skin	1	y
+DIB2563005	happy	happy	1	Adjective	contented, joyous	1	y
+DIB2564773	engage	engage	1	Verb	to engross or hold the attention of someone	1	y
+DIB2566322	comb	comb	1	Noun	toothed implement for grooming the hair	1	y
+DIB2570277	photo album	photo album	1	Noun	book for mounting photographs	1	y
+DIB2575323	cholesterol	cholesterol	1	Noun	an essential component of mammalian cell membranes	1	y
+DIB2581505	currant	currant	2	Noun	fruit of the genus ''Ribes''	1	y
+DIB2581669	intolerable	intolerable	1	Adjective	not tolerable	1	y
+DIB2583714	follow suit	follow suit	2	Verb	follow an example	1	y
+DIB2586155	king	king/translations	1	Noun	a male of a royal family who is the supreme ruler of his nation	1	y
+DIB2587414	spread	spread	15	Noun	food designed to be spread	1	y
+DIB2591476	humour	humour	1	Noun	wit	1	y
+DIB2593600	tree	tree	1	Noun	large woody plant	1	y
+DIB2602349	Caribbean	Caribbean	4	Proper noun	continental region centered on the Caribbean Sea	1	y
+DIB2607922	overcoat	overcoat	1	Noun	garment	1	y
+DIB2608803	suffer	suffer	1	Verb	undergo hardship	1	y
+DIB2609547	what	what	6	Pronoun	what? (interrogative pronoun)	1	y
+DIB2616470	soap	soap	1	Noun	substance	1	y
+DIB2618247	ship	ship	1	Noun	large water craft	1	y
+DIB2623797	glance	glance	2	Verb	to look briefly at (something)	1	y
+DIB2634175	involve	involve	2	Verb	to cause or engage (someone or something) to become connected or implicated, or to participate, in some activity or situation	1	yp
+DIB2646578	winter	winter	1	Noun	fourth season, marked by short days and the lowest temperatures	1	y
+DIB2647134	nonalcoholic	nonalcoholic	1	Adjective	containing at most trace amounts of alcohol	1	y
+DIB2650376	them	them	1	Pronoun	third personal plural pronoun used after a preposition or as the object of a verb	1	yp
+DIB2653544	flash drive	flash drive	1	Noun	storage device	1	y
+DIB2658201	bring	bring	1	Verb	to transport toward somebody/somewhere	1	y
+DIB2659813	inside	inside	11	Adverb	within the interior	1	y
+DIB2659813	inside	inside	14	Preposition	within the interior of something, closest to the center or to a specific point of reference	1	y
+DIB2660362	regulation	regulation	2	Noun	law or administrative rule	1	y
+DIB2669726	be able to	be able to	1	Verb	have ability to	1	y
+DIB2669741	bake	bake	1	Verb	to cook in an oven	1	y
+DIB2673039	hopefully	hopefully	2	Adverb	it is hoped that	1	y
+DIB2674570	tram	tram	1	Noun	passenger vehicle	1	y
+DIB2677106	get lost	get lost	2	Verb	lose one's way	1	y
+DIB2679788	golf ball	golf ball	1	Noun	small ball used in golf	1	y
+DIB2683100	black eye	black eye	1	Noun	bruised eye	1	y
+DIB2689053	your	your	1	Determiner	belonging to you (singular; one owner)	1	y
+DIB2691317	taboo	taboo	1	Noun	inhibition or ban	1	y
+DIB2695978	clever	clever	4	Adjective	mentally quick or sharp	1	y
+DIB2697601	indoors	indoors	1	Adverb	in or into a building	1	y
+DIB2714133	bring back	bring back	1	Verb	to fetch something	1	y
+DIB2717149	billiards	billiards	1	Noun	any cue sport	1	y
+DIB2717411	invent	invent	1	Verb	design a new process or mechanism	1	y
+DIB2732375	broccoli	broccoli	1	Noun	plant ''Brassica oleracea'' var. ''italica''	1	y
+DIB2752989	neck	neck	1	Noun	part of body connecting the head and the trunk	1	y
+DIB2755260	upload	upload	1	Verb	to transfer data	1	y
+DIB2773551	band-aid	band-aid	1	Noun	adhesive bandage	1	y
+DIB2774680	fit	fit	3	Adjective	in good shape	1	yp
+DIB2789005	nowhere	nowhere	1	Adverb	in no place	1	y
+DIB2800534	pillow	pillow	1	Noun	soft cushion used to support the head in bed	1	y
+DIB2814866	definite	definite	2	Adjective	free from any doubt	1	y
+DIB2819288	high school	high school	1	Noun	secondary school	1	y
+DIB2821354	eat	eat	1	Verb	to ingest	1	y
+DIB2821555	call	call	1	Verb	to request, summon, or beckon	1	y
+DIB2826127	shoe shop	shoe shop	1	Noun	a shop that sells footwear and related items	1	y
+DIB2827238	much	much	3	Adverb	(with a comparative adjective) ''for emphasis''	1	y
+DIB2827956	can	can	1	Verb	to be able to; to know how to	1	yp
+DIB2830784	they	they	1	Pronoun	third-person plural pronoun	1	y
+DIB2836293	quarter	quarter	1	Noun	one of four equal parts	1	y
+DIB2837189	cold	cold	1	Adjective	having a low temperature	1	y
+DIB2846091	with	with	3	Preposition	in the company of	1	y
+DIB2849370	smash	smash	5	Verb	to break violently	1	y
+DIB2852993	where	where	1	Adverb	at what place; to what place; from what place	1	y
+DIB2854630	lung	lung	1	Noun	organ that extracts oxygen from the air	1	y
+DIB2875127	prevent	prevent	1	Verb	to keep from happening	1	y
+DIB2877080	how do I get to the bus station	how do I get to the bus station	1	Phrase	how do I get to the bus station?	1	yp
+DIB2883592	engaged	engaged	1	Adjective	agreed to be married	1	yp
+DIB2887729	February	February	1	Proper noun	second month of the Roman, Julian, and Gregorian calendars	1	y
+DIB2888606	stubborn	stubborn	1	Adjective	refusing to move or change one's opinion	1	y
+DIB2897153	history	history	1	Noun	aggregate of past events	1	y
+DIB2901599	themselves	themselves	1	Pronoun	the reflexive case of they, the third-person plural personal pronoun	1	yp
+DIB2902470	therefore	therefore	1	Adverb	consequently; by consequence	1	y
+DIB2904819	horde	horde	1	Noun	wandering troop or gang	1	y
+DIB2906536	restaurant	restaurant	1	Noun	an eating establishment in which diners are served food	1	y
+DIB2909734	neighbour	neighbour	1	Noun	a person living on adjacent or nearby land	1	y
+DIB2924251	Sunday	Sunday	1	Noun	day of the week	1	y
+DIB2943743	family	family	1	Noun	immediate family [as a group], e.g. parents and their children	1	y
+DIB2949705	lie down	lie down	1	Verb	assume a horizontal position	1	y
+DIB2949757	dermatologist	dermatologist	1	Noun	one who is skilled, professes or practices dermatology	1	y
+DIB2949814	hobby	hobby	1	Noun	activity done for enjoyment in spare time	1	y
+DIB2955271	Good Friday	Good Friday	1	Noun	The Friday before Easter Sunday, the commemoration of the day on which Christ was crucified	1	y
+DIB2956778	remove	remove	1	Verb	to take away	1	y
+DIB2957067	plum	plum	1	Noun	fruit of ''Prunus domestica''	1	y
+DIB2963119	World War II	World War II	1	Proper noun	war from 1939 to 1945	1	y
+DIB2971978	good evening	good evening	1	Interjection	greeting said in the evening	1	y
+DIB2973669	I'm fine	I'm fine	1	Phrase	response	1	y
+DIB2974039	lettuce	lettuce	1	Noun	an edible plant, ''Lactuca''	1	y
+DIB2975521	bread	bread	1	Noun	baked dough made from cereals	1	y
+DIB2977387	X-ray	X-ray	2	Noun	photograph made with X-rays	1	y
+DIB2978964	really	really	1	Adverb	actually	1	y
+DIB2978964	really	really	5	Interjection	indicating affirmation, agreement	1	y
+DIB2979538	as if	as if	1	Conjunction	as though	1	y
+DIB2979573	sail	sail	8	Verb	to ride in a boat, especially sailboat	1	y
+DIB2980202	passport	passport	1	Noun	official document for foreign travel	1	y
+DIB2983115	easy	easy	1	Adjective	requiring little skill or effort	1	y
+DIB2985105	bass	bass	5	Noun	musical instrument	1	y
+DIB2986461	one by one	one by one	1	Adverb	individually	1	y
+DIB2987135	recognize	recognize	1	Verb	to match in memory; to know from a previous encounter	1	y
+DIB2987811	gas station	gas station	1	Noun	an establishment which sells gasoline to pump directly into a car	1	y
+DIB2988888	whom	whom	1	Pronoun	what person; object of a verb (accusative)	1	y
+DIB2990205	leave	leave	1	Verb	to cause to remain as available, not take away, refrain from depleting	1	y
+DIB3000272	believe	believe	1	Verb	to accept that someone is telling the truth (object: person)	1	y
+DIB3006401	injure	injure	1	Verb	to wound or cause physical harm	1	yp
+DIB3006909	spell	spell	4	Verb	to write or say the letters that form a word	1	y
+DIB3011235	occupy oneself	occupy oneself	1	Verb	keep busy by doing something	1	y
+DIB3016530	himself	himself	1	Pronoun	(reflexive) male person as the previously mentioned object	1	yp
+DIB3017856	cycle	cycle	17	Verb	to ride a cycle	1	y
+DIB3019342	charming	charming	1	Adjective	pleasant, charismatic	1	y
+DIB3021001	attitude	attitude	2	Noun	disposition or state of mind	1	y
+DIB3026439	sustainable	sustainable	2	Adjective	able to be sustained: environmental term	1	y
+DIB3043142	festival	festival	1	Noun	event or community gathering	1	y
+DIB3044182	husband	husband	1	Noun	male partner in marriage	1	y
+DIB3045403	niece	niece	1	Noun	fraternal or sororal niece	1	y
+DIB3051914	April	April	1	Proper noun	fourth month of the Gregorian calendar	1	y
+DIB3057166	Canada	Canada	1	Proper noun	id=Q16	1	y
+DIB3059446	need	need	3	Verb	to have an absolute requirement for	1	y
+DIB3061996	draw	draw	1	Verb	to produce a picture	1	y
+DIB3064506	your	your	1	Determiner	belonging to you (singular; one owner)	1	y
+DIB3064506	your	your	2	Determiner	belonging to you (plural; more owners)	1	y
+DIB3070971	stroll	stroll	2	Verb	wander on foot	1	y
+DIB3071828	death	death	1	Noun	cessation of life	1	y
+DIB3072730	lecture theatre	lecture theatre	1	Noun	room in a university with many seats and a sloped floor	1	y
+DIB3074346	family tree	family tree	1	Noun	family tree	1	y
+DIB3075198	me	me/translations	1	Pronoun	direct object of a verb	1	y
+DIB3083947	fit	fit	8	Verb	to conform to in size and shape	1	y
+DIB3090846	death penalty	death penalty	1	Noun	state punishment of death	1	y
+DIB3112132	herself	herself	1	Pronoun	(reflexive object) her	1	yp
+DIB3124391	fabulously	fabulously	1	Adverb	in a fabulous manner	1	y
+DIB3128110	faucet	faucet	1	Noun	an exposed plumbing fitting; a tap or spigot; a regulator for controlling the flow of a liquid from a reservoir	1	y
+DIB3140402	nice	nice	1	Adjective	pleasant, satisfactory	1	y
+DIB3145084	bottle opener	bottle opener	1	Noun	device to open bottles removing the cap	1	y
+DIB3147607	black ice	black ice	1	Noun	invisible film of ice	1	y
+DIB3148753	Labor Day	Labor Day	1	Noun	US holiday marking the end of summer	1	y
+DIB3155092	confident	confident	1	Adjective	being very sure of or positive about something	1	y
+DIB3159519	honest	honest	1	Adjective	scrupulous with regard to telling the truth	1	y
+DIB3167374	public	public	4	Adjective	pertaining to people as a whole, as opposed to a group of people	1	y
+DIB3176613	can opener	can opener	1	Noun	device used to open tin cans	1	y
+DIB3202818	two	two	1	Numeral	cardinal number 2	1	y
+DIB3204520	together	together	1	Adverb	at the same time, in the same place	1	y
+DIB3210965	account for	account for	1	Verb	to explain by relating circumstances	1	y
+DIB3211238	mouth	mouth	1	Noun	the opening of a creature through which food is ingested	1	y
+DIB3212229	slim	slim	1	Adjective	slender	1	y
+DIB3212498	want	want	1	Verb	to desire	1	y
+DIB3226506	honesty	honesty	1	Noun	quality of being honest	1	y
+DIB3230539	plan	plan	7	Verb	to intend	1	y
+DIB3232312	people	people	1	Noun	a body of human beings; a group of two or more persons	1	y
+DIB3239301	stink	stink	1	Verb	have a strong bad smell	1	y
+DIB3241917	cap	cap	1	Noun	head covering	1	y
+DIB3249347	fourteen	fourteen	1	Numeral	cardinal number	1	y
+DIB3257079	shop	shop	1	Noun	establishment that sells goods	1	y
+DIB3259223	champagne	champagne	2	Noun	any sparkling white wine	1	y
+DIB3262945	healthy	healthy	1	Adjective	enjoying good health	1	y
+DIB3271861	greeting	greeting	1	Noun	acknowledgement of a persons presence or arrival	1	y
+DIB3274573	would like	would like	1	Verb	to want; to desire	1	y
+DIB3278695	settle in	settle in	1	Verb	to become established	1	y
+DIB3279431	cultural anthropology	cultural anthropology	1	Noun	field of anthropology	1	y
+DIB3281026	nail polish	nail polish	1	Noun	cosmetic lacquer	1	y
+DIB3281753	left	left	4	Adverb	towards the left side	1	y
+DIB3284724	where	where	1	Adverb	at what place; to what place; from what place	1	yp
+DIB3286713	marriage	marriage	1	Noun	state of being married	1	y
+DIB3291288	doubt	doubt	1	Verb	to lack confidence in	1	y
+DIB3292224	weird	weird	1	Adjective	having an unusually strange character or behaviour	1	y
+DIB3293836	tea	tea/translations	2	Noun	drink made from leaves of tea plant	1	y
+DIB3299327	fight	fight	5	Verb	(transitive) to contend in physical conflict against	1	y
+DIB3308178	like	like	1	Verb	to enjoy	1	y
+DIB3309229	Carnival	Carnival	1			1	y
+DIB3314304	conceited	conceited	1	Adjective	vain and egotistic	1	y
+DIB3315569	fruit	fruit	1	Noun	part of plant	1	y
+DIB3317867	night	night	1	Noun	period between sunset and sunrise	1	y
+DIB3326244	sad	sad	2	Adjective	feeling sorrow	1	y
+DIB3330526	tag along	tag along	1	Verb	To accompany, join, or follow; to go with	1	y
+DIB3331291	apply	apply	6	Verb	to submit oneself as a candidate	1	y
+DIB3333503	stop	stop	2	Verb	not to continue	1	y
+DIB3339759	spend	spend	3	Verb	to consume, to use up (time)	1	y
+DIB3343021	abort	abort	7	Verb	to cause a premature termination	1	y
+DIB3346520	repeatedly	repeatedly	1	Adverb	done several times	1	y
+DIB3354844	design	design	7	Verb	to plan an artwork etc.	1	y
+DIB3356504	forty	forty	1	Numeral	the cardinal number occurring after thirty-nine	1	y
+DIB3371496	get	get	16	Verb	colloquial: to understand	1	y
+DIB3375355	choice	choice	1	Noun	option or decision	1	y
+DIB3377504	yellow	yellow	2	Adjective	having yellow as its color	1	y
+DIB3378778	yourselves	yourselves	1	Pronoun	you (referring to the people being spoken to, previously mentioned)	1	yp
+DIB3380384	German Democratic Republic	German Democratic Republic	1	Proper noun	id=Q16957	1	y
+DIB3386670	zero	zero	1	Numeral	cardinal number before 1, denoting nothing	1	y
+DIB3390537	young	young/translations	1	Adjective	in the early part of life or growth	1	y
+DIB3393657	sweaty	sweaty	1	Adjective	covered in sweat	1	y
+DIB3395043	ride	ride	2	Verb	to be transported in a vehicle as a passenger	1	y
+DIB3395919	close	close	4	Verb	obstruct (an opening)	1	y
+DIB3397194	island	island	1	Noun	area of land completely surrounded by water	1	y
+DIB3398877	boyfriend	boyfriend	1	Noun	male partner in a romantic relationship	1	y
+DIB3401337	close	close	4	Verb	obstruct (an opening)	1	y
+DIB3410622	English studies	English studies	1	Noun	academic discipline	1	y
+DIB3412078	Monday	Monday	1	Noun	day of the week	1	y
+DIB3413444	because of	because of	1	Preposition	on account of, by reason of, for the purpose of	1	y
+DIB3413523	mobile phone	mobile phone	1	Noun	cellular telephone	1	y
+DIB3414616	composer	composer	2	Noun	one who composes music	1	y
+DIB3415742	invite	invite	1	Verb	ask for the presence or participation of someone	1	y
+DIB3422168	tent	tent	1	Noun	portable lodge	1	y
+DIB3425392	flower	flower	1	Noun	reproductive structure in angiosperms	1	y
+DIB3425392	flower	flower	2	Noun	plant that bears flowers, especially a plant that is small and lacks wood	1	y
+DIB3431139	calm	calm	1	Adjective	free from anger and anxiety	1	y
+DIB3433140	insurance	insurance	1	Noun	indemnity	1	y
+DIB3440341	digital camera	digital camera	1	Noun	electronic camera	1	y
+DIB3441180	sandal	sandal	1	Noun	type of footwear	1	plural
+DIB3443062	harm	harm	4	Verb	cause damage	1	y
+DIB3459113	weapon	weapon	1	Noun	instrument of attack or defense in combat	1	y
+DIB3461386	can you help me	can you help me	1	Phrase	can you help me?	1	y
+DIB3463075	side	side	3	Noun	left or right half	1	y
+DIB3465190	that	that	1	Conjunction	connecting a noun clause	1	y
+DIB3470567	Luxembourg	Luxembourg	1	Proper noun	id=Q32	1	y
+DIB3470819	August	August	1	Proper noun	eighth month of the Gregorian calendar	1	y
+DIB3474187	podiatrist	podiatrist	1	Noun	specialist in foot care	1	y
+DIB3475453	soup	soup	1	Noun	dish	1	y
+DIB3477580	racquetball	racquetball	1	Noun	sport similar to squash	1	yp
+DIB3481044	businessman	businessman	1	Noun	a man in business, one who works at a commercial institution	1	y
+DIB3483031	informed	informed	1	Adjective	instructed; having knowledge of a fact or area of education	1	y
+DIB3483100	mouse	mouse	1	Noun	rodent of the genus ''Mus''	1	y
+DIB3484004	enormously	enormously	1	Adverb	to an enormous degree	1	y
+DIB3487983	sing	sing	1	Verb	to produce harmonious sounds with one’s voice	1	y
+DIB3498250	correct	correct	1	Adjective	free from error	1	y
+DIB3506042	love	love/translations	8	Verb	have a strong affection for	1	y
+DIB3506576	skinny	skinny	1	Adjective	thin	1	y
+DIB3509045	horny	horny	3	Adjective	sexually aroused	1	y
+DIB3518491	unhappy	unhappy	1	Adjective	not happy; sad	1	yp
+DIB3525603	religious	religious	1	Adjective	concerning religion	1	y
+DIB3527482	head	head/translations	1	Noun	part of the body	1	y
+DIB3530754	take off	take off	1	Verb	to remove	1	yp
+DIB3534592	national holiday	national holiday	1	Noun	statutory holiday enacted by a country to commemorate the country itself	1	y
+DIB3539006	keep quiet	keep quiet	1	Verb	remain silent	1	y
+DIB3547116	groggy	groggy	1	Adjective	Slowed or weakened, as by drink, sleepiness, etc.	1	y
+DIB3548349	permanently	permanently	1	Adverb	in a permanent manner	1	y
+DIB3549657	resourceful	resourceful	1	Adjective	capable or clever; able to put available resources to efficient or ingenious use	1	y
+DIB3551647	just	just	8	Adverb	recently, moments ago	1	y
+DIB3556024	save	save	7	Verb	to conserve or prevent the wasting of	1	y
+DIB3558332	Africa	Africa	1	Proper noun	id=Q15	1	y
+DIB3567601	side dish	side dish	1	Noun	serving of food meant as an accompanying dish	1	y
+DIB3567616	sandwich	sandwich	1	Noun	dish	1	y
+DIB3573319	calm	calm	6	Noun	the state with absence of noise and disturbance	1	y
+DIB3575783	basket	basket	1	Noun	container	1	y
+DIB3578366	forge	forge	4	Verb	to create a forgery of	1	y
+DIB3582547	be	be/translations	6	Verb	used to declare the subject and object identical or equivalent	1	y
+DIB3583268	disrespectful	disrespectful	1	Adjective	lacking respect	1	y
+DIB3588474	chat	chat	1	Verb	be engaged in informal conversation	1	y
+DIB3589667	preparation	preparation	1	Noun	act of preparing	1	y
+DIB3616891	additional	additional	1	Adjective	Supplemental or added to	1	y
+DIB3618386	girl	girl	1	Noun	young female person	1	y
+DIB3619439	bottle	bottle	1	Noun	container	1	y
+DIB3622550	tasteless	tasteless	2	Adjective	lacking refinement	1	y
+DIB3631234	change	change	2	Verb	to make something into something else	1	y
+DIB3635904	rain	rain	1	Noun	condensed water from a cloud	1	y
+DIB3645568	ground beef	ground beef	1	Noun	finely chopped beef	1	y
+DIB3668726	later	later	1	Adverb	more late	1	y
+DIB3675487	disappoint	disappoint	1	Verb	to displease by underperforming etc	1	y
+DIB3677741	T-shirt	T-shirt	1	Noun	type of shirt	1	y
+DIB3683311	rarely	rarely	1	Adverb	not occurring at a regular interval	1	y
+DIB3684300	your	your	1	Determiner	belonging to you (singular; one owner)	1	y
+DIB3684300	your	your	2	Determiner	belonging to you (plural; more owners)	1	y
+DIB3686341	by heart	by heart	1	Prepositional phrase		1	y
+DIB3686638	know	know	2	Verb	be acquainted or familiar with	1	y
+DIB3695085	Mexico	Mexico	1	Proper noun	id=Q96	1	y
+DIB3697828	fortunately	fortunately	2	Adverb	it is fortunate that	1	y
+DIB3704038	date	date	3	Noun	point of time at which a transaction or event takes place	1	y
+DIB3705533	athletic	athletic	1	Adjective	having to do with athletes	1	y
+DIB3710703	normal	normal	2	Adjective	usual, ordinary	1	y
+DIB3723161	reliable	reliable	1	Adjective	fit to be relied on	1	y
+DIB3725474	northern	northern	1	Adjective	facing, situated in or related to the north	1	y
+DIB3729408	custom	custom	3	Noun	long-established practice	1	y
+DIB3731320	weight room	weight room	1	Noun	room containing exercise equipment for weight training	1	y
+DIB3732863	its	its	1	Determiner	belonging to it	1	y
+DIB3732863	its	its	2	Pronoun	that which belongs to it	1	y
+DIB3735997	how long	how long	2	Adverb	how long (length of time)	1	y
+DIB3739115	ear	ear/translations	1	Noun	organ of hearing	1	y
+DIB3741997	eleven	eleven	1	Numeral	the cardinal number occurring after ten and before twelve	1	y
+DIB3742800	influenza	influenza	1	Noun	an acute contagious disease of the upper airways and lungs	1	y
+DIB3747570	Ash Wednesday	Ash Wednesday	1	Noun	the Christian day of penitence 46 days before Easter	1	y
+DIB3748583	full	full	1	Adjective	containing the maximum possible amount	1	y
+DIB3754751	empire	empire	1	Noun	political unit, having numerous or extensive territories	1	y
+DIB3756382	contagious	contagious	1	Adjective	of a disease, easily transmitted to others	1	y
+DIB3764768	breakfast	breakfast	2	Verb	to eat the morning meal	1	y
+DIB3769048	behind	behind	6	Adverb	at the back part; in the rear	1	y
+DIB3780116	call	call	5	Verb	to name or refer to	1	y
+DIB3797469	brown	brown	8	Adjective	having a brown color/colour	1	y
+DIB3800924	harmony	harmony	1	Noun	agreement or accord	1	y
+DIB3802226	occupation	occupation	3	Noun	control of a country or region by a hostile army	1	y
+DIB3805869	pharmacy	pharmacy	1	Noun	a place where prescription drugs are dispensed	1	y
+DIB3817084	thanks	thanks	1	Interjection	used to express appreciation or gratitude	1	y
+DIB3818344	phonecard	phonecard	1	Noun	a chargecard used to pay for telephone calls	1	y
+DIB3824363	soda pop	soda pop	1	Noun	sweetened, carbonated beverage	1	y
+DIB3826417	toilet	toilet	1	Noun	room used for urination and defecation	1	y
+DIB3831047	meat	meat	1	Noun	animal flesh used as food	1	y
+DIB3832173	you	you/translations	2	Pronoun	object pronoun: the person being addressed	1	y
+DIB3837534	undress	undress	1	Verb	(''intransitive'') remove one's clothing	1	y
+DIB3841434	themselves	themselves	1	Pronoun	the reflexive case of they, the third-person plural personal pronoun	1	yp
+DIB3842690	tomorrow's	tomorrow's	1	Adjective		1	y
+DIB3847175	argument	argument	2	Noun	verbal dispute; a quarrel	1	y
+DIB3857394	cuddle	cuddle	2	Verb	intransitive: embrace, lie together snugly	1	y
+DIB3858205	son	son/translations	1	Noun	a male person in relation to his parents	1	y
+DIB3861494	how many	how many	1	Determiner	what number	1	y
+DIB3861494	how many	how many	3	Pronoun	what number	2	y
+DIB3862768	earn	earn	2	Verb	transitive: receive (money) for working	1	y
+DIB3871340	come from	come from	1	Verb	have as one's birthplace or nationality	1	y
+DIB3873246	brag	brag	2	Verb	to boast	1	y
+DIB3873379	wardrobe	wardrobe	1	Noun	movable furniture for storing clothes	1	y
+DIB3874319	tradition	tradition	1	Noun	a part of culture that is passed from person to person or generation to generation	1	y
+DIB3875211	Netherlands	Netherlands	1	Proper noun	id=Q55	1	y
+DIB3881716	parent	parent	1	Noun	person from whom one is descended	1	plural
+DIB3886587	dietary fibre	dietary fibre	1	Noun	substances undigested when eaten by humans, and which therefore help the passage of food and waste through the alimentary tract	1	y
+DIB3887842	unbelievably	unbelievably	2	Adverb	to an extent not to be believed	1	y
+DIB3893438	stop	stop	1	Verb	to cease moving	1	y
+DIB3895197	but	but	1	Conjunction	although	1	y
+DIB3895302	printer	printer	3	Noun	computing: device used to print text or images	1	y
+DIB3897429	prepare	prepare	2	Verb	to make ready for eating or drinking	1	y
+DIB3897996	menu	menu	2	Noun	list of dishes offered in a restaurant	1	y
+DIB3904364	admit	admit	3	Verb	concede as true	1	y
+DIB3909005	appall	appall	1	Verb	to depress or discourage with fear; to impress with fear	1	y
+DIB3916182	palpitation	palpitation	1	Noun	abnormal beating of the heart	1	y
+DIB3923214	precise	precise	1	Adjective	exact	1	y
+DIB3923600	under	under	1	Preposition	at a lower level than	1	y
+DIB3932572	dig	dig	1	Verb	to move hard-packed earth out of the way	1	y
+DIB3936571	while	while	2	Conjunction	during the same time that	1	y
+DIB3944606	found	found	1	Verb	to start an organization	1	yp
+DIB3960286	stepfather	stepfather	1	Noun	husband of one's biological mother, other than one's biological father	1	y
+DIB3961059	twelve	twelve	1	Numeral	cardinal number 12	1	y
+DIB3984069	bathe	bathe	1	Verb	to clean oneself with water	1	y
+DIB3990957	spend	spend	1	Verb	to pay out	1	y
+DIB3994611	it's raining	it's raining	1	Phrase	it's raining	1	y
+DIB3997842	description	description	1	Noun	account in words	1	y
+DIB4004057	very	very	1	Adverb	to a high degree	1	y
+DIB4006000	such	such	1	Determiner	used to make a comparison with something implied by context	1	y
+DIB4018111	campground	campground	1	Noun	area for tents	1	y
+DIB4019570	France	France	1	Proper noun	id=Q142	1	y
+DIB4020000	era	era	1	Noun	time period	1	y
+DIB4035121	concentrate	concentrate	4	Verb	focus one's thought or attention	1	y
+DIB4035888	seventeen	seventeen	1	Numeral	cardinal number	1	y
+DIB4038177	understand	understand	1	Verb	to grasp the meaning of	1	y
+DIB4043606	have	have	1	Verb	to possess	1	y
+DIB4056767	musician	musician	1	Noun	person who performs or writes music	1	y
+DIB4060709	café	café	1	Noun	coffee shop	1	y
+DIB4064247	at night	at night	1	Prepositional phrase	during the night	1	y
+DIB4067073	engagement	engagement	4	Noun	period of time when marriage is planned or promised	1	y
+DIB4069074	email	email	3	Noun	message sent through email	1	y
+DIB4070566	her	her/translations	2	Pronoun	she	1	yp
+DIB4071085	waste	waste	21	Verb	to squander	1	y
+DIB4074296	mother	mother/translations	1	Noun	female (human) who gives birth to or parents a child	1	y
+DIB4079070	post office	post office	1	Noun	place	1	y
+DIB4091261	lock	lock	1	Noun	something used for fastening	1	y
+DIB4091262	hamburger	hamburger	1	Noun	sandwich	1	y
+DIB4092210	grape	grape	1	Noun	fruit	1	y
+DIB4102819	Pacific Ocean	Pacific Ocean	1	Proper noun	the world's largest body of water	1	y
+DIB4106069	DVD	DVD	1	Noun	digital video disc	1	y
+DIB4107725	long for	long for	2	Verb	to miss	1	y
+DIB4108110	postbellum	postbellum	1	Adjective	of the period following a war	1	y
+DIB4110318	paint	paint	3	Verb	to apply paint to	1	y
+DIB4111588	loving	loving	1	Adjective	expressing a large amount of love	1	y
+DIB4117510	future	future	5	Adjective	having to do with or occurring in the future	1	y
+DIB4123626	crochet	crochet	3	Verb	to make needlework using a hooked needle	1	y
+DIB4124880	canteen	canteen	1	Noun	small cafeteria or snack bar	1	y
+DIB4153590	yogurt	yogurt	1	Noun	a milk-based product thickened by a bacterium-aided curdling process	1	y
+DIB4156776	remain	remain	4	Verb	to stay behind while others withdraw	1	y
+DIB4159837	pilot	pilot	1	Noun	controller of aircraft	1	y
+DIB4163639	hurry up	hurry up	1	Verb	go faster	1	y
+DIB4166223	send	send	1	Verb	make something go somewhere	1	y
+DIB4172478	assemble	assemble	2	Verb	transitive: to gather as a group	1	y
+DIB4173293	decay	decay	3	Verb	to deteriorate	1	y
+DIB4177078	pleasant	pleasant	1	Adjective	giving pleasure; pleasing in manner	1	y
+DIB4182093	express	express	6	Verb	to convey meaning	1	y
+DIB4183952	recommend	recommend	1	Verb	to commend to the favorable notice of another	1	y
+DIB4186309	party	party	5	Noun	social gathering	1	y
+DIB4187914	noisy	noisy	1	Adjective	making a noise	1	y
+DIB4191446	cartoon	cartoon	4	Noun	animated cartoon	1	y
+DIB4194350	event	event	1	Noun	occurrence	1	y
+DIB4196510	original	original	2	Adjective	first in a series	1	y
+DIB4200891	medicine	medicine/translations	1	Noun	substance which promotes healing	1	y
+DIB4202837	because	because	1	Conjunction	by or for the cause that; on this account that; for the reason that	1	y
+DIB4208200	artist	artist	1	Noun	person who creates art	1	y
+DIB4210618	black	black/translations	1	Adjective	absorbing all light	1	y
+DIB4215797	Little Red Riding Hood	Little Red Riding Hood	2	Proper noun	the main character in this story	1	y
+DIB4221170	retired	retired	3	Adjective	having left employment	1	y
+DIB4224616	necktie	necktie	1	Noun	strip of cloth worn around the neck and tied in the front	1	y
+DIB4237011	by	by	5	Preposition	indicates a means	1	y
+DIB4238380	uninvited	uninvited	1	Derived terms	not invited	1	y
+DIB4247951	round	round	13	Noun	serving	1	y
+DIB4250266	evolve	evolve	4	Verb	change genetic composition	1	y
+DIB4251523	rice	rice	2	Noun	seeds used as food	1	y
+DIB4252042	Wiener schnitzel	Wiener schnitzel	1	Noun	veal cutlet	1	y
+DIB4257458	more	more	1	Determiner	comparative of many	1	y
+DIB4261539	truth	truth	2	Noun	conformity to fact or reality	1	y
+DIB4264678	find oneself	find oneself	5	Verb	to discover oneself to be in a particular place	1	y
+DIB4268001	borrow	borrow	1	Verb	receive temporarily	1	y
+DIB4271563	sunburn	sunburn	1	Noun	burn on skin	1	y
+DIB4275775	hope	hope	1	Verb	to want something to happen, with expectation that it might	1	y
+DIB4277317	confidence	confidence	3	Noun	quality of trusting	1	y
+DIB4283756	classroom	classroom	1	Noun	room in a school	1	y
+DIB4284865	moreover	moreover	1	Adverb	in addition to what has been said	1	y
+DIB4286688	danger	danger	1	Noun	exposure to likely harm	1	y
+DIB4293555	each other	each other	1	Pronoun	to one another; one to the other	1	y
+DIB4294127	surrender	surrender	2	Verb	intransitive or reflexive: to give oneself up into the power of another	1	y
+DIB4295216	encourage	encourage	1	Verb	mentally support or motivate	1	y
+DIB4302004	childish	childish	1	Adjective	behaving immaturely	1	y
+DIB4306760	get rid of	get rid of	1	Verb	to rid (oneself) of	1	y
+DIB4309439	back then	back then	1	Prepositional phrase	at that time	1	y
+DIB4319029	him	him	3	Pronoun	accusative / direct object	1	y
+DIB4324682	divorce	divorce	4	Verb	end one's own marriage	1	y
+DIB4324749	an	an/translations	1	Article	indefinite article	1	y
+DIB4329322	err	err	1	Verb	make a mistake	1	y
+DIB4333852	door	door	1	Noun	portal of entry into a building, room or vehicle	1	y
+DIB4335287	eventually	eventually	1	Adverb	in the end	1	y
+DIB4348961	track and field	track and field	1	Noun	group of athletic sports	1	yp
+DIB4358342	map	map	1	Noun	visual representation of an area	1	y
+DIB4361491	January	January	1	Proper noun	first month of the Gregorian calendar	1	y
+DIB4364132	buddy	buddy	1	Pronoun	friend or casual acquaintance	1	y
+DIB4368994	sky	sky/translations	1	Noun	atmosphere above a given point, especially as visible from the surface of the Earth as the place where the sun, moon, stars, and clouds are seen	1	y
+DIB4378371	clean	clean	1	Adjective	not dirty	1	y
+DIB4404543	millennium	millennium	1	Noun	thousand-year period	1	y
+DIB4410732	clarinet	clarinet	1	Noun	woodwind musical instrument	1	y
+DIB4414282	television	television	2	Noun	device for receiving television signals	1	y
+DIB4422957	regional	regional	1	Adjective	pertaining to a specific region	1	y
+DIB4425947	cloud	cloud/translations	1	Noun	visible mass of water droplets suspended in the air	1	y
+DIB4428179	simple	simple	1	Adjective	uncomplicated	1	y
+DIB4429479	throw away	throw away	1	Verb	discard or dispose of	1	y
+DIB4430947	win	win	4	Verb	intransitive: achieve by winning	1	y
+DIB4436574	take	take/translations	13	Verb	to grab and move to oneself	1	y
+DIB4439192	quick	quick	1	Adjective	moving with speed	1	y
+DIB4442603	ripe	ripe	1	Adjective	ready for reaping or gathering, of fruits and seeds	1	y
+DIB4443642	fall	fall	1	Verb	move to a lower position under the effect of gravity	1	y
+DIB4446931	Passover	Passover	1	Proper noun	one-day Biblical feast or festival during which the firstborn sons of the Israelites were passed over by God while those of the Egyptians were killed; Jewish festival of Pesach	1	y
+DIB4450151	program	program	5	Noun	software application	1	y
+DIB4454836	free	free	12	Verb	to make free, set at liberty	1	y
+DIB4458334	since	since	2	Preposition	from (time)	1	y
+DIB4466240	who	who	2	Pronoun	who (relative pronoun)	1	y
+DIB4476438	activity	activity	2	Noun	something done as an action or a movement	1	y
+DIB4477170	gladly	gladly	2	Adverb	willingly, certainly	1	y
+DIB4484284	use	use	4	Verb	employ, apply	1	y
+DIB4501433	fish	fish/translations	1	Noun	vertebrate animal	1	y
+DIB4501615	where	where	5	Adverb	to which place or situation	1	y
+DIB4503124	graduate	graduate	5	Verb	to be recognized by a university as having completed the requirements of a degree	1	y
+DIB4504456	speak	speak	1	Verb	to communicate with one's voice using words	1	y
+DIB4505131	open-minded	open-minded	1	Adjective	willing to consider new ideas	1	y
+DIB4510458	sociology	sociology	1	Noun	study of society, human social interactions, etc.	1	y
+DIB4514944	crawl	crawl	2	Verb	to move slowly	1	y
+DIB4533363	gymnasium	gymnasium	1	Noun	place for indoor sports	1	y
+DIB4533914	fat	fat	4	Noun	specialized animal tissue	1	y
+DIB4534737	allow	allow	2	Verb	to give permission	1	y
+DIB4540518	turn off	turn off	1	Verb	switch off appliance or light	1	y
+DIB4541884	shave	shave	2	Verb	to remove hair from one's face	1	y
+DIB4544892	full	full	4	Adjective	satisfied, in relation to eating	1	y
+DIB4546200	war	war	1	Noun	conflict involving organized use of arms	1	y
+DIB4548761	nephew	nephew	1	Noun	fraternal or sororal nephew	1	y
+DIB4550386	fall in love	fall in love	1	Verb	to come to have feelings of love	1	y
+DIB4560356	chase	chase	3	Verb	to pursue, to follow at speed	1	y
+DIB4563672	German	German	1	Noun	native or inhabitant of Germany; person of German citizenship or nationality	1	y
+DIB4563672	German	German	2	Noun	member of the Germanic ethnic group which is the most populous ethnic group in Germany	1	y
+DIB4578831	offer	offer	6	Verb	place at disposal	1	y
+DIB4581995	drink	drink	1	Verb	consume liquid through the mouth	1	y
+DIB4583917	homeopath	homeopath	1	Noun	a person who practices homeopathy	1	y
+DIB4589202	accept	accept	5	Verb	to agree to	1	y
+DIB4592911	candle	candle	1	Noun	a light source	1	y
+DIB4594326	straight ahead	straight ahead	1	Adverb	directly ahead, without deviation	1	y
+DIB4595844	force	force	14	Verb	to compel someone to do something	1	y
+DIB4596274	Belgium	Belgium	1	Proper noun	id=Q31	1	y
+DIB4596494	yesterday's	yesterday's	1	Adjective		1	y
+DIB4601218	bowl	bowl	11	Verb	roll or throw (a ball)	1	y
+DIB4604604	get back	get back	2	Verb	to retrieve, to have an item returned	1	y
+DIB4604744	which	which	4	Pronoun	(''relative'') who, whom, what	1	y
+DIB4607003	admit	admit	3	Verb	concede as true	1	y
+DIB4607969	source	source	1	Noun	the person, place or thing from which something (information, goods, etc.) comes or is acquired	1	y
+DIB4609336	roast	roast	1	Verb	to cook food by heating in an oven or fire	1	y
+DIB4614731	return	return	6	Verb	to give something back to its original holder or owner	1	y
+DIB4616709	Ukraine	Ukraine	1	Proper noun	id=Q212	1	y
+DIB4619487	Asia	Asia	1	Proper noun	the continent of Asia	1	y
+DIB4638664	good-looking	good-looking	1	Adjective	attractive	1	y
+DIB4639776	popcorn	popcorn	1	Noun	a snack food made from corn kernels popped by dry heating	1	y
+DIB4642166	swim	swim	1	Verb	move through water	1	y
+DIB4642166	swim	swim	2	Noun	act or instance of swimming	1	y
+DIB4643518	go	go/translations	1	Verb	to move through space (especially from one place to another)	1	y
+DIB4648513	Pilates	Pilates	1	Noun	physical fitness system	1	yp
+DIB4657528	stamp	stamp	10	Verb	to apply postage stamps to	1	yp
+DIB4658787	state	state	1	Noun	a/the State, the sovereign country or city state with a central government acting as its head and operator; national affairs as opposed to local ones.	1	y
+DIB4659216	stadium	stadium	1	Noun	venue where sporting events are held	1	y
+DIB4665776	yourself	yourself	1	Pronoun	(reflexive) your own self	1	yp
+DIB4668389	organize	organize	1	Verb	to arrange in working order	1	y
+DIB4671252	graduation	graduation	1	Noun	the action or process of graduating	1	y
+DIB4675714	sign	sign	14	Verb	to make (a document) official by writing one's signature	1	y
+DIB4675714	sign	sign	15	Verb	to write one's signature on a document	1	y
+DIB4677659	headache	headache	1	Noun	pain or ache in the head	1	y
+DIB4677949	circle	circle	1	Noun	geometry: set of points that are equally distant from a center	1	y
+DIB4684504	quiz	quiz	1	Noun	competition in the answering of questions	1	y
+DIB4693223	office	office	3	Noun	room(s) or building used for non-manual work	1	y
+DIB4698795	retire	retire	1	Verb	to stop working on permanent basis	1	y
+DIB4702330	interview	interview	1	Noun	conversation with journalist etc.	1	y
+DIB4710900	drive	drive	1	Verb	to operate (a wheeled motorized vehicle)	1	y
+DIB4718143	customs	customs	1	Noun	the duties or taxes imposed on imported or exported goods	1	y
+DIB4723519	away	away	7	Adjective	not here; gone	1	yp
+DIB4737006	entrepreneur	entrepreneur	1	Noun	person who organizes and operates a business and assumes the associated risk	1	y
+DIB4738625	glue	glue	1	Noun	sticky adhesive substance	1	y
+DIB4739003	sister	sister/translations	1	Noun	woman or girl having the same parents	1	y
+DIB4746307	face	face/translations	1	Noun	anatomy: front part of head	1	y
+DIB4757405	ruin	ruin	6	Verb	to spoil	1	y
+DIB4763262	power	power	1	Noun	ability to affect or influence	1	y
+DIB4763262	power	power	2	Noun	control, particularly legal or political	1	y
+DIB4764417	make up	make up	2	Verb	to compensate, to fill in, to catch up	1	y
+DIB4770677	pronounce	pronounce	4	Verb	to sound out (a word or phrase); to articulate	1	y
+DIB4775484	wrist	wrist	1	Noun	joint where the hand is attached to the arm	1	y
+DIB4777732	concert	concert	6	Noun	a musical entertainment in which several voices or instruments take part	1	y
+DIB4789152	kiss	kiss	1	Verb	to touch with the lips	1	y
+DIB4789185	vase	vase	1	Noun	container used mainly for displaying flowers	1	y
+DIB4794762	some	some	5	Determiner	unspecified quantity or number of	1	y
+DIB4801881	signature	signature	1	Noun	person’s autograph name	1	y
+DIB4804904	godmother	godmother	1	Noun	woman present at the christening of a baby who promises to help raise the child in a Christian manner	1	y
+DIB4806564	emigrate	emigrate	1	Verb	to leave one's country in order to reside elsewhere	1	y
+DIB4810638	snow	snow	12	Verb	have snow fall from the atmosphere	1	y
+DIB4813969	draw	draw	9	Verb	to close curtains etc.	1	y
+DIB4830525	there	there	2	Adverb	to or into that place; thither	1	y
+DIB4834178	cute	cute	1	Adjective	having features mainly attributed to infants and small or cuddly animals	1	y
+DIB4838502	rollerblade	rollerblade	1	Noun	type of roller skate	1	plural
+DIB4841522	All Saints' Day	All Saints' Day	1	Proper noun	feast day	1	y
+DIB4846677	go out	go out	2	Verb	to leave one's abode to go to public places	1	y
+DIB4846950	pass out	pass out	1	Verb	to faint	1	y
+DIB4850495	ankle	ankle	1	Noun	joint between foot and leg	1	y
+DIB4855099	clear up	clear up	1	Verb	clarify, correct a misconception	1	y
+DIB4860767	five	five	1	Numeral	cardinal number	1	y
+DIB4863732	scissors	scissors	1	Noun	tool used for cutting	1	y
+DIB4870548	move	move	1	Verb	(intransitive) to change place or posture; to go	1	y
+DIB4870972	dentist	dentist	1	Noun	specialized tooth doctor	1	y
+DIB4879254	common	common	2	Adjective	usual	1	y
+DIB4887348	replace	replace	3	Verb	to supply or substitute an equivalent for	1	y
+DIB4893085	pen	pen	3	Noun	writing tool	1	y
+DIB4893483	experience	experience	5	Verb	to observe or undergo	1	y
+DIB4911094	jog	jog	4	Verb	to move in an energetic trot	1	y
+DIB4912319	carrot	carrot	1	Noun	''Daucus carota'' ssp. ''sativus''	1	y
+DIB4912559	hold	hold	1	Verb	to grasp	1	y
+DIB4919642	rude	rude	1	Adjective	bad-mannered	1	y
+DIB4920331	powerful	powerful	1	Adjective	having or capable of exerting power, potency or influence	1	y
+DIB4929251	whose	whose	3	Determiner	of which (relative)	1	y
+DIB4933780	dresser	dresser	2	Noun	bedroom furniture	1	y
+DIB4935063	woman	woman/translations	1	Noun	adult female person	1	y
+DIB4937805	sausage	sausage	1	Noun	a food made of minced meat packed into a tubular casing	1	y
+DIB4938267	train	train	2	Noun	line of connected cars or carriages	1	y
+DIB4938432	imagine	imagine	1	Verb	(transitive) to form a mental image of something	1	y
+DIB4947018	eyewitness	eyewitness	1	Noun	person who has seen and can testify about an event	1	y
+DIB4948269	capital city	capital city	1	Noun	city designated as seat of government	1	y
+DIB4950946	it	it	2	Pronoun	object	1	yp
+DIB4957190	skirt suit	skirt suit	1	Noun		1	y
+DIB4958490	hand	hand/translations	1	Noun	part of the fore limb	1	y
+DIB4958672	happen	happen	1	Verb	to occur	1	y
+DIB4961806	laugh at	laugh at	1	Verb	to scorn or tease	1	y
+DIB4963584	disgusting	disgusting	1	Adjective	repulsive, distasteful	1	y
+DIB4964102	card	card	2	Noun	flat, normally rectangular piece of stiff paper, plastic etc.	1	y
+DIB4969841	tomorrow	tomorrow	1	Adverb	on the day after the present day	1	y
+DIB4970850	class	class	5	Noun	group of students in a regularly scheduled meeting with a teacher	1	y
+DIB4973660	many	many	1	Determiner	an indefinite large number of	1	y
+DIB4979717	commit suicide	commit suicide	1	Verb	to kill oneself intentionally	1	y
+DIB4979835	music	music	1	Noun	sound, organized in time in a melodious way	1	y
+DIB4981419	her	her/translations	2	Pronoun	she	1	yp
+DIB4986259	injury	injury	1	Noun	damage or violation	1	y
+DIB4988916	ready	ready	1	Adjective	prepared for immediate action or use	1	y
+DIB4992336	reunification	reunification	1	Noun	the unification of something that was previously divided; used especially of a country	1	y
+DIB4995480	try out	try out	1	Verb	to test something	1	y
+DIB5005380	bakery	bakery	1	Noun	a shop in which bread and such is baked and sold	1	y
+DIB5019346	alarm clock	alarm clock	1	Noun	type of clock	1	y
+DIB5026450	computer science	computer science	1	Noun	study of computers and their architecture	1	y
+DIB5032702	dry	dry	1	Adjective	free from liquid or moisture	1	y
+DIB5037870	patient	patient	3	Noun	someone who receives treatment from a doctor	1	y
+DIB5039523	below	below	6	Adverb	in a lower place	1	y
+DIB5048935	dirty	dirty	1	Adjective	covered with or containing dirt	1	y
+DIB5053043	unemployment	unemployment	1	Noun	joblessness	1	y
+DIB5067381	may	may	1	Verb	have permission to	1	y
+DIB5070176	take notes	take notes	1	Verb	make a record of what one hears or observes	1	y
+DIB5078138	succeed	succeed	1	Verb	To follow in order; to come next after; hence, to take the place of	1	y
+DIB5080588	past	past	9	Preposition	beyond in time	1	y
+DIB5082444	react	react	4	Verb	to act upon each other (in chemistry)	1	y
+DIB5083039	garage	garage	1	Noun	building or section of building to store a car, tools etc.	1	y
+DIB5091745	fog	fog	1	Noun	cloud that forms at a low altitude and obscures vision	1	y
+DIB5096045	internship	internship	1	Noun	job taken by a student	1	y
+DIB5096838	vacation	vacation	2	Noun	period of leisure time	1	y
+DIB5100230	hand over	hand over	1	Verb	to relinquish control or possession	1	y
+DIB5106569	intervene	intervene	5	Verb	to come between, or to be between, persons or things	1	y
+DIB5114737	grandmother	grandmother	1	Noun	mother of someone's parent	1	y
+DIB5126222	evening	evening	2	Noun	time of day between the approximate time of midwinter dusk and midnight	1	y
+DIB5126374	famous	famous	1	Adjective	well known	1	yp
+DIB5126374	famous	famous	2	Adjective	in the public eye	1	yp
+DIB5137685	PIN	PIN	1	Noun	personal identification number	1	y
+DIB5141427	mister	mister	1	Noun	title of adult male	1	y
+DIB5151027	deep	deep	1	Adjective	having its bottom far down	1	y
+DIB5155192	gym	gym	1	Noun	sporting facility specialized for lifting weights and exercise	1	y
+DIB5157341	quiet	quiet	1	Adjective	with little sound	1	y
+DIB5164982	without	without	1	Preposition	not having	1	y
+DIB5168238	put on weight	put on weight	1	Verb	to become heavier	1	y
+DIB5170211	culture	culture	1	Noun	arts, customs and habits	1	y
+DIB5172433	low cost carrier	low cost carrier	1	Noun	an airline selling very cheap tickets	1	y
+DIB5173608	runny nose	runny nose	1	Noun	condition of discharge of mucus from the nose	1	y
+DIB5173886	tidy	tidy	3	Verb	to make tidy	1	y
+DIB5191627	flute	flute	1	Noun	woodwind instrument	1	y
+DIB5203852	reluctantly	reluctantly	1	Adverb	in a reluctant manner	1	y
+DIB5208437	intelligent	intelligent	1	Adjective	of high or especially quick cognitive capacity, bright	1	y
+DIB5209262	go away	go away	3	Verb	to travel somewhere, especially on holiday or vacation	1	y
+DIB5212216	famous	famous	1	Adjective	well known	1	y
+DIB5218113	buttock	buttock	1	Noun	each of the two large fleshy halves of the posterior part of the body	1	y
+DIB5220756	jump	jump	1	Verb	propel oneself rapidly upward such that momentum causes the body to become airborne	1	y
+DIB5233350	underwear	underwear	1	Noun	clothes worn next to the skin	1	y
+DIB5234076	west	west	1	Noun	compass point	1	y
+DIB5234602	hospital	hospital	1	Noun	large medical facility	1	y
+DIB5250386	liver	liver	1	Noun	organ of the body	1	y
+DIB5259320	how much does it cost	how much does it cost	1	Phrase	how much is it?	1	y
+DIB5266106	humorous	humorous	1	Adjective	full of humor or arousing laughter; funny	1	y
+DIB5267918	take care	take care	3	Interjection	good-bye	1	y
+DIB5275726	itself	itself	1	Pronoun	(reflexive) it	1	yp
+DIB5277969	no	no/translations	1		used to show disagreement or negation	1	y
+DIB5282143	it's snowing	it's snowing	1	Phrase	it's snowing	1	y
+DIB5283295	notebook	notebook	1	Noun	empty book able to be used for notes	1	y
+DIB5285729	by	by	3	Preposition	indicates the agent of a passive verb	1	y
+DIB5287844	stay behind	stay behind	1	Verb	to remain where one is, whilst others leave	1	y
+DIB5291494	greengrocer's	greengrocer's	1	Noun	shop for fruit and vegetables	1	y
+DIB5291960	unpleasant	unpleasant	1	Adjective	not pleasant	1	y
+DIB5293219	emergency department	emergency department	1	Noun	(healthcare) a department of a hospital	1	y
+DIB5296547	sustain	sustain	2	Verb	to provide for or nourish something	1	y
+DIB5305899	airplane	airplane	1	Noun	powered aircraft	1	y
+DIB5313958	laugh	laugh	3	Verb	show mirth by peculiar movement of the muscles of the face and emission of sounds	1	y
+DIB5321946	thigh	thigh	1	Noun	upper leg	1	y
+DIB5328061	remaining	remaining	1	Adjective	which remains	1	y
+DIB5330754	popular	popular	4	Adjective	liked by many people	1	y
+DIB5335358	paper towel	paper towel	1	Noun	paper used in kitchens	1	y
+DIB5342760	miss	miss	8	Verb	to be late for something	1	y
+DIB5345251	us	us	1	Pronoun	objective case of "we"	1	yp
+DIB5346042	fifty	fifty	1	Numeral	cardinal number	1	y
+DIB5353878	as long as	as long as	1	Conjunction	while	1	y
+DIB5354488	crazy	crazy	1	Adjective	insane, demented	1	y
+DIB5360146	sports center	sports center	1	Noun		1	y
+DIB5362577	put away	put away	1	Verb	to place out of the way	1	y
+DIB5363132	bedsheet	bedsheet	1	Noun	a sheet, a piece of cloth cut and finished as bedlinen	1	y
+DIB5368806	profession	profession	2	Noun	occupation	1	y
+DIB5374079	right now	right now	1	Adverb	at this precise moment	1	y
+DIB5377576	you're welcome	you're welcome	1	Phrase	reply to thanks	1	y
+DIB5377785	occur	occur	3	Verb	meet or come to the mind	1	y
+DIB5384018	skateboard	skateboard	1	Noun	sports/recreation platform on wheels	1	y
+DIB5384026	awake	awake	1	Adjective	conscious	1	y
+DIB5398742	camp	camp	5	Verb	to live in a tent	1	y
+DIB5408347	holiday	holiday	1	Noun	day on which a festival, religious event, or national celebration is traditionally observed	1	y
+DIB5417420	basketball	basketball	2	Noun	the ball used in the sport	1	y
+DIB5420315	not	not	1	Adverb	negates meaning of another word	1	y
+DIB5428424	student	student	1	Noun	person who studies a subject	1	y
+DIB5430147	shower gel	shower gel	1	Noun	gel shower soap	1	y
+DIB5433188	Federal Republic of Germany	Federal Republic of Germany	1	Proper noun	id=Q183	1	y
+DIB5435911	Iraq	Iraq	1	Proper noun	id=Q796	1	y
+DIB5448441	decontaminate	decontaminate	1	Verb	to remove contamination from (something), rendering it safe	1	y
+DIB5449464	muesli	muesli	1	Noun	breakfast dish	1	y
+DIB5452346	brother-in-law	brother-in-law	1	Noun	brother of one's husband	1	y
+DIB5452346	brother-in-law	brother-in-law	2	Noun	brother of one's wife	1	y
+DIB5452346	brother-in-law	brother-in-law	3	Noun	husband of one's sister	1	y
+DIB5454188	commence	commence	1	Verb	begin, start	1	y
+DIB5454810	good	good	2	Adjective	well-behaved	1	y
+DIB5457351	stunned	stunned	1	Adjective	unable to act or respond	1	y
+DIB5466753	hole punch	hole punch	1	Noun	tool	1	y
+DIB5468777	tornado	tornado	1	Noun	violent windstorm	1	y
+DIB5478834	seasick	seasick	1	Adjective	ill due to the motion of a ship at sea	1	y
+DIB5493272	arm	arm/translations	1	Noun	upper appendage from shoulder to wrist	1	y
+DIB5494537	gift	gift	4	Verb	(transitive) to give as a gift	1	y
+DIB5495612	credit card	credit card	1	Noun	card connected to a credit account used to buy goods or services	1	y
+DIB5497094	chubby	chubby	1	Adjective	of a person, somewhat fat	1	y
+DIB5502675	conform	conform	2	Verb	to be in accordance with a set of specifications	1	y
+DIB5503524	cheap	cheap	1	Adjective	low and/or reduced in price	1	y
+DIB5516881	exploit	exploit	4	Verb	use for one’s advantage	1	y
+DIB5521827	disgusting	disgusting	1	Adjective	repulsive, distasteful	1	y
+DIB5528397	blue	blue	1	Adjective	blue-coloured	1	y
+DIB5530969	admire	admire	1	Verb	regard with wonder and delight	1	y
+DIB5538977	all day	all day	1	Adverb	the entire day	1	y
+DIB5545699	complain	complain	2	Verb	to express feelings of pain, dissatisfaction, or resentment	1	y
+DIB5548761	six	six	1	Numeral	cardinal number	1	y
+DIB5552476	margarine	margarine	1	Noun	spread	1	y
+DIB5556386	trade	trade	18	Verb	to give in exchange	1	y
+DIB5559680	occur	occur	1	Verb	take place	1	y
+DIB5559869	DVD player	DVD player	1	Noun	DVD player	1	y
+DIB5561981	lamp	lamp	1	Noun	device producing light	1	y
+DIB5566570	him	him	1	Pronoun	dative / indirect object	1	y
+DIB5568387	look after	look after	2	Verb	to care for, keep safe, watch, protect	1	y
+DIB5582925	biology	biology	1	Noun	study of living matter	1	y
+DIB5585407	federation	federation	1	Noun	array of nations or states	1	y
+DIB5587663	during	during	2	Preposition	within a given time interval	1	y
+DIB5588018	enjoy	enjoy	1	Verb	to receive pleasure or satisfaction from something	1	y
+DIB5592726	forget	forget	2	Verb	to lose remembrance of	1	y
+DIB5596351	only	only	6	Adverb	as recently as	1	y
+DIB5598050	clothes	clothes	1	Noun	apparel	1	y
+DIB5601739	pull	pull	1	Verb	transitive: apply force to (something) so it comes towards one	1	y
+DIB5613773	flatshare	flatshare	1	Verb	shared apartment	1	y
+DIB5616070	look at	look at	1	Verb	observe or watch	1	y
+DIB5622670	return	return	1	Verb	to come or go back	1	y
+DIB5623290	travel agency	travel agency	1	Noun	company	1	y
+DIB5623731	imitate	imitate	1	Verb	to follow as a model	1	y
+DIB5629540	converse	converse	1	Verb	to engage in conversation	1	y
+DIB5641763	great-grandfather	great-grandfather	1	Noun	father of one's grandparent	1	y
+DIB5642654	coffeemaker	coffeemaker	1	Noun	kitchen apparatus used to brew and filter coffee	1	y
+DIB5642798	success	success	1	Noun	achievement of one's aim or goal	1	y
+DIB5644836	responsible	responsible	1	Adjective	answerable for an act performed or for its consequences	1	y
+DIB5648423	Italian	Italian	5	Noun	language	1	y
+DIB5652299	party	party	1	Noun	law: particular side in a contract or legal action	1	y
+DIB5658262	American football	American football	1	Noun	American football	1	y
+DIB5664272	ceremony	ceremony	2	Noun	official gathering to celebrate	1	y
+DIB5666723	below	below	1	Preposition	lower in spatial position than	1	y
+DIB5669886	honey	honey	1	Noun	sweet substance produced by bees	1	y
+DIB5670676	completely	completely	1	Adverb	in a complete manner	1	y
+DIB5671226	yoga	yoga	1	Noun	Hindu discipline	1	yp
+DIB5681385	whodunit	whodunit	1		a crime novel or drama	1	y
+DIB5691407	wedding	wedding	1	Noun	marriage ceremony	1	y
+DIB5698963	depart	depart	1	Verb	to leave	1	y
+DIB5703233	break in	break in	5	Verb	to tame (a horse or other animal)	1	y
+DIB5710126	career	career	1	Noun	one's calling in life; a person's occupation	1	y
+DIB5710453	project	project	1	Noun	planned endeavor	1	y
+DIB5711268	sin	sin/translations	1	Noun	violation of religious law	1	y
+DIB5718944	wear	wear	1	Verb	to have on (clothes or accessories)	1	y
+DIB5719014	wastepaper basket	wastepaper basket	1	Noun	small open container for discarded paper	1	y
+DIB5722168	summer	summer	1	Noun	hottest season	1	y
+DIB5728439	hotel	hotel	1	Noun	establishment providing accommodation	1	y
+DIB5731864	narrow-minded	narrow-minded	1	Adjective	having restricted or rigid views, and being unreceptive to new ideas	1	y
+DIB5735557	low	low	5	Adjective	not high in amount or quantity	1	y
+DIB5752884	Wednesday	Wednesday	2	Adverb	on Wednesday	1	y
+DIB5753009	delicious	delicious	1	Adjective	pleasing to taste	1	y
+DIB5757943	alcoholic	alcoholic	4	Adjective	having more than a trace amount of alcohol in its contents	1	y
+DIB5761025	happy New Year	happy New Year	1	Phrase	Happy New Year	1	y
+DIB5798453	nineteen	nineteen	1	Numeral	cardinal number	1	y
+DIB5811401	after	after	2	Preposition	subsequently; following in time; later than	1	y
+DIB5811581	fall apart	fall apart	1	Verb	disintegrate, break into pieces	1	y
+DIB5818803	snow	snow	1	Noun	partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer	1	y
+DIB5821313	there	there	1	Adverb	in or at that place	1	y
+DIB5826923	cucumber	cucumber	2	Noun	edible fruit	1	y
+DIB5827584	anthropology	anthropology	1	Noun	the study of humanity	1	y
+DIB5831150	search	search	1	Noun	an attempt to find something	1	y
+DIB5850902	behave	behave	1	Verb	to act in a specific manner	1	y
+DIB5853686	inadequate	inadequate	1	Adjective	Not adequate	1	y
+DIB5853697	move in	move in	1	Verb	start living or working in a new place	1	y
+DIB5857341	traffic	traffic	1	Noun	pedestrians or vehicles on roads or on the air	1	y
+DIB5858654	guide book	guide book	1	Noun	book that provides guidance	1	y
+DIB5859002	identify	identify	1	Verb	to establish the identity of someone or something	1	y
+DIB5868058	answer	answer	5	Verb	to make a reply or response to	1	y
+DIB5869028	four	four	1	Numeral	the cardinal number 4	1	y
+DIB5873603	read	read	1	Verb	to look at and interpret letters or other information	1	y
+DIB5873603	read	read	2	Verb	to speak aloud words or other information that is written	1	y
+DIB5875827	new year	new year	1	Noun	year following the current year	1	y
+DIB5876461	as a result	as a result	1	Prepositional phrase	consequently	1	y
+DIB5880074	pleased to meet you	pleased to meet you	1	Phrase	polite formula used when being introduced to somebody	1	y
+DIB5884498	over there	over there	1	Adverb	in that place	1	y
+DIB5888626	learn	learn	6	Verb	to come to know; to become informed of; to find out	1	y
+DIB5899698	coach	coach	5	Verb	sports: train	1	y
+DIB5901717	lake	lake/translations	1	Noun	body of water	1	y
+DIB5924398	money	money	1	Noun	means of exchange and measure of value	1	y
+DIB5926606	ghastly	ghastly	2	Adjective	horrifyingly shocking	1	y
+DIB5928453	art	art	3	Noun	skillful creative activity	1	y
+DIB5941643	bucket	bucket	1	Noun	container	1	y
+DIB5942782	wind	wind/translations	1	Noun	movement of air	1	y
+DIB5944836	I	I/translations	1	Pronoun	personal pronoun	1	y
+DIB5946947	divorce	divorce	1	Noun	legal dissolution of a marriage	1	y
+DIB5964480	three	three	1	Numeral	cardinal number 3	1	y
+DIB5971369	hot chocolate	hot chocolate	1	Noun	beverage	1	y
+DIB5984181	radio	radio	2	Noun	receiver	1	y
+DIB5992784	another	another	2	Determiner	not the same; different	1	y
+DIB5998056	cauliflower	cauliflower	1	Noun	vegetable	1	y
+DIB5999424	lip	lip	1	Noun	fleshy protrusion framing the mouth	1	y
+DIB6010499	calculator	calculator	1	Noun	electronic device that performs mathematical calculations	1	y
+DIB6012992	one	one/translations	1	Numeral	cardinal number 1	1	y
+DIB6014477	document	document	1	Noun	original or official paper	1	y
+DIB6015791	annoying	annoying	1	Adjective	causing irritation or annoyance	1	y
+DIB6016554	hurricane	hurricane	1	Noun	weather phenomenon	1	y
+DIB6029085	high	high	1	Adjective	elevated; tall	1	y
+DIB6032811	pay attention	pay attention	1	Verb	to be attentive	1	y
+DIB6032889	skimpy	skimpy	2	Adjective	of a garment, very small, light, or revealing	1	y
+DIB6035393	automobile	automobile	1	Noun	passenger vehicle	1	y
+DIB6035630	eye	eye/translations	1	Noun	organ	1	y
+DIB6036836	brush	brush	10	Verb	to untangle/arrange	1	y
+DIB6041265	agreeable	agreeable	2	Adjective	pleasant to the senses or mind	1	y
+DIB6044802	thirty	thirty	1	Numeral	cardinal number	1	y
+DIB6050107	as soon as	as soon as	1	Conjunction	immediately after	1	y
+DIB6050601	orthopedist	orthopedist	1	Noun	orthopedic surgeon	1	y
+DIB6054136	abide	abide	2	Verb	bear patiently; tolerate	1	y
+DIB6055268	button	button	2	Noun	a mechanical device meant to be pressed with a finger	1	y
+DIB6057832	live	live	1	Verb	be alive	1	y
+DIB6067536	day	day/translations	3	Noun	period from midnight to the following midnight	1	y
+DIB6067790	water	water	1	Verb	to pour water into the soil surrounding (plants)	1	y
+DIB6086307	Spain	Spain	1	Proper noun	id=Q29	1	y
+DIB6090696	October	October	1	Proper noun	tenth month of the Gregorian calendar	1	y
+DIB6090728	World War I	World War I	1	Proper noun	war	1	y
+DIB6095367	horse	horse	1	Noun	members of the species ''Equus ferus''	1	y
+DIB6099402	corkscrew	corkscrew	1	Noun	implement for opening bottles sealed by a cork	1	y
+DIB6099600	every	every	1	Determiner	all of a countable group	1	yp
+DIB6107569	time	time/translations	2	Noun	quantity of availability in time	1	y
+DIB6118123	shoe	shoe	1	Noun	protective covering for the foot	1	y
+DIB6124232	burn	burn	9	Verb	to cause to be consumed by fire	1	y
+DIB6124232	burn	burn	10	Verb	to be consumed by fire	1	y
+DIB6126403	eat	eat	1	Verb	to ingest	1	y
+DIB6131430	decide	decide	1	Verb	to resolve or settle	1	y
+DIB6131430	decide	decide	2	Verb	give judgement	1	y
+DIB6131488	excellent	excellent	1	Adjective	of the highest quality	1	y
+DIB6141856	move	move	3	Verb	to change residence	1	y
+DIB6150515	chess	chess	1	Noun	two-player board game	1	y
+DIB6150682	sting	sting	13	Verb	of an insect or arachnid: to puncture with the stinger	1	y
+DIB6160881	behind	behind	1	Preposition	at the back of	1	y
+DIB6181096	lawyer	lawyer	1	Noun	professional person with a graduate law degree that qualifies for legal work	1	y
+DIB6186680	fishing rod	fishing rod	1	Noun	rod used for angling	1	y
+DIB6188113	Christmas market	Christmas market	1	Noun		1	y
+DIB6188414	arrive	arrive	2	Verb	to get to a certain place	1	y
+DIB6189866	discourage	discourage	1	Verb	to dishearten	1	y
+DIB6190904	how are you	how are you	1	Phrase	greeting	1	y
+DIB6192325	what date is it today	what date is it today	1	Phrase	what date is it today?	1	y
+DIB6209919	imaginative	imaginative	2	Adjective	tending to be fanciful	1	y
+DIB6210180	means of transportation	means of transportation	1	Noun	general term for the different kinds of transport facilities that are often used to transport people or cargo in many ways	1	y
+DIB6212873	Sunday	Sunday	3	Adverb	on Sunday	1	y
+DIB6217415	exhaust	exhaust	10	Noun	exhaust gas	1	plural
+DIB6226227	all	all	1	Determiner	every individual of the given class	1	y
+DIB6228464	bite	bite	1	Verb	cut into by clamping the teeth	1	y
+DIB6230728	sort out	sort out	3	Verb	to fix problem	1	y
+DIB6234019	bathroom	bathroom	1	Noun	a room with a bathtub	1	y
+DIB6234991	butter	butter	1	Noun	soft foodstuff made from milk	1	y
+DIB6237142	depressing	depressing	1	Adjective	causing depression or sadness	1	y
+DIB6249292	Lusatia	Lusatia	1	Proper noun	region	1	y
+DIB6251363	love	love/translations	1	Noun	strong affection	1	y
+DIB6252829	colorful	colorful	1	Adjective	possessing prominent and varied colors	1	y
+DIB6257546	behavior	behavior	1	Noun	way an animal or human behaves or acts	1	y
+DIB6264023	think	think	4	Verb	be of the opinion that	1	y
+DIB6273163	burn down	burn down	2	Verb	completely burn so that nothing remains	1	y
+DIB6280112	ski	ski	3	Verb	move on skis	1	y
+DIB6285353	sale	sale	2	Noun	sale of goods at reduced prices	1	y
+DIB6287720	pot	pot	1	Noun	vessel for cooking or storing food etc.	1	y
+DIB6288213	belt	belt	1	Noun	band worn around the waist	1	y
+DIB6292789	far	far/translations	1	Adjective	remote in space	1	y
+DIB6293649	fifteen	fifteen	1	Numeral	cardinal number	1	y
+DIB6297904	flee	flee	1	Verb	to run away; to escape	1	y
+DIB6299502	injure	injure	1	Verb	to wound or cause physical harm	1	y
+DIB6299709	rest	rest	11	Verb	intransitive: take repose	1	y
+DIB6303919	miss	miss	1	Verb	to fail to hit	1	y
+DIB6310873	extremely	extremely	1	Adverb	to an extreme degree	1	y
+DIB6324345	arrogant	arrogant	1	Adjective	having excessive pride	1	y
+DIB6333211	top up	top up	1	Verb	to refill	1	y
+DIB6343470	apartment	apartment	1	Noun	domicile occupying part of a building	1	y
+DIB6349278	belong	belong	4	Verb	be the property of	1	y
+DIB6349901	bacon	bacon	1	Noun	cut of meat	1	y
+DIB6350903	coffee table	coffee table	1	Noun	type of table	1	y
+DIB6351429	knee	knee	1	Noun	joint in the middle of the leg and area around it	1	y
+DIB6352917	chalk	chalk	2	Noun	a piece of chalk used for drawing and on a blackboard	1	y
+DIB6359241	scream	scream	2	Verb	to make the sound of a scream	1	y
+DIB6362922	die out	die out	1	Verb	to become extinct	1	y
+DIB6363445	always	always	1	Adverb	at all times	1	y
+DIB6376956	ninety	ninety	1	Numeral	90	1	y
+DIB6384257	get dressed	get dressed	1	Verb	to beclothe oneself, to put on clothes	1	y
+DIB6390672	big	big	1	Adjective	of a great size	1	y
+DIB6394931	smooth	smooth	1	Adjective	lacking friction, not rough	1	y
+DIB6397646	English	English	10	Proper noun	the English language	1	y
+DIB6410439	carry	carry	1	Verb	to transport by lifting	1	y
+DIB6412420	author	author	1	Noun	originator or creator of a work	1	y
+DIB6415162	shore	shore	1	Noun	land adjoining a large body of water	1	y
+DIB6419571	exercise	exercise	1	Noun	any activity designed to develop or hone a skill or ability	1	y
+DIB6420267	make do	make do	1	Verb	to get by (with)	1	y
+DIB6427779	in order to	in order to	1	Conjunction	as a means of achieving the specified aim	1	y
+DIB6428184	finished	finished	1	Adjective	processed or perfected	1	y
+DIB6432614	terrible	terrible	1	Adjective	dreadful; causing alarm or fear	1	y
+DIB6432614	terrible	terrible	5	Adjective	very bad	1	y
+DIB6436165	vomit	vomit	1	Verb	regurgitate the contents of a stomach	1	y
+DIB6452882	sunshine	sunshine	1	Noun	direct rays of the sun	1	y
+DIB6455695	to	to	12	Preposition	time: preceding	1	y
+DIB6463826	daughter	daughter	1	Noun	female offspring	1	y
+DIB6465396	last night	last night	2	Adverb	during the night before today	1	y
+DIB6467883	white	white	1	Adjective	bright and colourless	1	y
+DIB6467883	white	white	16	Noun	color	1	y
+DIB6474195	hurry up	hurry up	1	Verb	go faster	1	y
+DIB6484906	in	in/translations	1	Preposition	contained by	1	y
+DIB6486801	read out	read out	1	Verb	read something and say the words to others	1	y
+DIB6500798	myself	myself	1	Pronoun	me, reflexive form of ''me''	1	yp
+DIB6502995	where are you from	where are you from	1	Phrase	in which country or region were you born or raised	1	y
+DIB6510635	begin	begin	1	Verb	to start, to initiate (transitive)	1	y
+DIB6512903	price	price	1	Noun	cost required to gain possession of something	1	y
+DIB6513098	hour	hour	1	Noun	time period of sixty minutes	1	y
+DIB6513737	criticize	criticize	1	Verb	to find fault	1	y
+DIB6517472	cry	cry	1	Verb	intransitive: to shed tears	1	y
+DIB6521684	again	again	1	Adverb	another time	1	y
+DIB6524229	he	he/translations	1	Pronoun	personal pronoun "he"	1	y
+DIB6541110	kleenex	kleenex	1	Noun	generic term for a disposable tissue	1	y
+DIB6541234	give in	give in	2	Verb	to relent or yield	1	y
+DIB6542475	concussion	concussion	2	Noun	injury	1	y
+DIB6549096	rehabilitate	rehabilitate	7	Verb	to recover	1	y
+DIB6559472	well-bred	well-bred	2	Adjective	well-mannered and refined	1	y
+DIB6568341	century	century	1	Noun	period of 100 years	1	y
+DIB6582226	local	local	1	Adjective	of a nearby location	1	y
+DIB6586411	prince	prince	2	Noun	son or male-line grandson of a reigning monarch	1	y
+DIB6588124	turn on	turn on	2	Verb	(transitive) to activate an appliance, light, mechanism, functionality etc.	1	y
+DIB6590088	grandchild	grandchild	1	Noun	child of one’s child	1	y
+DIB6599965	supermarket	supermarket	1	Noun	store	1	y
+DIB6603247	intimidate	intimidate	1	Verb	to make timid or fearful	1	y
+DIB6608285	current	current	4	Adjective	existing or occurring at the moment	1	y
+DIB6609595	pants	pants	1	Noun	garment covering the body from the waist downwards	1	y
+DIB6612516	high heels	high heels	1	Noun	shoes	1	y
+DIB6626351	catch	catch	8	Verb	to capture or snare	1	y
+DIB6640962	Tuesday	Tuesday	2	Adverb	on Tuesday	1	y
+DIB6641212	avoid	avoid	2	Verb	to keep away from	1	y
+DIB6652834	dish	dish	3	Noun	specific type of food	1	y
+DIB6661947	think back	think back	1	Verb	think about a time or experience	1	y
+DIB6663335	inform	inform	1	Verb	to communicate knowledge to another/others (transitive)	1	y
+DIB6663362	chest	chest	4	Noun	thorax	1	y
+DIB6663989	expensive	expensive	1	Adjective	having a high price or cost	1	y
+DIB6664576	golf	golf	1	Noun	ball game	1	y
+DIB6667186	influence	influence	6	Verb	transitive: to exert an influence upon	1	y
+DIB6673968	wonder	wonder	7	Verb	to ponder about something	1	yp
+DIB6674655	chiropractor	chiropractor	1	Noun	chiropractor	1	y
+DIB6684152	pharmacist	pharmacist	1	Noun	professional who dispenses prescription drugs	1	y
+DIB6686678	pointlessness	pointlessness	1	Noun	lack of purpose	1	y
+DIB6687504	once	once	1	Adverb	one and only one time	1	y
+DIB6690236	environment	environment	2	Noun	natural world or ecosystem	1	y
+DIB6698323	recount	recount	4		to count again	1	y
+DIB6702513	listen	listen	1	Verb	to pay attention to a sound	1	y
+DIB6709851	a lot	a lot	3	Adverb	very much	1	y
+DIB6710968	soon	soon	1	Adverb	within a short time	1	y
+DIB6712843	shorts	shorts	1	Noun	leg garment	1	y
+DIB6716140	dwarf	dwarf	1	Noun	a being from folklore, underground-dwelling nature spirit	1	plural
+DIB6738272	tomato	tomato	2	Noun	fruit	1	y
+DIB6745086	ahead	ahead	1	Adverb	in or to the front	1	y
+DIB6746585	Spanish	Spanish	4	Proper noun	Romance language of Spain and the Americas	1	y
+DIB6749627	wish	wish	3	Verb	to bestow a thought	1	y
+DIB6752303	until	until	1	Preposition	up to the time of	1	y
+DIB6759481	sixteen	sixteen	1	Numeral	cardinal number 16	1	y
+DIB6762754	myself	myself	1	Pronoun	me, reflexive form of ''me''	1	yp
+DIB6762834	them	them	1	Pronoun	third personal plural pronoun used after a preposition or as the object of a verb	1	yp
+DIB6774702	what's your phone number	what's your phone number	1	Phrase	what's your phone number?	1	y
+DIB6774874	gynaecologist	gynaecologist	1	Noun	specialist in diseases of the female reproductive system	1	y
+DIB6777743	doner kebab	doner kebab	1	Noun	Turkish dish of grilled meat served with pita	1	y
+DIB6787768	hail	hail	1	Noun	balls of ice	1	y
+DIB6793558	how old are you	how old are you	1	Phrase	what is your age in years	1	y
+DIB6796521	educated	educated	1	Adjective	having attained a level of higher education	1	y
+DIB6798719	training	training	1	Noun	the activity of imparting and acquiring skills	1	y
+DIB6813210	makeup	makeup	2	Noun	cosmetics; colorants and other substances applied to the skin to alter its appearance	1	y
+DIB6813624	creative	creative	1	Adjective	having the ability to create	1	y
+DIB6822976	improve	improve	2	Verb	to become better	1	y
+DIB6823045	bring	bring	1	Verb	to transport toward somebody/somewhere	1	y
+DIB6823778	pantyliner	pantyliner	1	Noun	pad worn inside underwear	1	y
+DIB6826348	Europe	Europe	1	Proper noun	id=Q46	1	y
+DIB6831695	week	week	1	Noun	period of seven days	1	y
+DIB6834366	accident	accident	1	Noun	unexpected event with negative consequences	1	y
+DIB6835971	appointment	appointment	4	Noun	arrangement for a meeting; an engagement	1	y
+DIB6836759	to	to	5	Preposition	in the direction of, and arriving at	1	y
+DIB6837398	acquaintance	acquaintance	2	Noun	person	1	y
+DIB6842131	rainy	rainy	1	Adjective	abounding with rain	1	y
+DIB6843484	seventy	seventy	1	Numeral	cardinal number	1	y
+DIB6844017	disembark	disembark	2	Verb	to go ashore, to leave a train or airplane	1	y
+DIB6852895	flip-flop	flip-flop	2	Noun	bistable electronic circuit	1	plural
+DIB6853950	attend	attend	2	Verb	(''transitive'') to be present at (an event or place) in order to take part in some action or proceedings; (''intransitive'') to go to and be present at a place for some purpose	1	y
+DIB6854388	like	like	1	Verb	to enjoy	1	y
+DIB6855967	in front of	in front of	3	Preposition	located before (something else)	1	y
+DIB6876190	excuse me	excuse me	4	Noun	sorry, as apology	1	y
+DIB6877271	army	army	1	Noun	military force concerned mainly with ground operations	1	y
+DIB6878451	shy	shy	2	Adjective	reserved	1	y
+DIB6879141	whence	whence	1	Adverb	from where; from which place or source	1	y
+DIB6885005	spicy	spicy	3	Adjective	tangy or pungent	1	y
+DIB6887394	staple	staple	9	Verb	secure with a staple	1	yp
+DIB6889576	grandfather	grandfather	1	Noun	grandfather (from either side)	1	y
+DIB6892637	general	general	4	Adjective	not limited in application; applicable to a whole class or category	1	y
+DIB6894933	wash up	wash up	1	Verb	wash one's hands and/or face (US)	1	y
+DIB6900407	download	download	2	Verb	to transfer data from a remote computer to a local one	1	y
+DIB6904272	violence	violence	2	Noun	action intended to cause destruction, pain or suffering	1	y
+DIB6907288	perform	perform	1	Verb	transitive: to do (something)	1	y
+DIB6908640	lie	lie	1	Verb	be in horizontal position	1	y
+DIB6909274	bread roll	bread roll	1	Noun	miniature round loaf of bread	1	y
+DIB6910023	peace	peace	4	Noun	state of being free from war	1	y
+DIB6921164	finger	finger/translations	1	Noun	(anatomy) extremity of the hand	1	y
+DIB6921172	comb	comb	5	Verb	to groom the hair with a toothed implement	1	y
+DIB6935637	make up	make up	5	Verb	to apply cosmetics	1	y
+DIB6941890	get along	get along	1	Verb	interact or coexist well, without argument or trouble	1	y
+DIB6945288	stomach	stomach	1	Noun	digestive organ	1	y
+DIB6947203	put out	put out	10	Verb	to extinguish (fire)	1	y
+DIB6952717	knit	knit	1	Verb	to make fabric from thread or yarn	1	y
+DIB6957164	search	search	2	Verb	to look throughout (a place) for something	1	y
+DIB6965996	vicinity	vicinity	2	Noun	neighbourhood, or the nearby region	1	y
+DIB6966127	bra	bra	1	Noun	brassiere	1	y
+DIB6970744	camera	camera	1	Noun	still camera	1	y
+DIB6986737	Nutella	Nutella	1	Proper noun	chocolate spread	1	y
+DIB6989154	wall	wall	3	Noun	substantial structure acting as side or division in a building	1	y
+DIB6990378	luggage	luggage	1	Noun	traveller's containers	1	y
+DIB7007560	tiny	tiny	1	Adjective	very small	1	y
+DIB7012776	cordial	cordial	1	Adjective	hearty	1	y
+DIB7016969	bicycle	bicycle	1	Noun	vehicle	1	y
+DIB7016982	Weimar Republic	Weimar Republic	1	Proper noun	Germany between 1919 and 1933	1	y
+DIB7017644	not bad	not bad	1	Adjective	reasonably good	1	y
+DIB7018152	arrest	arrest	9	Verb	to take into legal custody	1	y
+DIB7018679	sports jacket	sports jacket	1	Noun	tailored jacket that is not part of a suit	1	y
+DIB7019064	pencil	pencil	1	Noun	graphite writing-instrument	1	y
+DIB7019646	princess	princess	1	Noun	female member of royal family	1	y
+DIB7022754	stove	stove	1	Noun	heater	1	y
+DIB7022754	stove	stove	2	Noun	device for heating food	1	y
+DIB7022766	freeze	freeze	3	Verb	of temperature, to drop below zero	1	y
+DIB7023100	myself	myself	2	Pronoun	in apposition with I; personally	1	yp
+DIB7030071	sweet	sweet/translations	2	Adjective	having a taste of sugar	1	y
+DIB7037594	execute	execute	1	Verb	to kill as punishment	1	y
+DIB7050765	March	March	1	Proper noun	third month of the Gregorian calendar	1	y
+DIB7051010	letter	letter	1	Noun	a symbol in an alphabet	1	y
+DIB7055738	fry	fry	1	Verb	to cook (something) in hot fat or oil	1	y
+DIB7059278	stereo	stereo	2	Noun	device	1	y
+DIB7061087	drum	drum	1	Noun	musical instrument	1	y
+DIB7061899	sprain	sprain	1	Verb	to weaken a joint, ligament, or muscle	1	y
+DIB7064411	thrifty	thrifty	1	Adjective	given to, or evincing, thrift	1	y
+DIB7068322	major	major	9	Noun	principal subject or course	1	y
+DIB7081010	panic	panic	3	Noun	overwhelming fear or fright; an instance of this	1	y
+DIB7083750	CD player	CD player	1	Noun	CD player	1	y
+DIB7097421	jump up	jump up	1	Verb	to move to a higher position with one jump	1	y
+DIB7098272	forehead	forehead	1	Noun	part of face above eyebrows	1	y
+DIB7105005	milk	milk/translations	1	Noun	liquid	1	y
+DIB7118692	tampon	tampon	1	Noun	a plug of cotton or other absorbent material	1	y
+DIB7128687	philosopher	philosopher	1	Noun	person devoted to studying philosophy	1	y
+DIB7131120	speaker	speaker	2	Noun	loudspeaker	1	y
+DIB7131714	succeed	succeed	2	Verb	to obtain the object desired; to accomplish what is attempted or intended; to have a prosperous issue or termination; to be successful	1	y
+DIB7140951	fall of the wall	fall of the wall	1	Proper noun	deconstruction of the Berlin Wall	1	y
+DIB7145425	origin	origin	4	Noun	ancestry	1	y
+DIB7145567	separate	separate	2	Verb	to disunite, disconnect	1	y
+DIB7164932	South America	South America	1	Proper noun	id=Q18	1	y
+DIB7165324	blackmail	blackmail	2	Verb	to extort money	1	y
+DIB7165459	fish	fish	1	Verb	to catch fish or aquatic animals	1	y
+DIB7173569	considerate	considerate	1	Adjective	thoughtful	1	y
+DIB7178205	knock	knock	4	Verb	to rap one's knuckles against something	1	y
+DIB7182751	bad	bad	6	Adjective	evil, wicked	1	y
+DIB7186597	Christmas tree	Christmas tree	1	Noun	evergreen tree used as a decoration during the Christmas holiday season	1	y
+DIB7195942	railway	railway	2	Noun	transport system using these rails	1	y
+DIB7197183	get changed	get changed	1	Verb	change one's clothing	1	y
+DIB7200197	economics	economics	3	Noun	study of resource and wealth allocation, consumption, and distribution, of capital and investment, and of management of the factors of production; application of this study to a particular domain	1	y
+DIB7213223	be late	be late	1	Verb	arrive late	1	y
+DIB7214854	sunscreen	sunscreen	1	Noun	cream that protects the skin from the sun	1	y
+DIB7219892	keep	keep	1	Verb	to maintain possession of	1	y
+DIB7220420	adhesive tape	adhesive tape	1	Noun	adhesive tape generally	1	y
+DIB7228069	light	light	9	Adjective	of low weight	1	y
+DIB7228557	presentation	presentation	2	Noun	something presented to an audience	1	y
+DIB7230981	intersection	intersection	1	Noun	junction of two or more paths, etc	1	y
+DIB7232525	performance	performance	3	Noun	live show or concert	1	y
+DIB7242715	bookshelf	bookshelf	1	Noun	shelf for storing books	1	y
+DIB7245727	tongue	tongue	1	Noun	organ	1	y
+DIB7246437	paralyzed	paralyzed	1	Adjective	(of a person or part of the body) partly or wholly incapable of movement; disabled	1	y
+DIB7254002	bus	bus/translations	1	Noun	vehicle	1	y
+DIB7264669	after	after	9	Conjunction	signifies that the action of its clause takes place before the action of the other clause	1	y
+DIB7288220	paternal	paternal	2	Adjective	fatherly; behaving as or characteristic of a father	1	yp
+DIB7297301	prick	prick	5	Verb	to pierce	1	y
+DIB7298599	true	true	1	Adjective	concurring with a given set of facts	1	y
+DIB7302494	museum	museum	1	Noun	building or institution	1	y
+DIB7307284	daily	daily	1	Adjective	that occurs every day	1	y
+DIB7311676	flip out	flip out	1	Verb	to become very upset	1	y
+DIB7313133	cool	cool	8	Adjective	colloquial: in fashion	1	y
+DIB7315225	monitor	monitor	2	Noun	computer display	1	y
+DIB7322367	vocational school	vocational school	1	Noun	1. A school that provides training in specific skills required for different industries.	1	y
+DIB7322426	us	us	1	Pronoun	objective case of "we"	1	yp
+DIB7329789	sometimes	sometimes	1	Adverb	on certain occasions, but not always	1	y
+DIB7331056	today	today	1	Adverb	on the current day	1	y
+DIB7331610	swear	swear	1	Verb	to take an oath	1	y
+DIB7333064	invitation	invitation	1	Noun	act of inviting	1	y
+DIB7334371	backpedal	backpedal	2	Verb	to step backwards	1	y
+DIB7338354	flirt	flirt	8	Verb	to play at courtship	1	y
+DIB7342009	why	why	1	Adverb	(interrogative) for what reason	1	y
+DIB7344810	path	path	1	Noun	a trail for the use of, or worn by, pedestrians	1	y
+DIB7346550	first time	first time	1	Noun	first instance of sexual intercourse	1	y
+DIB7346992	accidental	accidental	1	Adjective	happening by chance	1	y
+DIB7347078	tolerance	tolerance	2	Noun	ability or practice of tolerating	1	y
+DIB7354727	jeans	jeans	1	Noun	denim trousers	1	y
+DIB7360357	weather	weather	1	Noun	state of the atmosphere	1	y
+DIB7367889	busy	busy	1	Adjective	crowded with business or activities	1	y
+DIB7380945	third	third	3	Noun	one of three equal parts of a whole	1	y
+DIB7384939	pale	pale	2	Adjective	having a pallor, of human skin	1	y
+DIB7385200	western	western	1	Adjective	pertaining to the west	1	y
+DIB7387693	second	second	15	Noun	one-sixtieth of a minute; SI unit of time	1	y
+DIB7388216	abroad	abroad	1	Adverb	in foreign countries	1	y
+DIB7391368	under no circumstances	under no circumstances	1	Prepositional phrase	never ever	1	y
+DIB7401436	competitive	competitive	3	Adjective	economics: capable of competing successfully	1	y
+DIB7405047	open	open	12	Verb	to make something accessible	1	y
+DIB7410122	December	December	1	Proper noun	twelfth month of the Gregorian calendar	1	y
+DIB7410428	documentary	documentary	4	Noun	documentary film	1	y
+DIB7415054	gay	gay	3	Adjective	homosexual	1	y
+DIB7428724	Mediterranean Sea	Mediterranean Sea	1	Proper noun	sea between Europe and Africa	1	y
+DIB7435523	volleyball	volleyball	1	Noun	game	1	y
+DIB7435940	inventive	inventive	2	Adjective	creative, or skilful at inventing	1	y
+DIB7439444	politeness	politeness	2	Noun	act of being polite	1	y
+DIB7440271	increase	increase	1	Verb	become larger	1	y
+DIB7442902	free	free	11	Adverb	without needing to pay	1	y
+DIB7444062	room	room	2	Noun	space	1	y
+DIB7444062	room	room	6	Noun	division in a building	1	y
+DIB7444598	preview	preview	2	Noun	advance showing of a film, exhibition etc.	1	y
+DIB7451252	turn	turn	3	Verb	intransitive: change one's direction of travel	1	y
+DIB7458595	what do you do	what do you do	1	Phrase	what do you do?	1	y
+DIB7462027	understand	understand	1	Verb	to grasp the meaning of	1	y
+DIB7465956	partner	partner	1	Noun	someone who is associated with another in a common activity or interest	1	y
+DIB7468675	former	former	1	Adjective	previous	1	y
+DIB7474854	onion	onion	1	Noun	''Allium cepa''	1	plural
+DIB7477494	engineer	engineer	1	Noun	person engaged in designing, constructing, or maintaining engines or machinery; (''more generally'') a person qualified or professionally engaged in any branch of engineering, or studying to do so	1	y
+DIB7483596	position	position	2	Noun	post of employment	1	y
+DIB7484102	clique	clique	1	Noun	small, exclusive group	1	y
+DIB7488448	paper clip	paper clip	1	Noun	paper clip	1	y
+DIB7488794	new	new/translations	1	Adjective	recently made or created	1	y
+DIB7489639	hot	hot	1	Adjective	having a high temperature	1	y
+DIB7489639	hot	hot	2	Adjective	of the weather	1	y
+DIB7492922	print	print	1	Verb	to produce a copy of a text or image on a surface, especially by machine	1	y
+DIB7495054	little	little	6	Adverb	not much	1	y
+DIB7498137	guitar	guitar	1	Noun	musical instrument	1	y
+DIB7499895	Central America	Central America	1	Proper noun	id=Q27611	1	y
+DIB7502496	then	then	2	Adverb	soon afterward	1	y
+DIB7505057	ticket machine	ticket machine	1	Noun	ticket vending machine	1	y
+DIB7505080	stupid	stupid	1	Adjective	lacking in intelligence	1	y
+DIB7517178	agree	agree	4	Verb	to resemble, coincide, correspond	1	y
+DIB7520089	flight	flight	4	Noun	journey made by an aircraft	1	y
+DIB7530130	sensitive	sensitive	3	Adjective	easily offended	1	y
+DIB7532747	funny	funny	1	Adjective	amusing; comical	1	y
+DIB7533705	enlighten	enlighten	2	Verb	to make clear to the intellect	1	y
+DIB7536289	reserve	reserve	12	Verb	to book in advance	1	y
+DIB7537454	drunk	drunk	1	Adjective	intoxicated after drinking too much alcohol	1	y
+DIB7538795	have fun	have fun	1	Verb	enjoy oneself	1	y
+DIB7539212	precipitation	precipitation	1	Noun	weather: water falling from the atmosphere	1	y
+DIB7540435	talkative	talkative	1	Adjective	tending to talk or speak freely or often	1	y
+DIB7541706	deodorant	deodorant	2	Noun	odor-controlling cosmetic for the underarm	1	y
+DIB7545022	sleep in	sleep in	1	Verb	to sleep late	1	y
+DIB7546086	catch a cold	catch a cold	1	Verb	contract a cold	1	y
+DIB7547738	Holy Roman Empire	Holy Roman Empire	1	Proper noun	id=Q12548	1	y
+DIB7559189	disdain	disdain	1	Noun	feeling of contempt or scorn	1	y
+DIB7566382	get up	get up	2	Verb	to rise from one's bed	1	y
+DIB7573603	poem	poem	1	Noun	literary piece written in verse	1	y
+DIB7583796	today's	today's	1	Adjective	relating to, or produced today	1	y
+DIB7587836	twin	twin	1	Noun	either of two people who shared the same uterus, or of two similar or closely related objects	1	y
+DIB7588175	bar	bar/translations	6	Noun	business licensed to sell intoxicating beverages	1	y
+DIB7591591	literature	literature	1	Noun	body of all written works	1	y
+DIB7604092	exchange	exchange	3	Verb	To trade or barter	1	y
+DIB7606701	if	if	3	Conjunction	whether	1	y
+DIB7607326	number	number	6	Noun	sequence of digits and letters used to register people, automobiles, etc.	1	y
+DIB7611390	much	much	2	Adverb	to a great extent	1	y
+DIB7613425	noon	noon	1	Noun	midday	1	y
+DIB7613697	foggy	foggy	1	Adjective	obscured by mist or fog	1	y
+DIB7618622	pass out	pass out	2	Verb	to distribute	1	y
+DIB7627151	July	July	1	Proper noun	seventh month of the Gregorian calendar	1	y
+DIB7628350	birthday party	birthday party	1	Noun	a party held to celebrate a birthday	1	y
+DIB7633718	enlarge	enlarge	1	Verb	make larger	1	y
+DIB7650911	part	part	1	Noun	fraction of a whole	1	y
+DIB7650911	part	part	3	Noun	group inside a larger group	1	y
+DIB7653574	open	open	1	Adjective	not closed	1	y
+DIB7663846	turkey	turkey	2	Noun	flesh or meat of this bird	1	y
+DIB7668925	sun	sun/translations	1	Proper noun	id=Q525	1	y
+DIB7673646	mute	mute	1	Adjective	not having the power of speech	1	y
+DIB7677130	brush one's teeth	brush one's teeth	1	Verb	to clean one's teeth with a toothbrush	1	y
+DIB7677935	country	country	2	Noun	nation state	1	y
+DIB7678842	dispatch	dispatch	1	Verb	to send with promptness	1	y
+DIB7684368	complaint	complaint	4	Noun	bodily disorder or disease; the symptom of such a disorder	1	plural
+DIB7684703	adequate	adequate	1	Adjective	equal to some requirement	1	y
+DIB7685715	prescription	prescription	1	Noun	written order for the administration of a medicine	1	y
+DIB7691317	known	known	1	Adjective	whom other people know; renowned, famous	1	y
+DIB7706402	lightning	lightning	1	Noun	flash of light	1	y
+DIB7706690	prejudice	prejudice	1	Noun	adverse judgement formed beforehand	1	y
+DIB7710240	ourselves	ourselves	1	Pronoun	reflexive: us	1	yp
+DIB7711067	eggplant	eggplant	2	Noun	edible fruit	1	y
+DIB7717185	architecture	architecture	1	Noun	art and science of designing buildings and other structures	1	y
+DIB7721049	employ	employ	1	Verb	to give someone work	1	y
+DIB7730218	poor	poor	1	Adjective	with few or no possessions or money	1	y
+DIB7730795	sit down	sit down	1	Verb	to assume a sitting position from a standing position	1	y
+DIB7733037	doctor	doctor	1	Noun	person who has attained a doctorate	1	y
+DIB7736335	pupil	pupil	1	Noun	learner	1	y
+DIB7737627	examine	examine	2	Verb	to check the health or condition of something or someone	1	y
+DIB7739440	foot	foot	1	Noun	part of human body	1	y
+DIB7739575	possibly	possibly	2	Adverb	adverb indicating that an action may successfully be performed	1	y
+DIB7742404	education	education	1	Noun	process or art of imparting knowledge, skill and judgment	1	y
+DIB7744375	folder	folder	1	Noun	organizer	1	y
+DIB7745550	good morning	good morning	1	Interjection	when seeing someone for the first time in the morning	1	y
+DIB7752216	beef	beef	1	Noun	meat	1	y
+DIB7753251	twenty-one	twenty-one	1	Numeral	cardinal number	1	y
+DIB7753578	shoot	shoot	3	Verb	to hit with a shot	1	y
+DIB7753739	feed	feed	1	Verb	to give food to eat	1	y
+DIB7765168	temperature	temperature	1	Noun	a measure of cold or heat	1	y
+DIB7786284	Easter	Easter	1	Noun	Christian feast commemorating the resurrection of Jesus Christ	1	y
+DIB7790210	scare	scare	3	Verb	to frighten	1	y
+DIB7803821	pear	pear	1	Noun	fruit	1	y
+DIB7806750	meanwhile	meanwhile	1	Adverb	during the time something is happening	1	y
+DIB7807438	good	good	1	Adjective	acting in the interest of good; ethical good intentions	1	y
+DIB7810418	grade	grade	2	Noun	performance expressed by a number, letter, or other symbol	1	y
+DIB7811824	fight	fight	7	Noun	occasion of fighting	1	y
+DIB7822733	threaten	threaten	1	Verb	to make a threat against someone; to use threats	1	y
+DIB7822733	threaten	threaten	2	Verb	to menace, or be dangerous	1	y
+DIB7828860	beach	beach	1	Noun	sandy shore	1	y
+DIB7832346	add	add	1	Verb	to append (e.g. a statement); to say further information; to add on	1	y
+DIB7832346	add	add	2	Verb	to make an addition; to augment; to increase; to add on	1	y
+DIB7835406	ticket office	ticket office	1	Noun	an office where tickets may be purchased	1	y
+DIB7836608	happy Easter	happy Easter	1	Phrase	an expression used during Easter	1	y
+DIB7836784	clean	clean	13	Verb	(transitive) to remove dirt from a place or object	1	y
+DIB7837414	nine	nine	1	Numeral	cardinal number	1	y
+DIB7837641	old	old	1	Adjective	of an object, concept, etc: having existed for a relatively long period of time	1	y
+DIB7839106	record	record	8	Verb	make an audio or video recording of	1	yp
+DIB7842670	Tuesday	Tuesday	1	Noun	day of the week	1	y
+DIB7847093	light bulb	light bulb	1	Noun	evacuated glass bulb containing a metal filament that produces light	1	y
+DIB7855052	survey	survey	1	Noun	an examination of the opinions, information of a group	1	y
+DIB7857967	written	written	1	Adjective	of, relating or characteristic of writing	1	y
+DIB7859438	himself	himself	1	Pronoun	(reflexive) male person as the previously mentioned object	1	yp
+DIB7860183	workbook	workbook	1	Noun	book used by a student	1	y
+DIB7862091	birthday cake	birthday cake	1	Noun	a cake made to celebrate a birthday	1	y
+DIB7863098	give	give	1	Verb	transfer the possession of something to someone else	1	y
+DIB7863217	miss	miss	4	Verb	to feel the absence of someone or something; to feel the want or need of	1	y
+DIB7867244	shoulder	shoulder/translations	2	Noun	joint between arm and torso	1	y
+DIB7872736	boat	boat	1	Noun	water craft	1	y
+DIB7875039	calorie	calorie	1	Noun	amount of heat to raise 1 gram of water by 1 °C	1	y
+DIB7877146	when	when	1	Adverb	at what time, as a direct question	1	y
+DIB7878602	psychology	psychology	1	Noun	study of the human mind	1	y
+DIB7889092	nauseous	nauseous	2	Adjective	afflicted with nausea	1	y
+DIB7898834	sunny	sunny	1	Adjective	weather, day	1	y
+DIB7903814	North Sea	North Sea	1	Proper noun	a marginal sea of the Atlantic Ocean between Britain, Scandinavia and Germany, the Netherlands, Belgium and France	1	y
+DIB7903945	receive	receive	1	Verb	to take what is offered, accept from another	1	y
+DIB7904331	surrender	surrender	4	Noun	an act of surrendering	1	y
+DIB7905214	dress	dress	1	Verb	transitive: to put clothes on	1	y
+DIB7905701	stubbornly	stubbornly	1	Adverb	in a stubborn manner	1	y
+DIB7913515	fulfill	fulfill	1	Verb	to carry out	1	y
+DIB7918520	cinema	cinema	1	Noun	a film/movie theatre	1	y
+DIB7918939	hat	hat	1	Noun	a head covering	1	y
+DIB7919441	contradict	contradict	1	Verb	deny the truth of (a statement or statements)	1	y
+DIB7923813	stylish	stylish	1	Adjective	having elegance or taste or refinement in manners or dress	1	y
+DIB7924576	introduce	introduce	1	Verb	to cause someone to be acquainted	1	y
+DIB7925066	lift	lift	6	Verb	to lift weights	1	y
+DIB7928755	immediately	immediately	1	Adverb	in an immediate manner	1	y
+DIB7932757	how	how	2	Adverb	in what manner	1	y
+DIB7933395	wanderlust	wanderlust	1	Noun	strong impulse or longing to travel	1	y
+DIB7934225	that	that	3	Determiner	what is being indicated	1	y
+DIB7936136	colleague	colleague	1	Noun	fellow member of a profession	1	y
+DIB7944793	unashamed	unashamed	1	Adjective	feeling or showing no shame, embarrassment or remorse	1	y
+DIB7945113	body	body	1	Noun	physical structure of a human or animal	1	y
+DIB7945321	almost	almost	1	Adverb	very close to	1	y
+DIB7953046	achieve	achieve	1	Verb	to carry out successfully; to accomplish	1	y
+DIB7961027	play	play	16	Noun	theatrical performance	1	y
+DIB7962789	napkin	napkin	1	Noun	serviette	1	y
+DIB7964249	actor	actor	2	Noun	dramatic performer	1	y
+DIB7983677	formal	formal	1	Adjective	being in accord with established forms	1	y
+DIB7983677	formal	formal	2	Adjective	official	1	y
+DIB8010527	foreign language	foreign language	1	Noun	any language other than that spoken by the people of a specific place	1	y
+DIB8012265	eye doctor	eye doctor	1	Noun	optometrist or ophthalmologist	1	y
+DIB8021491	egg	egg/translations	1	Noun	approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development	1	y
+DIB8023386	lazy	lazy	1	Adjective	unwilling to work	1	y
+DIB8027588	sightsee	sightsee	1	Verb	go sightseeing	1	y
+DIB8033063	recklessly	recklessly	1	Adverb	in a reckless manner	1	y
+DIB8036346	United States of America	United States of America	1	Proper noun	id=Q30	1	yp
+DIB8044090	go away	go away	2	Verb	to depart or leave a place	1	y
+DIB8053560	German	German	5	Proper noun	the German language	1	y
+DIB8055309	church	church	1	Noun	house of worship	1	y
+DIB8056292	movie	movie	1	Noun	motion picture	1	y
+DIB8057954	save	save	1	Verb	to help someone to survive, or rescue someone	1	y
+DIB8058985	invisible	invisible	1	Adjective	unable to be seen	1	y
+DIB8066312	at first	at first	1	Prepositional phrase	initially; at the start	1	y
+DIB8071623	Australia	Australia	1	Proper noun	id=Q408	1	y
+DIB8072444	exhausted	exhausted	1	Adjective	very tired	1	y
+DIB8083509	instrument	instrument	1	Noun	musical device	1	y
+DIB8089703	Abitur	Abitur	1	Noun	group of exams taken in the final year of German secondary school	1	y
+DIB8092256	pension	pension	1	Noun	regular payment due to a person in consideration of past services	1	y
+DIB8109013	decorate	decorate	1	Verb	to furnish with decorations	1	y
+DIB8116309	circle of friends	circle of friends	1	Noun	group of close friends	1	y
+DIB8116879	pizzeria	pizzeria	1	Noun	outlet that primarily sells pizza	1	y
+DIB8119383	grocery store	grocery store	1	Noun	a store where groceries can be purchased, especially a supermarket	1	y
+DIB8127458	girlfriend	girlfriend	1	Noun	a female partner in a romantic relationship	1	y
+DIB8148011	need	need	3	Verb	to have an absolute requirement for	1	y
+DIB8148369	accountant	accountant	2	Noun	a reckoner, or someone who maintains financial matters for a person(s)	1	y
+DIB8151925	condom	condom	1	Noun	flexible sleeve worn on the penis	1	y
+DIB8152052	percent	percent	1	Noun	a part or other object per hundred	1	y
+DIB8154514	homesickness	homesickness	1	Noun	missing one's home or family	1	y
+DIB8155171	window	window	1	Noun	opening for light and air	1	y
+DIB8156226	raise	raise	7	Verb	to bring up, to grow	1	y
+DIB8161286	actually	actually	1	Adverb	In act or in fact; really; in truth; positively	1	y
+DIB8169056	veterinarian	veterinarian	1	Noun	doctor who treats animals	1	y
+DIB8184317	please turn left	please turn left	1	Phrase	please turn left	1	yp
+DIB8186993	erase	erase	1	Verb	to remove markings or information	1	y
+DIB8188827	juice	juice	2	Noun	beverage made of juice	1	y
+DIB8196407	heart	heart/translations	1	Noun	an organ	1	y
+DIB8204806	evil	evil	1	Adjective	intending to harm	1	y
+DIB8207267	thumb	thumb	1	Noun	digit	1	y
+DIB8216549	Monday	Monday	2	Adverb	on Monday	1	y
+DIB8228837	eastern	eastern	1	Adjective	related to the east	1	y
+DIB8229939	look forward to	look forward to	1	Verb	anticipate, expect, or wait for	1	y
+DIB8234496	refrigerator	refrigerator	1	Noun	appliance	1	y
+DIB8238308	congratulate	congratulate	1	Verb	to express one’s sympathetic pleasure or joy to the person(s) it is felt for	1	y
+DIB8241114	Wednesday	Wednesday	1	Noun	day of the week	1	y
+DIB8244406	forgive	forgive	1	Verb	transitive, to pardon	1	y
+DIB8254295	cough	cough	4	Verb	to push air from the lungs through the glottis (causing a short, explosive sound) and out through the mouth	1	y
+DIB8256354	opinionated	opinionated	1	Adjective	holding very strong opinions	1	y
+DIB8266318	advertisement	advertisement	1	Noun	commercial solicitation	1	y
+DIB8275989	for	for/translations	3	Preposition	directed at, intended to belong to	1	y
+DIB8276351	prescribe	prescribe	1	Verb	to order a drug or medical device	1	y
+DIB8278097	hit on	hit on	1	Verb	to approach somebody seeking love, sex, etc.	1	y
+DIB8279634	clock	clock	1	Noun	instrument to measure or keep track of time	1	y
+DIB8286072	date	date	14	Verb	to have a steady relationship with; to be romantically involved with	1	y
+DIB8287054	impressed	impressed	1	Adjective	strongly affected, especially favourably	1	y
+DIB8290187	garden	garden	1	Noun	piece of land outside with flowers and plants	1	y
+DIB8291142	election campaign	election campaign	1	Noun		1	y
+DIB8295847	video game	video game	1	Noun	type of game existing as and controlled by software	1	y
+DIB8297344	boss	boss	1	Noun	supervisor	1	y
+DIB8300367	attach	attach	1	Verb	to fasten, to join to	1	y
+DIB8300479	angrily	angrily	1	Adverb	in an angry manner	1	y
+DIB8305826	golf club	golf club	1	Noun	the implement	1	y
+DIB8306594	build	build	1	Verb	(transitive) to form by combining materials or parts	1	y
+DIB8310669	film	film	3	Verb	to record a motion picture	1	y
+DIB8315013	a little	a little	1	Adverb	to a small extent or degree	1	y
+DIB8316637	storm	storm	1	Noun	disturbed state of the atmosphere causing destructive or unpleasant weather	1	y
+DIB8324573	sink	sink	1	Verb	descend into liquid, etc	1	y
+DIB8325106	shower curtain	shower curtain	1	Noun	waterproof curtain	1	y
+DIB8336139	stem	stem	14	Verb	to descend in a family line	1	y
+DIB8348040	preorder	preorder	1	Verb	to order in advance	1	y
+DIB8349986	greenhouse effect	greenhouse effect	1	Noun	process by which a planet is warmed by its atmosphere	1	y
+DIB8353904	many	many	1	Determiner	an indefinite large number of	1	y
+DIB8355645	difficult	difficult	1	Adjective	hard, not easy	1	y
+DIB8356807	autumn	autumn	1	Noun	season	1	y
+DIB8366745	water	water/translations	1	Noun	id=Q283	1	y
+DIB8370612	entry	entry	8	Noun	article in a dictionary or encyclopedia	1	y
+DIB8378876	march	march	5	Verb	walk with long, regular strides	1	y
+DIB8385342	elbow	elbow	1	Noun	joint between upper arm and forearm	1	y
+DIB8388948	victim	victim	1	Noun	one who is harmed	1	y
+DIB8394168	duty	duty	1	Noun	that which one is morally or legally obligated to do	1	y
+DIB8397508	hairbrush	hairbrush	1	Noun	a brush used in hair care	1	y
+DIB8398279	choose	choose	2	Verb	to pick	1	y
+DIB8405185	devise	devise	1	Verb	use the intellect to plan or design	1	yp
+DIB8407053	call back	call back	2	Verb	telephone someone again	1	y
+DIB8414365	sponge	sponge	1	Noun	marine invertebrate	1	y
+DIB8419086	call	call	3	Verb	to contact by telephone	1	y
+DIB8425045	playing card	playing card	1	Noun		1	y
+DIB8428927	below	below	6	Adverb	in a lower place	1	y
+DIB8429936	no	no/translations	3	Determiner	not any	1	y
+DIB8430347	date	date	9	Noun	meeting with a lover or potential lover; a person so met	1	y
+DIB8431235	barrack	barrack	1	Noun	a building for soldiers	1	y
+DIB8431742	sleep	sleep	1	Verb	to rest in state of reduced consciousness	1	y
+DIB8432139	superficial	superficial	4	Adjective	not thorough, concerned with the obvious or apparent	1	y
+DIB8438698	quark	quark	4	Noun	soft, creamy, unripened cheese made from cow’s milk	1	y
+DIB8444495	advise	advise	1	Verb	to give advice to; to offer an opinion; to counsel; to warn	1	y
+DIB8446022	commercial	commercial	1	Noun	advertisement in a common media format	1	y
+DIB8452325	go by	go by	1	Verb	to pass by without paying attention to	1	y
+DIB8461968	weekend	weekend	1	Noun	break in the working week	1	y
+DIB8463093	thin	thin	3	Adjective	having little body fat or flesh; slim; slender; lean; gaunt	1	y
+DIB8485761	it	it	2	Pronoun	object	1	yp
+DIB8487498	eighteen	eighteen	1	Numeral	cardinal number	1	y
+DIB8489981	selected	selected	1	Adjective	that have been selected or chosen	1	y
+DIB8494930	general practitioner	general practitioner	1	Noun	physician who provides primary care; family doctor	1	y
+DIB8495206	travelogue	travelogue	1	Noun	description of someone's travels	1	y
+DIB8500961	pick up	pick up	6	Verb	to collect a passenger	1	y
+DIB8502387	hip	hip	1	Noun	joint	1	y
+DIB8507989	leave	leave	5	Verb	to depart from, end one's connection or affiliation with	1	y
+DIB8510342	sight	sight	4	Verb	see, get sight of, visually register	1	y
+DIB8520537	snobbish	snobbish	1	Adjective	having the property of being a snob	1	y
+DIB8526170	waiting room	waiting room	1	Noun	room	1	y
+DIB8527047	pour	pour	1	Verb	to cause to flow in a stream	1	y
+DIB8529258	recently	recently	1	Adverb	in the recent past	1	y
+DIB8532597	watch	watch	8	Verb	to look at for a period of time	1	yp
+DIB8540574	art history	art history	1	Noun	study of the history of the visual arts	1	y
+DIB8546333	serve	serve	2	Verb	to work for	1	y
+DIB8549759	drown	drown	2	Verb	to deprive of life by immersion in liquid	1	y
+DIB8553931	throw	throw	1	Verb	to cause an object to move rapidly through the air	1	y
+DIB8554542	voluntarily	voluntarily	1	Adverb	in a voluntary manner	1	y
+DIB8554922	Allies	Allies	2	Proper noun	in WWII	1	y
+DIB8557939	snooze button	snooze button	1	Noun		1	yp
+DIB8558443	childlike	childlike	2	Adjective	of, like, or suitable for a child	1	y
+DIB8559080	bedroom	bedroom	1	Noun	room in a house where a bed is kept for sleeping	1	y
+DIB8571271	morning	morning	1	Noun	part of the day between dawn and midday	1	y
+DIB8572170	suddenly	suddenly	1	Adverb	happening quickly and with little or no warning	1	y
+DIB8580538	cheese	cheese	1	Noun	dairy product	1	y
+DIB8585392	rental car	rental car	1	Noun	rented car	1	y
+DIB8588191	late	late	10	Adverb	past a designated time	1	y
+DIB8588914	sweet	sweet/translations	9	Adjective	having a pleasing disposition	1	y
+DIB8589724	decide	decide	1	Verb	to resolve or settle	1	y
+DIB8589724	decide	decide	2	Verb	give judgement	1	y
+DIB8591731	have time	have time	1	Verb	to have enough time to do something	1	y
+DIB8591847	half	half	1	Noun	one of two roughly equal parts into which anything may be divided	1	y
+DIB8598177	spark	spark	6	Verb	to give off sparks	1	y
+DIB8599069	name	name	1	Noun	word or phrase indicating a particular person, place, class or thing	1	y
+DIB8605650	account	account	1	Noun	a registry of pecuniary transactions	1	y
+DIB8606918	bed	bed/translations	1	Noun	piece of furniture	1	y
+DIB8609474	study	study	9	Noun	room in a house intended for reading and writing	1	y
+DIB8609488	humid	humid	1	Adjective	slightly wet	1	y
+DIB8613892	heating	heating	1	Noun	system	1	y
+DIB8618436	deliver	deliver	9	Verb	to express in words	1	y
+DIB8622644	pay	pay	1	Verb	to give money in exchange for goods or services	1	y
+DIB8629299	empty	empty	1	Adjective	devoid of content	1	y
+DIB8646453	date	date	14	Verb	to have a steady relationship with; to be romantically involved with	1	y
+DIB8648975	great-grandmother	great-grandmother	1	Noun	mother of one's grandparent	1	y
+DIB8650777	here	here/translations	1	Adverb	in, on, or at this place	1	y
+DIB8663431	over	over	11	Preposition	physical positioning: on top of; above	1	y
+DIB8664369	sister-in-law	sister-in-law	1	Noun	wife's sister	1	y
+DIB8664369	sister-in-law	sister-in-law	2	Noun	husband's sister	1	y
+DIB8664369	sister-in-law	sister-in-law	3	Noun	brother's wife	1	y
+DIB8664846	hunter	hunter	1	Noun	person who hunts game	1	y
+DIB8668173	Italy	Italy	1	Proper noun	id=Q38	1	y
+DIB8682232	fix	fix	1	Verb	to mend or repair	1	y
+DIB8687259	sharp	sharp	1	Adjective	able to cut easily	1	y
+DIB8696978	linguistics	linguistics	1	Noun	scientific study of language	1	y
+DIB8707015	rejoice	rejoice	1	Verb	to be happy	1	y
+DIB8727008	landmark	landmark	2	Noun	notable location	1	y
+DIB8729967	fluent	fluent	2	Adjective	able to speak a language accurately and confidently	1	y
+DIB8730167	Saturday	Saturday	2	Adverb	on Saturday	1	y
+DIB8730797	exciting	exciting	1	Adjective	causing excitement	1	y
+DIB8733282	send	send	1	Verb	make something go somewhere	1	y
+DIB8733825	crag	crag	1	Noun	rocky outcrop	1	y
+DIB8741972	surprise	surprise	4	Verb	cause (someone) to feel surprise	1	y
+DIB8746612	independence	independence	1	Noun	state or quality of being independent	1	y
+DIB8753815	sick	sick	6	Adjective	slang: very good, excellent	1	y
+DIB8762024	glass	glass	2	Noun	drinking vessel	1	y
+DIB8763139	when	when	8	Conjunction	during the time that	1	y
+DIB8763139	when	when	9	Conjunction	at what time; at which time	1	y
+DIB8763610	relationship	relationship	1	Noun	connection or association	1	y
+DIB8769283	spring	spring	3	Noun	season between winter and summer in temperate climates	1	y
+DIB8773571	few	few	1	Determiner	indefinite, usually small number	1	y
+DIB8780228	rather	rather	1	Adverb	preferably	1	y
+DIB8781976	federal state	federal state	2	Noun	non-sovereign state that is part of a federation	1	y
+DIB8783907	medicine	medicine/translations	3	Noun	field of study	1	y
+DIB8787950	identity card	identity card	1	Noun	identity card	1	yp
+DIB8787999	my	my	1	Determiner	belonging to me	1	y
+DIB8792666	loyal	loyal	1	Adjective	firm in allegiance to a person or institution	1	y
+DIB8795111	sensation	sensation	3	Noun	widespread excitement	1	y
+DIB8795335	drunk	drunk	1	Adjective	intoxicated after drinking too much alcohol	1	y
+DIB8795740	although	although	1	Conjunction	in spite of the fact that	1	y
+DIB8800436	red	red/translations	1	Adjective	having red as its colour	1	y
+DIB8811578	anti-inflammatory	anti-inflammatory	2	Adjective	preventing or counteracting inflammation	1	y
+DIB8813161	consider	consider	3	Verb	assign some quality to	1	y
+DIB8820854	verify	verify	2	Verb	to confirm or test the truth or accuracy of something	1	y
+DIB8830490	ham	ham	3	Noun	thigh of a hog cured for food	1	y
+DIB8835039	wine	wine	1	Noun	alcoholic beverage made from grapes	1	y
+DIB8839925	dinner	dinner	1	Noun	evening meal	1	y
+DIB8841000	at	at	1	Preposition	in or very near a particular place	1	y
+DIB8843302	Poland	Poland	1	Proper noun	id=Q36	1	y
+DIB8847664	lend	lend	1	Verb	to allow to be used temporarily	1	y
+DIB8849717	open	open	12	Verb	to make something accessible	1	yp
+DIB8852044	die	die/translations	1	Verb	to stop living	1	y
+DIB8861043	cook	cook	1	Noun	person who prepares food	1	y
+DIB8865821	Baltic Sea	Baltic Sea	1	Proper noun	a sea	1	y
+DIB8866177	to	to	3	Conjunction	in order to	1	y
+DIB8868664	self-confident	self-confident	1	Adjective	confident in one's abilities	1	y
+DIB8872880	caring	caring	1	Adjective	kind, sensitive, empathetic	1	y
+DIB8878008	daily	daily	4	Adverb	every day	1	y
+DIB8887181	publish	publish	2	Verb	to issue something (usually printed work) for sale and distribution	1	y
+DIB8888520	responsibility	responsibility	1	Noun	the state of being responsible	1	y
+DIB8895717	shower	shower	2	Noun	device for bathing	1	y
+DIB8896135	climb	climb	1	Verb	to ascend, to go up	1	y
+DIB8899218	I'm sorry	I'm sorry	1	Phrase	I'm sorry, I apologize	1	y
+DIB8901108	promotion	promotion	1	Noun	advancement in position	1	y
+DIB8905795	caffeine	caffeine	1	Noun	alkaloid found naturally in tea and coffee plants	1	y
+DIB8906074	be	be/translations	15	Verb	to occupy a place	1	y
+DIB8909229	hairdresser	hairdresser	1	Noun	professional for haircutting or hairstyling	1	y
+DIB8913185	lock out	lock out	1	Verb	inadvertently prevent from entering a place	1	y
+DIB8918230	fun	fun	3	Adjective	enjoyable, amusing	1	y
+DIB8918313	business	business	1	Noun	commercial enterprise or establishment	1	y
+DIB8920016	ambulance	ambulance	1	Noun	emergency vehicle	1	y
+DIB8921613	garbage	garbage	1	Noun	waste material	1	y
+DIB8923253	live	live	2	Verb	have permanent residence	1	y
+DIB8924586	win	win	4	Verb	intransitive: achieve by winning	1	y
+DIB8926271	good night	good night	1	Phrase	a farewell	1	y
+DIB8926936	son-in-law	son-in-law	1	Noun	son-in-law	1	y
+DIB8932704	carpool	carpool	1	Noun	arrangement	1	y
+DIB8934867	escape	escape	2	Verb	to avoid (any unpleasant person or thing); to elude, get away from	1	y
+DIB8937512	compare	compare	1	Verb	to assess the similarities between two things or between one thing and another	1	y
+DIB8941079	depressed	depressed	1	Adjective	severely despondent and unhappy	1	y
+DIB8946591	good afternoon	good afternoon	1	Phrase	greeting said in the afternoon	1	y
+DIB8953410	cajole	cajole	1	Verb	to encourage or persuade by effort	1	y
+DIB8959961	better	better	2	Adverb	comparative of the adverb ''well''	1	y
+DIB8961216	tough	tough	2	Adjective	rugged or physically hardy	1	y
+DIB8962041	wobbly	wobbly	1	Adjective	unsteady and tending to wobble	1	y
+DIB8963850	demarcate	demarcate	1	Verb	mark the limits or boundaries of something	1	y
+DIB8965070	serious	serious	1	Adjective	without humor or expression of happiness	1	y
+DIB8965070	serious	serious	2	Adjective	important; weighty; not trifling; leaving no room for play	1	y
+DIB8965070	serious	serious	3	Adjective	really intending what is said; being in earnest	1	y
+DIB8966404	sore	sore	1	Adjective	causing pain	1	y
+DIB8967790	broad	broad	1	Adjective	having a specified width	1	y
+DIB8972576	library	library	1	Noun	institution which holds books, etc.	1	yp
+DIB8981505	sunglasses	sunglasses	1	Noun	tinted glasses worn to protect the eyes from the sun	1	y
+DIB8992777	angry	angry	1	Adjective	displaying anger	1	y
+DIB8998221	European Union	European Union	1	Proper noun	id=Q458	1	y
+DIB9000690	punched pocket	punched pocket	1	Noun		1	y
+DIB9002493	temp	temp	2	Verb	to work as a temporary employee	1	y
+DIB9011170	crown	crown	1	Noun	royal headdress	1	y
+DIB9013772	tipsy	tipsy	1	Adjective	slightly drunk	1	y
+DIB9018838	you	you/translations	3	Pronoun	subject pronoun: the group being addressed	1	y
+DIB9020371	cut	cut	2	Verb	to divide with a sharp instrument	1	y
+DIB9023537	consider	consider	1	Verb	think about seriously	1	y
+DIB9032188	motorcycle	motorcycle	1	Noun	open-seated motor vehicle with handlebars instead of a steering wheel	1	y
+DIB9043470	present	present	3	Noun	current time	1	y
+DIB9044508	piano	piano	1	Noun	a keyboard musical instrument	1	y
+DIB9046331	afternoon	afternoon	1	Noun	part of the day between noon and evening	1	y
+DIB9053585	toilet paper	toilet paper	1	Noun	paper to clean oneself after defecation or urination	1	y
+DIB9058570	relaxation	relaxation	1	Noun	act of relaxing or the state of being relaxed	1	y
+DIB9070488	thirteen	thirteen	1	Numeral	the cardinal number occurring after twelve and before fourteen	1	y
+DIB9072526	hail	hail	2	Verb	to fall from the sky, of hail	1	y
+DIB9073973	toast	toast	1	Noun	toasted bread	1	y
+DIB9080145	thought	thought	1	Noun	representation created in the mind	1	y
+DIB9081967	taxi	taxi	1	Noun	vehicle available for public hire	1	y
+DIB9082522	kick	kick	1	Verb	strike with or raise the foot or leg	1	y
+DIB9085155	salary	salary	1	Noun	fixed amount of money paid on monthly or annual basis	1	y
+DIB9088704	relaxing	relaxing	1	Adjective	allowing one to relax	1	y
+DIB9090902	guess	guess	1	Verb	to reach an unconfirmed conclusion	1	y
+DIB9091640	slowly	slowly	1	Adverb	at a slow pace	1	y
+DIB9097478	isolate	isolate	1	Verb	transitive: to set apart or cut off from others	1	y
+DIB9102952	indeed	indeed	1	Adverb	modal: truly; in fact; actually	1	y
+DIB9103569	what is your name	what is your name	1	Phrase	what is your name?	1	y
+DIB9103744	violin	violin	1	Noun	string instrument	1	y
+DIB9109261	Austria	Austria	1	Proper noun	id=Q40	1	y
+DIB9114286	picture	picture	1	Noun	representation of visible reality produced by drawing, etc	1	y
+DIB9117344	voter	voter	1	Noun	one who votes	1	y
+DIB9123887	before	before	1	Preposition	earlier than	1	y
+DIB9128333	hand in	hand in	1	Verb	to give to a responsible person	1	y
+DIB9128791	get	get	16	Verb	colloquial: to understand	1	y
+DIB9131140	Thursday	Thursday	1	Noun	day of the week	1	y
+DIB9131689	look	look	2	Verb	to appear, to seem	1	y
+DIB9133857	on	on	12	Preposition	at the date of	1	yp
+DIB9137499	place	place	1	Noun	location, position	1	y
+DIB9139234	forest	forest	1	Noun	dense collection of trees	1	y
+DIB9143566	beside	beside	1	Preposition	next to	1	y
+DIB9149426	help	help	5	Verb	transitive: provide assistance to (someone or something)	1	y
+DIB9158778	jurisprudence	jurisprudence	1	Noun	the theoretical study of law	1	y
+DIB9158916	hug	hug	3	Verb	to embrace	1	y
+DIB9160890	Thursday	Thursday	2	Adverb	on Thursday	1	y
+DIB9174393	staircase	staircase	1	Noun	stairway	1	y
+DIB9181252	suit	suit	1	Noun	set of clothes	1	y
+DIB9183366	tune	tune	1	Noun	melody	1	y
+DIB9192135	twice	twice	1	Adverb	two times	1	y
+DIB9194400	agree	agree	1	Verb	to be in harmony about an opinion; be in unison or concord; be united	1	y
+DIB9200782	cruelty	cruelty	1	Noun	indifference to suffering	1	y
+DIB9217411	french fries	french fries	1	Noun	deep fried strips of potato	1	y
+DIB9220630	fit in	fit in	3	Verb	conform or be suitable	1	y
+DIB9224472	athlete	athlete	2	Noun	person who actively participates in physical sports	1	y
+DIB9236023	coast	coast	1	Noun	edge of land meeting ocean, sea, gulf, bay	1	y
+DIB9240335	aerobics	aerobics	1	Noun	exercise for cardiovascular fitness	1	yp
+DIB9241418	renovate	renovate	1	Verb	to renew; to revamp	1	y
+DIB9242254	gift	gift	1	Noun	something given to another voluntarily, without charge	1	y
+DIB9247123	let	let	1	Verb	allow	1	y
+DIB9247715	Switzerland	Switzerland	1	Proper noun	id=Q39	1	y
+DIB9250277	psychiatrist	psychiatrist	1	Noun	doctor specializing in psychiatry	1	y
+DIB9255675	often	often	1	Adverb	frequently, many times	1	y
+DIB9265796	grow up	grow up	1	Verb	to mature and become an adult	1	y
+DIB9266254	beautiful	beautiful	1	Adjective	attractive	1	y
+DIB9275088	reconstruction	reconstruction	2	Noun	act of restoring	1	y
+DIB9277289	right	right/translations	14	Adverb	towards the right side	1	y
+DIB9278790	it	it	1	Pronoun	subject — inanimate thing	1	y
+DIB9280512	consequence	consequence	1	Noun	that which follows something on which it depends	1	y
+DIB9280512	consequence	consequence	2	Noun	result of actions, especially unpleasant	1	y
+DIB9294822	bookshop	bookshop	1	Noun	shop that sells books	1	y
+DIB9298548	light	light	3	Verb	to illuminate	1	y
+DIB9300479	on	on	12	Preposition	at the date of	1	yp
+DIB9317149	fiancée	fiancée	1	Noun	woman who is engaged to be married	1	y
+DIB9318971	sugar	sugar/translations	1	Noun	sucrose from sugar cane or sugar beet used to sweeten food and drink	1	y
+DIB9321078	punctual	punctual	1	Adjective	prompt	1	y
+DIB9328230	around	around	1	Preposition	forming a circle or closed curve containing	1	y
+DIB9328230	around	around	4	Preposition	following a path	1	y
+DIB9333298	sink	sink	5	Noun	basin	1	yp
+DIB9335475	pediatrician	pediatrician	1	Noun	physician who specialises in pediatrics	1	y
+DIB9335559	bean	bean	2	Noun	seed	1	plural
+DIB9336047	reasonable	reasonable	1	Adjective	just; fair; agreeable to reason	1	y
+DIB9344358	whom	whom	2	Pronoun	what person or people, object of a preposition (dative)	1	y
+DIB9345300	pink	pink	3	Adjective	colored/coloured between red and white	1	y
+DIB9348463	cello	cello	1	Noun	musical instrument	1	y
+DIB9354092	prepare	prepare	1	Verb	to make ready for a specific future purpose	1	y
+DIB9359372	justice	justice	1	Noun	state of being just or fair	1	y
+DIB9361703	get	get	2	Verb	to receive	1	y
+DIB9366234	participate	participate	1	Verb	to join in, to take part, to involve oneself	1	y
+DIB9366359	desk	desk	1	Noun	table for writing and reading	1	y
+DIB9366778	strong	strong	1	Adjective	capable of producing great physical force	1	y
+DIB9367032	outer space	outer space	1	Noun	region	1	yp
+DIB9377238	roommate	roommate	2	Noun	US: with whom one shares an apartment or house	1	y
+DIB9378015	south	south	1	Noun	compass point	1	y
+DIB9386133	his	his	1	Determiner	attributive: belonging to him	1	y
+DIB9388264	beer garden	beer garden	1	Noun	outdoor section of a public house	1	y
+DIB9390315	grade	grade	5	Noun	level of pre-collegiate education	1	y
+DIB9390850	silverware	silverware	2	Noun	''(US)'' knives, forks and spoons	1	y
+DIB9392485	fresh	fresh	6	Adjective	rude or inappropriate	1	y
+DIB9399208	direct	direct	6	Verb	to order	1	y
+DIB9401506	soccer	soccer	1	Noun	game	1	y
+DIB9413582	stay up	stay up	1	Verb	remain awake	1	y
+DIB9415866	comedy	comedy	4	Noun	dramatic work that is light and humorous or satirical in tone	1	y
+DIB9419075	eyebrow	eyebrow	1	Noun	hair that grows over the bone ridge above the eye socket	1	y
+DIB9420482	green	green/translations	1	Adjective	having green as its colour	1	y
+DIB9432757	toe	toe	1	Noun	each of the five digits on the end of the foot	1	y
+DIB9436151	valid	valid	2	Adjective	acceptable, proper or correct	1	y
+DIB9444198	courage	courage	1	Noun	quality of a confident character	1	y
+DIB9444471	two hundred	two hundred	1	Numeral	cardinal number 200	1	y
+DIB9444929	binder	binder	2	Noun	cover or holder for unbound papers, pages etc.	1	y
+DIB9448933	chemistry	chemistry	1	Noun	branch of natural science	1	y
+DIB9468962	pain	pain	1	Noun	ache or bodily suffering	1	y
+DIB9477834	hundred	hundred	1	Numeral	cardinal number 100	1	y
+DIB9485867	orange	orange	2	Noun	fruit	1	y
+DIB9488540	spoon	spoon	1	Noun	scooped utensil for eating (or serving)	1	y
+DIB9490839	reign	reign	3	Verb	exercise sovereign power	1	y
+DIB9501142	this	this	1	Determiner	the (thing) here	1	yp
+DIB9503323	newscaster	newscaster	1	Noun	one who delivers the news	1	y
+DIB9506006	heavy	heavy	1	Adjective	having great weight	1	y
+DIB9518150	interest	interest	2	Noun	great attention and concern from someone	1	y
+DIB9519234	stationer's	stationer's	1	Noun	stationery shop	1	y
+DIB9523705	fly	fly/translations	6	Verb	to travel through air	1	y
+DIB9527269	maternal	maternal	2	Adjective	related through the mother, or her side of the family	1	yp
+DIB9532134	seven	seven/translations	1	Numeral	cardinal number 7	1	y
+DIB9534428	laptop	laptop	1	Noun	computing: a laptop computer	1	y
+DIB9543008	so that	so that	1	Conjunction	in order to	1	y
+DIB9568619	apple	apple	1	Noun	fruit of ''Malus domestica''	1	y
+DIB9569833	short	short	1	Adjective	having a small distance between ends or edges	1	y
+DIB9573435	airport	airport	1	Noun	place designated for airplanes	1	y
+DIB9577360	rain	rain	4	Verb	of rain: to fall from the sky	1	y
+DIB9581732	our	our	1	Determiner	belonging to us	1	y
+DIB9587414	weak	weak	1	Adjective	lacking in force or ability	1	y
+DIB9590586	arrange	arrange	3	Verb	music: to adapt an existing composition for presentation	1	y
+DIB9596816	salad	salad	1	Noun	food	1	y
+DIB9597391	goodbye	goodbye	1	Interjection	farewell	1	y
+DIB9602339	contact	contact	2	Noun	an establishment of communication	1	y
+DIB9602450	assistance	assistance	1	Noun	aid; help; the act or result of assisting	1	y
+DIB9612782	crown	crown	36	Verb	to place a crown on the head of	1	y
+DIB9621996	surf	surf	3	Verb	to browse the Internet	1	yp
+DIB9643482	nervous	nervous	2	Adjective	apprehensive, anxious	1	y
+DIB9647680	back	back	8	Noun	the rear of body	1	y
+DIB9648524	vitamin	vitamin	1	Noun	organic compound essential to human health	1	y
+DIB9651787	banana	banana	1	Noun	fruit	1	y
+DIB9652063	north	north	1	Noun	compass point	1	y
+DIB9655607	slippery	slippery	1	Adjective	of a surface	1	y
+DIB9659398	smell	smell	4	Verb	to have a particular smell, whether good or bad; if descriptive, followed by "like" or "of"	1	y
+DIB9662873	muscle	muscle	1	Noun	contractile tissue	1	y
+DIB9667636	towel	towel	1	Noun	cloth used for wiping	1	y
+DIB9668714	heat	heat	12	Noun	hot spell	1	y
+DIB9672302	still	still	8	Adverb	up to a time, as in the preceding time	1	y
+DIB9672788	cold	cold	4	Adjective	unfriendly	1	y
+DIB9675016	lunch	lunch	1	Noun	meal around midday	1	y
+DIB9679762	election	election	1	Noun	process of choosing a new leader or representatives by popular vote	1	y
+DIB9699428	weaken	weaken	1	Verb	to make weaker	1	y
+DIB9700499	naturally	naturally	3	Adverb	surely	1	y
+DIB9705019	except	except	3	Preposition	introducing a noun or noun phrase forming an exception or qualification	1	y
+DIB9705019	except	except	4	Conjunction	Introducing a non-noun complement forming an exception or qualification	1	y
+DIB9710472	break	break/translations	2	Verb	transitive: to separate into (to cause to end up in) two or more pieces	1	y
+DIB9713796	dream	dream	4	Verb	see imaginary events while sleeping	1	y
+DIB9720009	crayon	crayon	1	Noun	colored chalk or wax	1	y
+DIB9726875	winner	winner	1	Noun	one who has won or often wins	1	y
+DIB9730586	inhaler	inhaler	1	Noun	canister containing medicine	1	y
+DIB9735977	visit	visit	1	Verb	to go and meet (someone)	1	y
+DIB9745026	break up	break up	3	Verb	to end a relationship	1	y
+DIB9745688	mirror	mirror	1	Noun	smooth reflecting surface	1	y
+DIB9750162	scan	scan	4	Verb	create an image of something with the use of a scanner	1	y
+DIB9750438	carpool	carpool	3	Verb	travel together	1	y
+DIB9763376	when	when	8	Conjunction	during the time that	1	y
+DIB9763376	when	when	9	Conjunction	at what time; at which time	1	y
+DIB9763811	everywhere	everywhere	1	Adverb	at all places	1	y
+DIB9767420	brother	brother/translations	1	Noun	male sibling	1	y
+DIB9769704	travel	travel	1	Verb	be on a journey	1	y
+DIB9771758	sand	sand/translations	1	Noun	finely ground rock	1	y
+DIB9773438	beverage	beverage	1	Noun	drink	1	y
+DIB9776637	which	which	1	Determiner	(''interrogative'') what, of those mentioned or implied	1	y
+DIB9784264	spoil	spoil	3	Verb	to coddle or pamper	1	y
+DIB9803127	poster	poster	2	Noun	advertisement	1	y
+DIB9806548	tired	tired	1	Adjective	in need of rest or sleep	1	y
+DIB9839148	manipulate	manipulate	2	Verb	influence or manage	1	y
+DIB9848922	continent	continent	1	Noun	each of main land-masses on earth's surface	1	y
+DIB9852197	curious	curious	1	Adjective	tending to ask questions, or to want to explore or investigate	1	y
+DIB9853591	explain	explain	1	Verb	to make intelligible	1	y
+DIB9863403	Internet	Internet	1	Proper noun	specific internet consisting of the global network of computers	1	y
+DIB9866128	theater	theater	1	Noun	place or building	1	y
+DIB9870422	wolf	wolf	1	Noun	animal	1	y
+DIB9871103	city	city	1	Noun	large settlement	1	y
+DIB9872729	me	me/translations	3	Pronoun	indirect object of a verb	1	y
+DIB9884690	mountain	mountain	1	Noun	large mass of earth and rock	1	y
+DIB9884764	tourist	tourist	1	Noun	someone who travels for pleasure	1	y
+DIB9889909	German studies	German studies	1	Noun	academic discipline	1	y
+DIB9893052	table	table	1	Noun	item of furniture	1	y
+DIB9894636	wet	wet	2	Adjective	of an object: covered with or impregnated with liquid	1	y
+DIB9909827	hard	hard	1	Adjective	resistant to pressure	1	y
+DIB9913327	wage	wage	1	Noun	money paid to a worker	1	y
+DIB9921165	intimidated	intimidated	1	Adjective	subjected to intimidation	1	y
+DIB9931396	lack	lack	2	Verb	be without, need, require	1	y
+DIB9944100	study	study	1	Verb	to revise/review materials	1	y
+DIB9945961	discuss	discuss	1	Verb	to converse or debate concerning a particular topic	1	y
+DIB9946380	park	park	2	Noun	ground for recreation	1	y
+DIB9948462	see	see	1	Verb	perceive with the eyes	1	y
+DIB9951712	painter	painter	1	Noun	artist	1	y
+DIB9960506	attack	attack	10	Verb	to apply violent force	1	y
+DIB9962187	bowl	bowl	1	Noun	container for food	1	y
+DIB9967825	have to	have to	1	Verb	obligation	1	y
+DIB9968516	pork	pork	1	Noun	meat of a pig	1	y
+DIB9982765	herself	herself	1	Pronoun	(reflexive object) her	1	yp
+DIB9983215	you	you/translations	1	Pronoun	object pronoun: the group being addressed	1	yp
+DIB9984234	get to know	get to know	1	Verb	to become acquainted with someone	1	y
+DIB9986530	November	November	1	Proper noun	eleventh month of the Gregorian calendar	1	y
+DIB9987558	midnight	midnight	2	Noun	12 o'clock at night exactly	1	y
+DIB9989781	hatred	hatred	1	Noun	strong aversion	1	y
+DIB9992581	alcohol	alcohol	2	Noun	intoxicating beverage	1	y
+DIB9993251	eight	eight	1	Numeral	cardinal number 8	1	y
+DIB9998032	cold	cold	7	Noun	illness	1	y

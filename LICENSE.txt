@@ -1,0 +1,161 @@
+---------------------------------------
+License for Python code in this package
+---------------------------------------
+The code (*.py files) in this repository is licensed under the
+GNU General Public License v3. See LICENSE_GPL_v3_for_py_files.txt
+in the src/ directory for the license.
+
+--------------------------------------------------
+'Deutsch in Blick' and 'Grimm Grammar' attribution
+--------------------------------------------------
+Deutsch im Blick (2nd edition, 2017) and Grimm Grammar are a free
+online first-year German textbook and companion grammar authored by
+Dr Zsuzsanna Abrams and published by the Center for Open Educational
+Resources and Language Learning (COERLL) at the University of Texas-Austin.
+This repository primarily consists of vocabulary and matching audio files (when available)
+from the end of each chapter in Deutsch im Blick. Selected elements of Grimm Grammar
+or vocabulary introduced in the chapter text are also included.
+
+URL of the Deutsch im Blick homepage: https://coerll.utexas.edu/dib/
+
+URL of the Grimm Grammar homepage: https://coerll.utexas.edu/gg/
+
+Deutsch im Blick and Grimm Grammar are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+This derivative work is licensed under CC BY-SA 4.0. This is a modification of the
+original work. This repository is not affiliated with or endorsed by Dr. Abrams or COERLL.
+
+The files contain a field with the relevant chapter(s) from
+which the headword(s) for each note was taken. Example phrases or
+sentences may be provided. If the sentence is taken from a different
+section of the text, then the relevant chapter is listed (e.g., '[Ch4]').
+There are a small number of example phrases created by author of this
+repository and not from Deutsch in Blick / Grimm Grammar. These are
+marked with '[*]'. Similarly, the `en1_xsense` field is created by the author of
+this repository. This field is to indicate the sense of a headword when there
+is some ambiguity.
+
+- We present plural forms from nouns when available in the textbook or grammar
+ pages, but we often present just the suffixes, while the textbook often presents
+ the full word.
+
+- We usually attempt to present one note per sense / meaning. This means we sometimes
+ combine words presented in different chapters in the vocabulary list or grammar pages
+ on a single note. This also means a word that might be presented on a single line
+ in the textbook or grammar generates multiple notes. For example 'das Schloss' is
+ on a separate note for 'lock' and 'castle', even though both translations appear on
+ a single line in the Chapter 6 vocabulary list.
+
+ We sometimes indicate in the `de3` field the other senses that were presented in
+ the textbook or grammar. Sometimes we do not create notes for all senses and we
+ indicate that in `de3`.
+
+ The source location(s) for the words/translations are given in the `chapter_list` variable.
+
+ Although the above paragraph is the goal, we sometimes leave two German words on
+ separate notes, even if their meaning or some of their meanings are the same.
+ One reason for this is to keep individual cards short.
+
+- The audio files in input/audios are extracted from the MP3 files in 'Deutsch im Blick'
+ and 'Grimm Grammar'. The file names start with 'DiB-Dxx', where xx is the
+ textbook chapter. 'Grimm Grammar' pages are also assigned a Chapter 1-10, as
+ specified in the repository README.md or wiki.
+
+-------------------------------------------------------------
+CC BY 4.0 license information
+-------------------------------------------------------------
+URL of a human-readable summary of the CC BY 4.0 license:
+    https://creativecommons.org/licenses/by/4.0/.
+
+URL of the license itself. The summary is not a substitute for the license:
+    https://creativecommons.org/licenses/by/4.0/legalcode.
+
+Note the disclaimer of warranties in the CC BY 4.0 license:
+
+Section 5 – Disclaimer of Warranties and Limitation of Liability.
+
+    Unless otherwise separately undertaken by the Licensor, to the extent
+possible, the Licensor offers the Licensed Material as-is and as-available,
+and makes no representations or warranties of any kind concerning the
+Licensed Material, whether express, implied, statutory, or other. This
+includes, without limitation, warranties of title, merchantability, fitness
+for a particular purpose, non-infringement, absence of latent or other
+defects, accuracy, or the presence or absence of errors, whether or not
+known or discoverable. Where disclaimers of warranties are not allowed in
+full or in part, this disclaimer may not apply to You.
+    To the extent possible, in no event will the Licensor be liable to You
+on any legal theory (including, without limitation, negligence) or
+otherwise for any direct, special, indirect, incidental, consequential,
+punitive, exemplary, or other losses, costs, expenses, or damages arising
+out of this Public License or use of the Licensed Material, even if the
+Licensor has been advised of the possibility of such losses, costs,
+expenses, or damages. Where a limitation of liability is not allowed in
+full or in part, this limitation may not apply to You.
+    The disclaimer of warranties and limitation of liability provided above
+shall be interpreted in a manner that, to the extent possible, most closely
+approximates an absolute disclaimer and waiver of all liability.
+
+-------------------------------------------------------------
+License and attribution information for files in input/ and output/ directories.
+-------------------------------------------------------------
+Files in the input/ and output/ directories are made available
+under the CC BY-SA 4.0 license. The same is true for the README.md file
+and documentation on the repository wiki.
+
+URL of a human-readable summary of the CC BY-SA 4.0 license:
+    https://creativecommons.org/licenses/by-sa/4.0/.
+
+URL of the CC BY-SA 4.0 license itself. The summary is not a substitute for the license:
+    https://creativecommons.org/licenses/by-sa/4.0/legalcode.
+
+Note the disclaimer of warranties in the CC BY-SA 4.0 license:
+
+Section 5 – Disclaimer of Warranties and Limitation of Liability.
+
+    Unless otherwise separately undertaken by the Licensor, to the extent
+possible, the Licensor offers the Licensed Material as-is and as-available,
+and makes no representations or warranties of any kind concerning the
+Licensed Material, whether express, implied, statutory, or other. This
+includes, without limitation, warranties of title, merchantability, fitness
+for a particular purpose, non-infringement, absence of latent or other
+defects, accuracy, or the presence or absence of errors, whether or not
+known or discoverable. Where disclaimers of warranties are not allowed in
+full or in part, this disclaimer may not apply to You.
+    To the extent possible, in no event will the Licensor be liable to You
+on any legal theory (including, without limitation, negligence) or
+otherwise for any direct, special, indirect, incidental, consequential,
+punitive, exemplary, or other losses, costs, expenses, or damages arising
+out of this Public License or use of the Licensed Material, even if the
+Licensor has been advised of the possibility of such losses, costs,
+expenses, or damages. Where a limitation of liability is not allowed in
+full or in part, this limitation may not apply to You.
+    The disclaimer of warranties and limitation of liability provided above
+shall be interpreted in a manner that, to the extent possible, most closely
+approximates an absolute disclaimer and waiver of all liability.
+
+--------------------------------------------------------------------
+License and Attribution information for English Language Wiktionary.
+--------------------------------------------------------------------
+
+The file contains selected information from the August 2026 dump file
+of the English Language Wiktionary from:
+    https://dumps.wikimedia.org/enwiktionary/20260801/
+
+In particular, it contains for selected pages information related to
+the relevant translation table(s) for a given headword. This information
+includes the line generating the header of the translation table,
+the level-3 and level-4 headers (if applicable) under which the translation
+table appears (for the purposes of extracting Part of Speech), and a
+True/False indicator whether a translation exists for the selected senses
+for selected languages.
+
+Wiktionary licenses this text under the Creative Commons Attribution-ShareAlike
+4.0 International (CC BY-SA 4.0). This extracted text is used unmodified.
+
+--------------
+
+Any copyrightable modifications made to the source material
+are © Raymond Griner, 2020-2026. However, we're not sure there are any.
+
+The README.md file and documentation on the repository wiki
+are © Raymond Griner, 2020-2026.
