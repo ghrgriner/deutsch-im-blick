@@ -17,19 +17,7 @@
 
 '''Extract translations for selected languages from English Wiktionary
 
-See `extract_enwk_tr_wide` docstring below for details.
-
-DO NOT USE. This program is kept for historical purposes and has been
-replaced by another program. We will eventually remove it from the working
-directory and keep the history in the repository, but for now we keep it.
-
-It was replaced because it was only retrieving translation information for
-selected languages and was only identifying languages by their current
-line. We would like at least one output table/file that reports on
-translation completion for all languages. We also want to use the hierarchy
-information when necessary to identify the languages.
-
-This was previously called `extract_enwk_trans`.
+See `extract_enwk_trans` docstring below for details.
 '''
 
 import bz2
@@ -56,10 +44,17 @@ PageInfo = make_dataclass('PageInfo', [
                                       ])
 TransRec = make_dataclass('TransRec', [
     ('title',  str, field(default='')),
+    ('eeseq',  str, field(default='0')),
+    ('tteseq', str, field(default='0')),
     ('transtop_line', str, field(default='')),
     ('h3',  str, field(default='')),
     ('h4',  str, field(default='')),
-    ('trans_count', int, field(default=0)),
+    ('h5',  str, field(default='')),
+    ('lev1',  str, field(default='')),
+    ('lev2',  str, field(default='')),
+    ('lev3',  str, field(default='')),
+    ('has_trans',  bool, field(default='')),
+    ('trans',  bool, field(default='')),
                                       ])
 #-----------------------------------------------------------------------------
 # Private Functions
@@ -70,17 +65,11 @@ def _update_word_from_xml_dump(word, elem):
     word.timestamp = revision_elem.find(f'{XMLNS}timestamp').text
     word.wikitext = revision_elem.find(f'{XMLNS}text').text
 
-def _check_for_duplicate_lang_codes(languages):
-    counts = Counter(languages)
-    dup_lang_codes = [item for item, count in counts.items() if count > 1]
-    if dup_lang_codes:
-        print(dup_lang_codes)
-        raise ValueError('Duplicate language codes in selected_langs.py')
-
 def writerow(otf_writer, trec):
-    data = ([trec.title, trec.h3, trec.h4, trec.transtop_line]
-            + [ str(item) for item in trec.transd.values() ]
-            + [str(trec.trans_count)])
+    has_transYN = 'Y' if trec.has_trans else 'N'
+    data = ([trec.title, trec.eeseq, trec.tteseq, trec.transtop_line, trec.h3,
+             trec.h4, trec.h5, trec.lev1, trec.lev2, trec.lev3, has_transYN,
+             trec.trans.strip()])
     for item in data:
         if '\t' in item or '\r' in item or '\n' in item:
             print(f'BAD CHAR in {trec.title=}, {item=}')
@@ -88,82 +77,113 @@ def writerow(otf_writer, trec):
                    for item in data ]
     otf_writer.writerow(clean_data)
 
-def _process_mainspace_page(opf, otf_writer, title, word, languages):
+def split_line(line, which_colon):
+    #line_list = line.split(':', maxsplit=which_colon + 1)
+    line_list = line.split(':', maxsplit=which_colon)
+    if len(line_list) < which_colon + 1:
+        #print(line)
+        return False, None, None
+
+    #print(line_list[0:which_colon])
+    return True, ':'.join(line_list[0:which_colon]), line_list[which_colon]
+
+def _process_mainspace_page(opf, otf_writer, title, word, ctr):
     lines = word.wikitext.split('\n')
     english_entries = 0
-    pending_trec = False
     in_english = False
+    pending_trec = False
     for line in lines:
         if line == '==English==':
             if not english_entries:  # only write once per file
                 opf.write(title + '\t' + str(word.revision)
                    + '\t' + word.timestamp + '\n')
             english_entries += 1
-            if pending_trec:
-                writerow(otf_writer, trec)
+            # write at least once for pages with English entry
+            pending_trec = True
             trec = TransRec()
             trec.title = title
-            pending_trec = True
-            trec.transd = { item[0]: '' for item in languages }
+            trec.eeseq = str(ctr + english_entries)
             in_english = True
             in_trans = False
         elif (line.startswith('==')
                 and not line.startswith('===')):
-            # saves about 10 seconds of 9 min run time
-            # but drops translations for 'nine' in July 2026 feed
-            #if line != '==Translingual==':
-            #    if pending_trec:
-            #        writerow(otf_writer, trec)
-            #    return english_entries
             in_english = False
             in_trans = False
         elif (in_english and line.startswith('===')
                 and not line.startswith('====')):
-            h3 = line[3:len(line)-3]
-            h4 = ''
+            trec.h3 = line[3:len(line)-3]
+            trec.h4 = ''
+            trec.h5 = ''
         elif (in_english and line.startswith('====')
                 and not line.startswith('=====')):
-            h4 = line[4:len(line)-4]
+            trec.h4 = line[4:len(line)-4]
+            trec.h5 = ''
+        elif (in_english and line.startswith('=====')
+                and not line.startswith('======')):
+            trec.h5 = line[5:len(line)-5]
         elif in_english:
             if line.startswith('{{trans-top'):
+                lev1 = ''
+                lev2 = ''
+                lev3 = ''
                 in_trans = True
-                if pending_trec and trec.transtop_line == '':
-                    trec.transtop_line = line
-                    trec.h3 = h3
-                    trec.h4 = h4
-                else:
-                    writerow(otf_writer, trec)
-                    trec.transtop_line = line
-                    trec.h3 = h3
-                    trec.h4 = h4
-                    trec.trans_count = 0
-                    trec.transd = { item[0]: '' for item in languages }
-            if line.startswith('{{trans-bottom}}'):
+                trec.transtop_line = line
+                trec.tteseq = str(int(trec.tteseq) + 1)
+            if in_trans and line.startswith('{{trans-bottom}}'):
+                trec.lev1 = ''
+                trec.lev2 = ''
+                trec.lev3 = ''
+                trec.has_trans = 'N'
+                trec.trans = ''
+                writerow(otf_writer, trec)
+                pending_trec = False
                 in_trans = False
-            if ((in_trans and line.startswith('* ')
-              and ':' in line
-              and line.split(':')[1].strip()
-              and 't-needed' not in line)):
-                trec.trans_count = trec.trans_count + 1
-            for lang, langtxt in languages:
-                startpos = len(langtxt)
-                if in_trans and line.startswith(langtxt):
-                    if trec.transd[lang]:
-                        print(f'WARNING: {lang} already populated! {title=}, '
-                            f'{trec.transtop_line=} old={trec.transd[lang]} '
-                            f'new={line[startpos:].strip()}')
-                    trec.transd[lang] = line[startpos:].strip()
-                    break
+            if in_trans and line.startswith('*') and ':' in line:
+                if line.startswith('* '):
+                    ok, left, right = split_line(line, which_colon=1)
+                    if ok:
+                        trec.trans = right
+                        trec.has_trans = right and 't-needed' not in right
+                        trec.lev1 = left
+                        trec.lev2 = ''
+                        trec.lev3 = ''
+                        writerow(otf_writer, trec)
+                        pending_trec = False
+                elif line.startswith('*: '):
+                    ok, left, right = split_line(line, which_colon=2)
+                    if ok:
+                        trec.trans = right
+                        trec.has_trans = right and 't-needed' not in right
+                        trec.lev2 = left
+                        trec.lev3 = ''
+                        writerow(otf_writer, trec)
+                        pending_trec = False
+                elif line.startswith('*:: '):
+                    ok, left, right = split_line(line, which_colon=3)
+                    if ok:
+                        trec.trans = right
+                        trec.has_trans = right and 't-needed' not in right
+                        trec.lev3 = left
+                        writerow(otf_writer, trec)
+                        pending_trec = False
+                elif line.startswith('*::: '):
+                    print(f'WARNING: *:::! {trec.title=} {trec.transtop_line=} {trec.lev1=}, {trec.lev2=} {trec.lev3=} {line=}')
+                elif line.startswith('*:::: '):
+                    print(f'WARNING: *::::! {trec.title=} {trec.transtop_line=} {trec.lev1=}, {trec.lev2=} {trec.lev3=} {line=}')
     if pending_trec:
+        trec.tteseq = ''
+        trec.h3 = ''
+        trec.h4 = ''
+        trec.h5 = ''
         writerow(otf_writer, trec)
     return english_entries
 
 #-----------------------------------------------------------------------------
 # Public Functions
 #-----------------------------------------------------------------------------
-def extract_enwk_tr_wide(input_file, languages, output_trans_file,
+def extract_enwk_tr_long(input_file, output_trans_file,
                        output_page_file, max_pages=None):
-    '''Create file of translations from English Wiktionary dump/export.
+    '''Create long file of translations from English Wiktionary dump/export.
 
     Translation sections are identified by lines starting with
     '{{trans-top' and the section continues until a line starting with
@@ -174,10 +194,6 @@ def extract_enwk_tr_wide(input_file, languages, output_trans_file,
     table, and final counts for the number of overall pages,
     main-space pages, and English entries processed.
 
-    Note that the warning message about duplicate entries prints the
-    language code (e.g., 'de'), but it's actually the longer text string
-    (e.g., '* German:') and not the code used to identify duplicates.
-
     Parameters
     ----------
     input_file: str
@@ -185,34 +201,56 @@ def extract_enwk_tr_wide(input_file, languages, output_trans_file,
         dump files are deprecated by Wikimedia, but there is currently
         (August, 2026) a bug where common pages are dropped from the
         file export. See: https://phabricator.wikimedia.org/T431872.
-    languages: list[(str, str)]
-        List of languages to extract from every translation table.
-        Each item in the list is a tuple, where the first element is
-        the language code. (This can currently be an arbitrary string,
-        but we strongly recommend using the Wiktionary language code
-        in case we use this element for more than variable naming in the
-        future.) The second element is a string that identifies the
-        language in the translation table. The line in the translation
-        table that contains the translation should start with this string.
-        An exception is raised if the first element is duplicated in
-        the list items.
-
-        Note that not all languages can be extracted using this program
-        if the text string that starts the line is used for multiple
-        languages, which can occur by the line is a subheading. See
-        `selected_langs.py` for slightly more details.
     max_pages: int or None
         Specify maximum number of pages to process. None will process all
         pages.
     output_trans_file: str
-        File name of output translation file. This file will contain the
-        variables `page`, `transtop_line`, `trans_count` and translations
-        for the requested languages with names `tr_enwk_[LANGCODE]`.
-        Note that here `trans_count` counts the number of non-indented
-        languages for which the entry is not blank or `t-needed`.
-        In particular, it is not only limited to languages in `languages`.
-        Note that the extracted translations are not plain text. They
-        will still be wrapped in Wiktionary translation templates.
+        File name of output translation file. This contains a record for
+        each first, second, or third-level language heading in each
+        entry in the translation table(s) for the English-language entry
+        for all pages.
+        Translation table entries are lines starting with
+        `{{trans-top`. If no entries are found for a page, a single output
+        record is written with `page` populated and all other fields ''.
+        The output file contains the following variables:
+        - page: Title of the page
+        - tteseq: Sequence number for translation table entries on the
+                page, starting at 1
+        - transtop_line: the line containing the template whose name
+                starts with 'transtop'
+        - h3:   Third-level header for section with translation table
+        - h4:   Fourth-level header for section with translation table
+        - h5:   Fifth-level header for section with translation table
+        - lang_name_b1: First-level header (including the language name and
+                bullet) within one section of a translation table. These
+                are from lines formatted as '* [LANGUAGE NAME]:', but the
+                ':' is not included in the output. In cases where the
+                headings are hiearchical / indented, this value is stored
+                and repeated on the file records that give the later
+                headings. For example, for Serbo-Croatian, there will be
+                one row with `lang_name_b1 == '* Serbo-Croatian'` and
+                `trans` empty, and then a row with
+                `lang_name_b1 == '* Serbo-Croatian'` and
+                `lang_name_b2 == '*: Cyrillic'` with `trans` populated, and
+                then a row with
+                `lang_name_b1 == '* Serbo-Croatian'` and
+                `lang_name_b2 == '*: Latin'` with `trans` populated.
+
+                Lastly, note that this field is simply any text starting
+                with '* ' until a colon. We do not check here whether the
+                text actually contains a language name.
+        - lang_name_b2: Second-level header within one section of a
+                translation table. These are from lines formatted as
+                '*: [LANGUAGE NAME]:'.
+        - lang_name_b3: Third-level header within one section of a
+                translation table. These are from lines formatted as
+                '*: [LANGUAGE NAME]:'.
+        - has_trans: Indicates Y/N if a translation is present. This is
+                determined by checking `trans != ''` and
+                `'t-needed' not in trans`
+        - trans: Translation from the translation table (i.e., text after
+                the colon following the language name).
+                `str.strip()` is called on the text before saving.
     output_page_file: str
         File name of output file with page information. This file will
         contain the variables `page`, `revision`, `timestamp`.
@@ -222,8 +260,6 @@ def extract_enwk_tr_wide(input_file, languages, output_trans_file,
     None. The function is called for the side effect of creating the
     output files.
     '''
-    _check_for_duplicate_lang_codes(languages)
-
     page_counter = 0
     main_page_counter = 0
     english_entry_counter = 0
@@ -237,9 +273,9 @@ def extract_enwk_tr_wide(input_file, languages, output_trans_file,
                             quoting=csv.QUOTE_NONE,
                             quotechar=None,
                             lineterminator='\n')
-        writer.writerow(['page','h3','h4','transtop_line']
-            + [ 'tr_enwk_' + item[0] for item in languages ]
-            + ['trans_count'])
+        writer.writerow(['page','eeseq','tteseq','transtop_line','h3','h4',
+                         'h5','lang_name_b1','lang_name_b2','lang_name_b3',
+                         'has_trans','trans'])
         context = ET.iterparse(f, events=('end',))
 
         _, root = next(context)
@@ -266,7 +302,7 @@ def extract_enwk_tr_wide(input_file, languages, output_trans_file,
                         print(f'WARNING: empty wikitext {title=}')
                     else:
                         cnt = _process_mainspace_page(opf, writer,
-                            title, word, languages)
+                            title, word, english_entry_counter)
                         english_entry_counter += cnt
                 # Clear element once it's processed
                 elem.clear()

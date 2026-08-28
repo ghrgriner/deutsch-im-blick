@@ -1,4 +1,4 @@
-#   Extract almost all translations from English Wiktionary
+#   Extract all translations from English Wiktionary
 #   Copyright (C) 2026 Ray Griner (rgriner_fwd@outlook.com)
 #
 #   This program is free software: you can redistribute it and/or modify
@@ -15,31 +15,12 @@
 #   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #------------------------------------------------------------------------------
 
-'''Extract (wide) translations for some languages from English Wiktionary
+'''Extract all translations from English Wiktionary in long format
 
-DO NOT USE. This program is kept for historical purposes and has been
-replaced by another program. We will eventually remove it from the working
-directory and keep the history in the repository, but for now we keep it.
-
-It was replaced because it was only retrieving translation information for
-selected languages and was only identifying languages by their current
-line. We would like at least one output table/file that reports on
-translation completion for all languages. We also want to use the hierarchy
-information when necessary to identify the languages.
-
-This was previously called `extract_enwk_trans`.
-
-This was previously called `run_extract_all.py` and it created
-`../output/intermediate/en_all_trans.txt` and `en_all_pages.txt`.
-
-See `selected_langs.py` docstring for why this is 'some' and not 'all'
-languages.
-
-See `extract_enwk_tr_wide` docstring for extraction details.
+See `extract_enwk_tr_long` docstring for extraction details.
 '''
 
-from selected_langs import LANGUAGES
-from extract_enwk_tr_wide import extract_enwk_tr_wide
+from extract_enwk_tr_long import extract_enwk_tr_long
 
 #-----------------------------------------------------------------------------
 # Parameters
@@ -51,14 +32,13 @@ INPUT_FILE = ('../input/enwk/'
               'enwiktionary-20260701-pages-articles-multistream.xml.bz2')
 MAX_PAGES = None # int or None (no maximum)
 
-OUT_TRANS_FILE = '../output/intermediate/en_sel_wide_trans_OLD.txt'
-OUT_PAGE_FILE = '../output/intermediate/en_sel_wide_pages_OLD.txt'
+OUT_TRANS_FILE = '../output/intermediate/en_long_trans.txt'
+OUT_PAGE_FILE = '../output/intermediate/en_long_pages.txt'
 
 #-----------------------------------------------------------------------------
 # Main entry point
 #-----------------------------------------------------------------------------
-extract_enwk_tr_wide(input_file=INPUT_FILE,
+extract_enwk_tr_long(input_file=INPUT_FILE,
                    max_pages=MAX_PAGES,
-                   languages=LANGUAGES,
                    output_trans_file=OUT_TRANS_FILE,
                    output_page_file=OUT_PAGE_FILE)
