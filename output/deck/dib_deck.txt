@@ -1037,7 +1037,7 @@ DIB7836608	Happy Easter		frohe Ostern!		[sound:DiB-D05_frohe Ostern.mp3]		E					
 DIB2162230	Merry Christmas!		frohe/fröhliche Weihnachten!		[sound:DiB-D05_frohe_fröhliche Weihnachten.mp3]		E							5.3	5	3	merry Christmas::good wishes at Christmas time	1	C	FC5 Ch5
 DIB1158968	birthday		der Geburtstag	das Geburtstagskind	[sound:DiB-D05_Geburtstag.mp3][sound:DiB-D05_Geburtstagskind.mp3]		N	-tage						5.3	5	3	birthday::anniversary	1	C	FC5 Ch5
 DIB2955271	Good Friday		Karfreitag		[sound:DiB-D05_Karfreitag.mp3]		N		source blank					5.3	5	3	Good Friday::The Friday before Easter Sunday, the commemoration of the day on which Christ was crucified	1	C	FC5 Ch5
-DIB3309229	Carnival		Karneval, Fasching (S. Germany)		[sound:DiB-D05_Karneval.mp3][sound:DiB-D05_Fasching.mp3]		N		source blank					5.3	5	3	Carnival::	2	C	FC5 Ch5
+DIB3309229	Carnival		Karneval, Fasching (S. Germany)		[sound:DiB-D05_Karneval.mp3][sound:DiB-D05_Fasching.mp3]		N		source blank					5.3	5	3	_NOTRANS	2	C	FC5 Ch5
 DIB1393931	disguise		das Kostüm	ein Kostüm anziehen	[sound:DiB-D05_Kostüm.mp3][sound:DiB-D05_ein Kostüm anziehen.mp3]		N	-e						5.3	5	3	costume::disguise	1	C	FC5 Ch5
 DIB3534592	national holiday		der Nationalfeiertag		[sound:DiB-D05_Nationalfeiertag.mp3]		N		source blank					5.3	5	3	national holiday::statutory holiday enacted by a country to commemorate the country itself	1	C	FC5 Ch5
 DIB5875827	New Year's Day		Neujahr		[sound:DiB-D05_Neujahr.mp3]		N		source blank					5.3	5	3	new year::year following the current year	1	C	FC5 Ch5

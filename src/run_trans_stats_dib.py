@@ -162,7 +162,7 @@ print(tk_wide)
 #                                 quoting=csv.QUOTE_NONE)
 tk_wide.to_csv(TRANS_AVAIL_FILE, sep='\t', quoting=csv.QUOTE_NONE)
 tk_long[TRANS_AVAIL_VARS + TRANS_LS_ADDL_VARS].to_csv(
-    TRANS_LANG_SENSE_FILE, sep='\t', quoting=csv.QUOTE_NONE)
+    TRANS_LANG_SENSE_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False)
 
 # Now, need data frame, one record per word_id x lang, restricted to
 #   word_ids where `enwk_def` does not start with '_' with indicator whether

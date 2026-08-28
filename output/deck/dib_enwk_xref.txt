@@ -131,7 +131,7 @@ DIB0519095	back	back	1	Adjective	near the rear	1	y
 DIB0520222	make	make	3	Verb	to create	1	y
 DIB0521060	Germany	Germany	1	Proper noun	id=Q183	1	y
 DIB0525257	blind	blind	1	Adjective	unable to see	1	y
-DIB0527399	yes	yes	1		word used to indicate agreement or acceptance	1	y
+DIB0527399	yes	yes	1	Particle	word used to indicate agreement or acceptance	1	y
 DIB0532697	cherry	cherry	1	Noun	fruit	1	y
 DIB0534389	thank	thank	1	Verb	to express appreciation or gratitude toward (someone or something)	1	yp
 DIB0542746	duffel bag	duffel bag	1	Noun	large duffel cloth bag used to carry personal gear	1	y
@@ -766,7 +766,6 @@ DIB3292224	weird	weird	1	Adjective	having an unusually strange character or beha
 DIB3293836	tea	tea/translations	2	Noun	drink made from leaves of tea plant	1	y
 DIB3299327	fight	fight	5	Verb	(transitive) to contend in physical conflict against	1	y
 DIB3308178	like	like	1	Verb	to enjoy	1	y
-DIB3309229	Carnival	Carnival	1			1	y
 DIB3314304	conceited	conceited	1	Adjective	vain and egotistic	1	y
 DIB3315569	fruit	fruit	1	Noun	part of plant	1	y
 DIB3317867	night	night	1	Noun	period between sunset and sunrise	1	y
@@ -1208,7 +1207,7 @@ DIB5259320	how much does it cost	how much does it cost	1	Phrase	how much is it?	
 DIB5266106	humorous	humorous	1	Adjective	full of humor or arousing laughter; funny	1	y
 DIB5267918	take care	take care	3	Interjection	good-bye	1	y
 DIB5275726	itself	itself	1	Pronoun	(reflexive) it	1	yp
-DIB5277969	no	no/translations	1		used to show disagreement or negation	1	y
+DIB5277969	no	no/translations	1	Particle	used to show disagreement or negation	1	y
 DIB5282143	it's snowing	it's snowing	1	Phrase	it's snowing	1	y
 DIB5283295	notebook	notebook	1	Noun	empty book able to be used for notes	1	y
 DIB5285729	by	by	3	Preposition	indicates the agent of a passive verb	1	y
@@ -1504,7 +1503,7 @@ DIB6684152	pharmacist	pharmacist	1	Noun	professional who dispenses prescription 
 DIB6686678	pointlessness	pointlessness	1	Noun	lack of purpose	1	y
 DIB6687504	once	once	1	Adverb	one and only one time	1	y
 DIB6690236	environment	environment	2	Noun	natural world or ecosystem	1	y
-DIB6698323	recount	recount	4		to count again	1	y
+DIB6698323	recount	recount	4	Verb	to count again	1	y
 DIB6702513	listen	listen	1	Verb	to pay attention to a sound	1	y
 DIB6709851	a lot	a lot	3	Adverb	very much	1	y
 DIB6710968	soon	soon	1	Adverb	within a short time	1	y
