@@ -1,0 +1,324 @@
+lang_name1	lang_name2	lang_name3	lang_code	lang_desc
+Abaza			abq	Abaza
+Abenaki			abe	Abenaki
+Abkhaz			ab	Abkhaz
+Afrikaans			af	Afrikaans
+Ainu			ain	Ainu
+Akkadian			akk	Akkadian
+Alabama			akz	Alabama
+Albanian			sq	Albanian
+Aleut			ale	Aleut
+Alviri-Vidari			avd	Alviri-Vidari
+Amharic			am	Amharic
+Amis			ami	Amis
+Arabic			ar	Arabic
+Arabic	Algerian Arabic		arq	Algerian Arabic
+Amharic	Egyptian Arabic		arz	Egyptian Arabic
+Arabic	Egyptian Arabic		arz	Egyptian Arabic
+ArabicArabic	Egyptian Arabic		arz	Egyptian Arabic
+Bashkir	Egyptian Arabic		arz	Egyptian Arabic
+Arabic	Gulf Arabic		afb	Gulf Arabic
+Arabic	Hijazi Arabic		acw	Hijazi Arabic
+Esperanto	Hijazi Arabic		acw	Hijazi Arabic
+Aragonese			an	Aragonese
+Aramaic	Assyrian Neo-Aramaic		aii	Assyrian Neo-Aramaic
+Aramaic	Classical Syriac		syc	Classical Syriac
+Archi			aqc	Archi
+Armenian			hy	Armenian
+Aromanian			rup	Aromanian
+Assamese			as	Assamese
+Asturian			ast	Asturian
+Avar			av	Avar
+Azerbaijani			az	Azerbaijani
+Bajau	West Coast Bajau		bdr	West Coast Bajau
+Baluchi			bal	Baluchi
+Bashkir			ba	Bashkir
+Basque			eu	Basque
+Bats			bbl	Bats
+Belarusian			be	Belarusian
+Bengali			bn	Bengali
+Bhojpuri			bho	Bhojpuri
+Bikol	Central Bikol		bcl	Central Bikol
+Bislama			bi	Bislama
+Blackfoot			bla	Blackfoot
+Breton			br	Breton
+Budukh			bdk	Budukh
+Bulgarian			bg	Bulgarian
+Bunun			bnn	Bunun
+Burmese			my	Burmese
+Buryat			bua	Buryat
+Carpathian Rusyn			rue	Carpathian Rusyn
+Catalan			ca	Catalan
+Cebuano			ceb	Cebuano
+Central Atlas Tamazight			tzm	Central Atlas Tamazight
+Chechen			ce	Chechen
+Cherokee			chr	Cherokee
+Cheyenne			chy	Cheyenne
+Chinese	Cantonese		yue	Cantonese
+Chinese	Dungan		dng	Dungan
+Chinese	Eastern Min		cdo	Eastern Min
+Chinese	Gan		gan	Gan
+Chinese	Hakka		hak	Hakka
+Chinese	Hokkien		nan-hbl	Hokkien
+Chinese	Jin		cjy	Jin
+Bengali	Mandarin		cmn	Mandarin
+Chinese	Mandarin		cmn	Mandarin
+Chinese	Northern Min		mnp	Northern Min
+Chinese	Wu		wuu	Wu
+Chinese	Xiang		hsn	Xiang
+Chuvash			cv	Chuvash
+Circassian	East Circassian		kdb	East Circassian
+Choctaw	West Circassian		ady	West Circassian
+Circassian	West Circassian		ady	West Circassian
+Comorian	Ngazidja Comorian		zdj	Ngazidja Comorian
+Coptic			cop	Coptic
+Cornish			kw	Cornish
+Crimean Tatar			crh	Crimean Tatar
+Czech			cs	Czech
+Danish			da	Danish
+Dargwa			dar	Dargwa
+Dhivehi			dv	Dhivehi
+Dusun	Central Dusun		dtp	Central Dusun
+Dutch			nl	Dutch
+Dzongkha			dz	Dzongkha
+Egyptian			dphw	Egyptian
+Elfdalian			eppel	Elfdalian
+Emilian			egl	Emilian
+Erzya			myv	Erzya
+Esperanto			eo	Esperanto
+Estonian			et	Estonian
+Fala			fax	Fala
+Faroese			fo	Faroese
+Fijian			fj	Fijian
+Fiji Hindi			hif	Fiji Hindi
+Finnish			fi	Finnish
+French			fr	French
+Frisian	Old Frisian		ofs	Old Frisian
+Frisian	Saterland Frisian		stq	Saterland Frisian
+German	Saterland Frisian		stq	Saterland Frisian
+Frisian	West Frisian		fy	West Frisian
+Friulian			fur	Friulian
+Gagauz			gag	Gagauz
+Galician			gl	Galician
+Georgian			ka	Georgian
+German			de	German
+German	Bavarian		bar	Bavarian
+German	Central Franconian		gmw-cfr	Central Franconian
+German	Old High German		goh	Old High German
+Greek			el	Greek
+Greenlandic			kl	Greenlandic
+Guarani	Paraguayan Guarani		gug	Paraguayan Guarani
+Gujarati			gu	Gujarati
+Haitian Creole			ht	Haitian Creole
+Hawaiian			haw	Hawaiian
+Hebrew			he	Hebrew
+Hindi			hi	Hindi
+Hungarian			hu	Hungarian
+Hunsrik			hrx	Hunsrik
+Iban			iba	Iban
+Icelandic			is	Icelandic
+Ido			io	Ido
+Ilocano			ilo	Ilocano
+Indonesian			id	Indonesian
+Ingrian			izh	Ingrian
+Ingush			inh	Ingush
+Interlingua			ia	Interlingua
+Inuktitut			iu	Inuktitut
+Irish			ga	Irish
+Irish	Middle Irish		mga	Middle Irish
+Irish	Old Irish		sga	Old Irish
+Italian			it	Italian
+Jamaican Creole			jam	Jamaican Creole
+Japanese			ja	Japanese
+Javanese			jv	Javanese
+Jeju			jje	Jeju
+Kaitag			xdq	Kaitag
+Kalmyk			xal	Kalmyk
+Kannada			kn	Kannada
+Karachay-Balkar			krc	Karachay-Balkar
+Karakalpak			kaa	Karakalpak
+Karelian			krl	Karelian
+Kashmiri			ks	Kashmiri
+Kashubian			csb	Kashubian
+Kavalan			ckv	Kavalan
+Kazakh			kk	Kazakh
+Khalaj			klj	Khalaj
+Khmer			km	Khmer
+Komi	Komi-Permyak		koi	Komi-Permyak
+Korean			ko	Korean
+Kumyk			kum	Kumyk
+Kurdish	Central Kurdish		ckb	Central Kurdish
+Kurdish	Laki		lki	Laki
+Icelandic	Northern Kurdish		kmr	Northern Kurdish
+Japanese	Northern Kurdish		kmr	Northern Kurdish
+Kalmyk	Northern Kurdish		kmr	Northern Kurdish
+Kurdish	Northern Kurdish		kmr	Northern Kurdish
+Kurdish	Southern Kurdish		sdh	Southern Kurdish
+Kven			fkv	Kven
+Kyrgyz			ky	Kyrgyz
+Ladino			lad	Ladino
+Lak			lbe	Lak
+Lao			lo	Lao
+Latgalian			ltg	Latgalian
+Latin			la	Latin
+Latvian			lv	Latvian
+Lezgi			lez	Lezgi
+Ligurian			lij	Ligurian
+Limburgish			li	Limburgish
+Lithuanian			lt	Lithuanian
+Livonian			liv	Livonian
+Lombard			lmo	Lombard
+Low German	German Low German		nds-de	German Low German
+Low German/Low Saxon	German Low German		nds-de	German Low German
+Lü			khb	Lü
+Luxembourgish			lb	Luxembourgish
+Macedonian			mk	Macedonian
+Malagasy			mg	Malagasy
+Malay			ms	Malay
+Malayalam			ml	Malayalam
+Maltese			mt	Maltese
+Manchu			mnc	Manchu
+Manx			gv	Manx
+Māori			mi	Māori
+Maranao			mrw	Maranao
+Marathi			mr	Marathi
+Mari	Eastern Mari		mhr	Eastern Mari
+Maricopa			mrc	Maricopa
+Marshallese			mh	Marshallese
+Mauritian Creole			mfe	Mauritian Creole
+Melanau	Central Melanau		mel	Central Melanau
+Middle English			enm	Middle English
+Mingrelian			xmf	Mingrelian
+Mirandese			mwl	Mirandese
+Mòcheno			mhn	Mòcheno
+Mohawk			moh	Mohawk
+Moksha			mdf	Moksha
+Nahuatl			nah	Nahuatl
+Navajo			nv	Navajo
+Neapolitan			nap	Neapolitan
+Nepali			ne	Nepali
+Newar			new	Newar
+Nogai			nog	Nogai
+Norman			nrf	Norman
+Nepali	Bokmål		nb	Bokmål
+Norman	Bokmål		nb	Bokmål
+Norwegian	Bokmål		nb	Bokmål
+Nepali	Nynorsk		nn	Nynorsk
+Norwegian	Nynorsk		nn	Nynorsk
+Nottoway-Meherrin			nwy	Nottoway-Meherrin
+Occitan			oc	Occitan
+Odia			or	Odia
+Ojibwe			oj	Ojibwe
+Old East Slavic			orv	Old East Slavic
+Old English			ang	Old English
+Old Leonese			roa-ole	Old Leonese
+Old Norse			non	Old Norse
+Old Prussian			prg	Old Prussian
+Old Tati			xme-ott	Old Tati
+Oromo			om	Oromo
+Ossetian			os	Ossetian
+Paiwan			pwn	Paiwan
+Pannonian Rusyn			rsk	Pannonian Rusyn
+Papiamentu			pap	Papiamentu
+Pashto			ps	Pashto
+Penrhyn			pnh	Penrhyn
+Persian	Dari		prs	Dari
+Old English	Iranian Persian		fa-ira	Iranian Persian
+Persian	Iranian Persian		fa-ira	Iranian Persian
+Picard			pcd	Picard
+Piedmontese			pmd	Piedmontese
+Plautdietsch			pdt	Plautdietsch
+Polabian			pox	Polabian
+Polish			pl	Polish
+Portuguese			pt	Portuguese
+Punjabi	Gurmukhi		pa	Gurmukhi
+Punjabi	Western Punjabi		pnb	Western Punjabi
+Quechua			qu	Quechua
+Rarotongan			rar	Rarotongan
+Réunion Creole French			rcf	Réunion Creole French
+Rohingya			rhg	Rohingya
+Romagnol			rgn	Romagnol
+Romani			rom	Romani
+Romanian			ro	Romanian
+Romansh			rm	Romansh
+Russian			ru	Russian
+Rwanda-Rundi			rw	Rwanda-Rundi
+Sami	Northern Sami		se	Northern Sami
+Sami	Skolt Sami		sms	Skolt Sami
+Samoan			sm	Samoan
+Sanskrit			sa	Sanskrit
+Sardinian			sc	Sardinian
+Scots			sco	Scots
+Scottish Gaelic			gd	Scottish Gaelic
+Seychellois Creole			crs	Seychellois Creole
+Sherpa			xsr	Sherpa
+Sicilian			scn	Sicilian
+Sindhi			sd	Sindhi
+Sinhalese			si	Sinhalese
+Slovak			sk	Slovak
+Slovene			sl	Slovene
+Somali			so	Somali
+Sorbian	Lower Sorbian		dsb	Lower Sorbian
+Sorbian	Upper Sorbian		hsb	Upper Sorbian
+Sotho			st	Sotho
+Spanish			es	Spanish
+Sudovian			xsv	Sudovian
+Sundanese			su	Sundanese
+Svan			sva	Svan
+Swahili			sw	Swahili
+Swedish			sv	Swedish
+Sylheti			syl	Sylheti
+Tabasaran			tab	Tabasaran
+Tagalog			tl	Tagalog
+Tahitian			ty	Tahitian
+Tajik			tg	Tajik
+Talysh			tly	Talysh
+Tamil			ta	Tamil
+Tarantino			roa-tar	Tarantino
+Taroko			trv	Taroko
+Tat			ttt	Tat
+Tatar			tt	Tatar
+Telugu			te	Telugu
+Tetum			tet	Tetum
+Thai			th	Thai
+Tibetan			bo	Tibetan
+Tigrinya			ti	Tigrinya
+Tlingit			tli	Tlingit
+Tokelauan			tkl	Tokelauan
+Tongan			to	Tongan
+Tsonga			ts	Tsonga
+Tsou			tsu	Tsou
+Turkish			tr	Turkish
+Turkish	Ottoman Turkish		ota	Ottoman Turkish
+Turkmen			tk	Turkmen
+Udi			udi	Udi
+Udmurt			udm	Udmurt
+Ugaritic			uga	Ugaritic
+Ukrainian			uk	Ukrainian
+Unami			unm	Unami
+Urdu			ur	Urdu
+Uyghur			ug	Uyghur
+Uzbek			uz	Uzbek
+Venda			ve	Venda
+Venetan			vec	Venetan
+Vietnamese			vi	Vietnamese
+Vilamovian			wym	Vilamovian
+Volapük			vo	Volapük
+Võro			vro	Võro
+Walloon			wa	Walloon
+Waray-Waray			war	Waray-Waray
+Welsh			cy	Welsh
+Winnebago			win	Winnebago
+Wolof			wo	Wolof
+Xhosa			xh	Xhosa
+Yaghnobi			yai	Yaghnobi
+Yakut			sah	Yakut
+Yiddish			yi	Yiddish
+Yoruba			yo	Yoruba
+Yucatec Maya			yua	Yucatec Maya
+Yup'ik			esu	Yup'ik
+Yurok			yur	Yurok
+Zazaki			zza	Zazaki
+Zhuang			za	Zhuang
+Zulu			zu	Zulu
+Zuni			zun	Zuni

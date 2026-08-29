@@ -6,27 +6,44 @@ import warnings
 
 import pandas as pd
 import numpy as np
-from selected_langs import LANGUAGES
 
 #-----------------------------------------------------------------------------
 # Parameters
 #-----------------------------------------------------------------------------
 INPUT_TRANS_FILE = '../output/intermediate/en_long_trans.txt'
+INPUT_LANG_FILE = '../input/lang_names_to_codes.txt'
 OUTPUT_FILE = '../output/intermediate/en_sel_wide_trans.txt'
-DESC_TO_CODE_DICT = {}
+#DESC_TO_CODE_DICT = {}
 PIVOT_KEY = ['eeseq','page','tteseq','h3','h4','h5','transtop_line']
 
 #-----------------------------------------------------------------------------
 # Functions
 #-----------------------------------------------------------------------------
-def lev12_to_code(level1, level2, level3):
-    if (not pd.isna(level3)) and level3 != '':
-        return ''
+#def lev12_to_code(level1, level2, level3):
+#    if (not pd.isna(level3)) and level3 != '':
+#        return ''
+#
+#    if not level2:
+#        return DESC_TO_CODE_DICT.get(level1 + ':', '')
+#    else:
+#        return DESC_TO_CODE_DICT.get(level2 + ':', '')
+def strip_bullet1(x):
+    return strip_bullet(x, '* ')
 
-    if not level2:
-        return DESC_TO_CODE_DICT.get(level1 + ':', '')
+def strip_bullet2(x):
+    return strip_bullet(x, '*: ')
+
+def strip_bullet3(x):
+    return strip_bullet(x, '*:: ')
+
+def strip_bullet(x, pfx):
+    if not x:
+        return ''
+    if x.startswith(pfx):
+        return x[len(pfx):]
     else:
-        return DESC_TO_CODE_DICT.get(level2 + ':', '')
+        raise ValueError('ERROR: should be empty or start with prefix? '
+                         f'{x=}, {pfx=}')
 
 def countit(level2, level3, trans):
     if level2: return 0
@@ -47,14 +64,26 @@ df = pd.read_csv(INPUT_TRANS_FILE, sep='\t', quoting=csv.QUOTE_NONE,
 df['tteseq'] = np.where(df.tteseq == '', '9999999', df.tteseq)
 df['tteseq'] = df.tteseq.astype(int)
 
-for lang_code, lang_desc in LANGUAGES:
-    if lang_code in DESC_TO_CODE_DICT:
-        raise ValueError(f'{lang_desc} already exists!')
-    DESC_TO_CODE_DICT[lang_desc] = lang_code
+#for lang_code, lang_desc in LANGUAGES:
+#    if lang_code in DESC_TO_CODE_DICT:
+#        raise ValueError(f'{lang_desc} already exists!')
+#    DESC_TO_CODE_DICT[lang_desc] = lang_code
 
-df['lang_code'] = [ lev12_to_code(level1, level2, level3)
-                              for level1, level2, level3
-                in df[['lang_name_b1','lang_name_b2','lang_name_b3']].values ]
+#df['lang_code'] = [ lev12_to_code(level1, level2, level3)
+#                              for level1, level2, level3
+#                in df[['lang_name_b1','lang_name_b2','lang_name_b3']].values ]
+ldf = pd.read_csv(INPUT_LANG_FILE, sep='\t', quoting=csv.QUOTE_NONE,
+                  na_filter=False)
+LANGUAGES = [ (item, '') for item in ldf.lang_code.unique().tolist() ]
+df['lang_name1'] = df.lang_name_b1.map(strip_bullet1)
+df['lang_name2'] = df.lang_name_b2.map(strip_bullet2)
+df['lang_name3'] = df.lang_name_b3.map(strip_bullet3)
+
+df = df.merge(ldf, on=['lang_name1','lang_name2','lang_name3'], how='left')
+df['lang_code'] = df.lang_code.fillna('')
+
+#df = df.drop(['lang_name_b1','lang_name_b2','lang_name_b3'], axis=1)
+
 df['count_line'] = [ countit(level2, level3, trans)
                          for level2, level3, trans
                 in df[['lang_name_b2','lang_name_b3','trans']].values ]

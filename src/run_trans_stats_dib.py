@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 
 from trans_file_util import get_token2, add_tseq
-from selected_langs import LANGUAGES
+#from selected_langs import LANGUAGES
 
 '''Get summary statistics and detailed (by-note) info for translations
 
@@ -33,6 +33,8 @@ the wiki is from the last sets of `value_counts` printed to stdout.
 #------------------------------------------------------------------------------
 # Parameters
 #------------------------------------------------------------------------------
+INPUT_LANG_FILE = '../input/lang_names_to_codes.txt'
+
 ENWK_TRANS_FILE = '../output/intermediate/en_sel_wide_trans.txt'
 DECK_FILE = '../output/deck/dib_deck.txt'
 DECK_FIELDS_FILE = '../output/deck/dib_deck_fields.txt'
@@ -51,8 +53,8 @@ MD_ROW_FILE = '../output/intermediate/tr_stats_dib_md.txt'
 #------------------------------------------------------------------------------
 # Constants
 #------------------------------------------------------------------------------
-LANG_DICT = {item[0]: item[1].split(' ', maxsplit=1)[1].replace(':','')
-             for item in LANGUAGES}
+#LANG_DICT = {item[0]: item[1].split(' ', maxsplit=1)[1].replace(':','')
+#             for item in LANGUAGES}
 
 _PART_OF_SPEECH = ['Adjective','Adverb','Noun','Verb','Conjunction',
    'Contraction','Derived terms','Determiner','Interjection','Article',
@@ -96,6 +98,11 @@ def get_pos(h3, h4):
 #------------------------------------------------------------------------------
 # Main Entry Point
 #------------------------------------------------------------------------------
+
+ldf = pd.read_csv(INPUT_LANG_FILE, sep='\t', quoting=csv.QUOTE_NONE,
+                  na_filter=False)
+
+LANG_DICT = { cod: dsc for cod, dsc in ldf[['lang_code','lang_desc']].values }
 
 t_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t', quoting=csv.QUOTE_MINIMAL,
                    nrows=NROWS,
