@@ -1,0 +1,31 @@
+lang_name1	lang_name2	lang_name3	lang_code
+Aramaic	Hebrew script		arc_Hebr
+Aramaic	Jewish Babylonian Aramaic		tmr
+Aramaic	Syriac		arc_Syrc
+Azerbaijani	Arabic		az_Arab
+Ladino	Latin		lad_Latn
+Low German	Dutch Low Saxon		nds-nl
+Low German	German Low German		nds-de
+Malay	Jawi		ms_Arab
+Malay	Rumi		ms_Latn
+Mongolian	Cyrillic		mn_Cyrl
+Mongolian	Mongolian script		mn_Mong
+Norwegian	Bokmål		nb
+Norwegian	Nynorsk		nn
+Old Church Slavonic	Cyrillic		cu_Cyrs
+Old Church Slavonic	Glagolitic		cu_Glag
+Persian	Classical Persian		fa-cls
+Persian	Dari		prs
+Persian	Iranian Persian		fa-ira
+Portuguese	Brazilian Portuguese		pt-BR
+Portuguese	European Portuguese		pt-PT
+Punjabi	Gurmukhi		pa_Guru
+Punjabi	Shahmukhi		pa_Aran
+Punjabi	Western Punjabi		pnb
+Romanian	Cyrillic		ro_Cyrl
+Sardinian	Campidanese		sc-sro
+Sardinian	Logudorese		sc-src
+Serbo-Croatian	Cyrillic		sh_Cyrl
+Serbo-Croatian	Latin		sh_Latn
+Uzbek	Cyrillic		uz_Cyrl
+Uzbek	Latin		uz_Latn

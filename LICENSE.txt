@@ -137,9 +137,9 @@ approximates an absolute disclaimer and waiver of all liability.
 License and Attribution information for English Language Wiktionary.
 --------------------------------------------------------------------
 
-The file contains selected information from the August 2026 dump file
+The file contains selected information from the July 2026 dump file
 of the English Language Wiktionary from:
-    https://dumps.wikimedia.org/enwiktionary/20260801/
+    https://dumps.wikimedia.org/enwiktionary/20260701/
 
 In particular, it contains for selected pages information related to
 the relevant translation table(s) for a given headword. This information
@@ -149,8 +149,34 @@ table appears (for the purposes of extracting Part of Speech), and a
 True/False indicator whether a translation exists for the selected senses
 for selected languages.
 
-Wiktionary licenses this text under the Creative Commons Attribution-ShareAlike
-4.0 International (CC BY-SA 4.0). This extracted text is used unmodified.
+The list of languages in csv format (downloaded 28 August 2026) was also used.
+This is available from:
+    https://en.wiktionary.org/w/index.php?title=Wiktionary:List_of_languages,_csv_format&oldid=89282371
+
+Wiktionary licenses this text (dump file and csv file) under the
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). This
+extracted translations are used unmodified. Links to the license are provided
+elsewhere in this file.
+
+The repository file 'input/lang_names_to_codes.txt' (or
+'lang_names_to_code.txt') has rows that are a subset of the three-way
+`lang_name1` - `lang_name3` combinations of language names extracted from the
+translation table entries. Each combination is then mapped to a `lang_code`
+and `lang_desc` that is meant to match the code used for the
+language/variety used in Wiktionary (when applicable). To do this, we looked
+for matches in the csv list of languages. We considered matches to be the
+following:
+   (1) `lang_name1` matched `lang_name` in the csv fle and `lang_name2` and
+       `lang_name3` were blank
+   (2) `lang_name2` matched `lang_name` in the csv file and `lang_name3` was
+        blank
+For matches, we set `lang_code` to `code` from the csv file and `lang_desc` to
+`lang_name` from the csv file. If no match was found, we enter the code
+used in `input/override_lang_code.txt`. We also used this override file to
+reassign codes when 'Arabic' or 'Latin' was the text matched in the
+`lang_name2` position, since these typically refer to the script and not
+the language. Further details on the codes in the override file are in the
+repository wiki.
 
 --------------
 

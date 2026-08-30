@@ -33,7 +33,7 @@ the wiki is from the last sets of `value_counts` printed to stdout.
 #------------------------------------------------------------------------------
 # Parameters
 #------------------------------------------------------------------------------
-INPUT_LANG_FILE = '../input/lang_names_to_codes.txt'
+INPUT_LANG_FILE = '../input/lang_names_to_code.txt'
 
 ENWK_TRANS_FILE = '../output/intermediate/en_sel_wide_trans.txt'
 DECK_FILE = '../output/deck/dib_deck.txt'

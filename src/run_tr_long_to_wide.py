@@ -11,7 +11,7 @@ import numpy as np
 # Parameters
 #-----------------------------------------------------------------------------
 INPUT_TRANS_FILE = '../output/intermediate/en_long_trans.txt'
-INPUT_LANG_FILE = '../input/lang_names_to_codes.txt'
+INPUT_LANG_FILE = '../input/lang_names_to_code.txt'
 OUTPUT_FILE = '../output/intermediate/en_sel_wide_trans.txt'
 #DESC_TO_CODE_DICT = {}
 PIVOT_KEY = ['eeseq','page','tteseq','h3','h4','h5','transtop_line']
