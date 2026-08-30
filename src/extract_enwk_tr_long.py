@@ -27,6 +27,7 @@ from collections import Counter
 from dataclasses import make_dataclass, field
 
 import csv
+import re
 
 #-----------------------------------------------------------------------------
 # Constants
@@ -87,6 +88,25 @@ def split_line(line, which_colon):
     #print(line_list[0:which_colon])
     return True, ':'.join(line_list[0:which_colon]), line_list[which_colon]
 
+def _clean_line(x):
+    # Fix some common data quality problems
+    x1 = re.sub('^\\*\xa0French:\xa0',    '* French: ', x)
+    x1 = re.sub('^\\*\xa0French:',        '* French:', x1)
+    x1 = re.sub('^\\*\xa0Finnish:\xa0',   '* Finnish: ', x1)
+    x1 = re.sub('^\\*\xa0Finnish:',       '* Finnish:', x1)
+    x1 = re.sub('^\\*\xa0Chinese:\xa0',   '* Chinese: ', x1)
+    x1 = re.sub('^\\*\xa0Chinese:',       '* Chinese:', x1)
+    x1 = re.sub('^\\*:\xa0Mandarin:',     '*: Mandarin:', x1)
+    x1 = re.sub('^\\*:\xa0Mandarin:\xa0', '*: Mandarin: ', x1)
+
+    x1 = re.sub('^\\*Spanish:',            '* Spanish:', x1)
+    x1 = re.sub('^\\*French:',             '* French:', x1)
+    x1 = re.sub('^\\*Chinese:',            '* Chinese:', x1)
+    x1 = re.sub('^\\*:Mandarin: ',        '*: Mandarin: ', x1)
+
+    x1 = re.sub('^\\*\\* Chungli Ao:', '*: Chungli Ao:', x1)
+    return x1
+
 def _process_mainspace_page(opf, otf_writer, title, word, ctr):
     lines = word.wikitext.split('\n')
     english_entries = 0
@@ -139,6 +159,11 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                 pending_trec = False
                 in_trans = False
             if in_trans and line.startswith('*') and ':' in line:
+                # don't clean this page, since none of the headers have
+                # spacing, so fixing the few we fix causes wrong assignment
+                # of level-2 headers since the others aren't seen
+                if title != 'Thucydides':
+                    line = _clean_line(line)
                 if line.startswith('* '):
                     ok, left, right = split_line(line, which_colon=1)
                     if ok:
@@ -149,6 +174,8 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                         trec.lev3 = ''
                         writerow(otf_writer, trec)
                         pending_trec = False
+                    else:
+                        print(f'WARNING: BAD (* )! {trec.title=} {trec.transtop_line=} {line=}')
                 elif line.startswith('*: '):
                     ok, left, right = split_line(line, which_colon=2)
                     if ok:
@@ -158,6 +185,8 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                         trec.lev3 = ''
                         writerow(otf_writer, trec)
                         pending_trec = False
+                    else:
+                        print(f'WARNING: BAD (*: )! {trec.title=} {trec.transtop_line=} {line=}')
                 elif line.startswith('*:: '):
                     ok, left, right = split_line(line, which_colon=3)
                     if ok:
@@ -166,10 +195,16 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                         trec.lev3 = left
                         writerow(otf_writer, trec)
                         pending_trec = False
+                    else:
+                        print(f'WARNING: BAD (*:: )! {trec.title=} {trec.transtop_line=} {line=}')
                 elif line.startswith('*::: '):
                     print(f'WARNING: *:::! {trec.title=} {trec.transtop_line=} {trec.lev1=}, {trec.lev2=} {trec.lev3=} {line=}')
                 elif line.startswith('*:::: '):
                     print(f'WARNING: *::::! {trec.title=} {trec.transtop_line=} {trec.lev1=}, {trec.lev2=} {trec.lev3=} {line=}')
+                elif line.startswith('*'):
+                    print(f'WARNING: OTHER_W_COLON (*)! {trec.title=} {trec.transtop_line=} {line=}')
+            elif in_trans and line.startswith('*'):
+                print(f'WARNING: OTHER_W_COLON (*)! {trec.title=} {trec.transtop_line=} {line=}')
     if pending_trec:
         trec.tteseq = ''
         trec.h3 = ''

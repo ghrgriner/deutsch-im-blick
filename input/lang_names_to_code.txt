@@ -17,6 +17,7 @@ Altai	Southern Altai		alt	Southern Altai
 American Sign Language			ase	American Sign Language
 Amharic			am	Amharic
 Antillean Creole			gcf	Antillean Creole
+Ao	Chungli Ao		njo-jgl	Chungli Ao
 Apache	Western Apache		apw	Western Apache
 Arabic			ar	Arabic
 Arabic	Egyptian Arabic		arz	Egyptian Arabic
