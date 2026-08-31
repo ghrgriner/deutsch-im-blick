@@ -12,6 +12,10 @@ import re
 #------------------------------------------------------------------------------
 # Constants
 #------------------------------------------------------------------------------
+_PART_OF_SPEECH = ['Adjective','Adverb','Noun','Verb','Conjunction',
+   'Contraction','Derived terms','Determiner','Interjection','Article',
+   'Number','Numeral','Phrase','Prefix','Preposition','Prepositional phrase',
+   'Pronoun','Proper noun','Suffix','Particle','Punctuation mark','Postposition']
 
 #------------------------------------------------------------------------------
 # Functions
@@ -61,3 +65,14 @@ def _strip_bullet(x, pfx):
     else:
         raise ValueError('ERROR: should be empty or start with prefix? '
                          f'{x=}, {pfx=}')
+
+def _get_pos(h3, h4, h5):
+    if h3 in _PART_OF_SPEECH: return h3
+    if h4 in _PART_OF_SPEECH: return h4
+    if h5 in _PART_OF_SPEECH: return h5
+    return ''
+
+def add_enwk_part_of_speech(df):
+    df['enwk_part_of_speech'] = [
+      _get_pos(h3, h4, h5) for h3, h4, h5 in df[['h3','h4','h5']].values
+                                ]

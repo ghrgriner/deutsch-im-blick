@@ -1,8 +1,7 @@
 import pandas as pd
 import csv
 
-from trans_file_util import get_token2, add_tseq
-#from selected_langs import LANGUAGES
+from trans_file_util import get_token2, add_tseq, add_enwk_part_of_speech
 
 '''Get summary statistics and detailed (by-note) info for translations
 
@@ -33,9 +32,10 @@ the wiki is from the last sets of `value_counts` printed to stdout.
 #------------------------------------------------------------------------------
 # Parameters
 #------------------------------------------------------------------------------
-INPUT_LANG_FILE = '../input/lang_names_to_code.txt'
+NROWS = None # rows to use from ENWK_TRANS_FILE
 
 ENWK_TRANS_FILE = '../output/intermediate/en_sel_wide_trans.txt'
+INPUT_LANG_FILE = '../input/lang_names_to_code.txt'
 DECK_FILE = '../output/deck/dib_deck.txt'
 DECK_FIELDS_FILE = '../output/deck/dib_deck_fields.txt'
 TRANS_AVAIL_FILE = '../output/translations/tr_avail_by_note_dib.txt'
@@ -47,19 +47,7 @@ TRANS_LS_ADDL_VARS = ['trans_count','transtop_line','translation']
 
 TRANS_STATS_FILE = '../output/translations/tr_stats_dib.txt'
 TRANS_STATS_VARS = ['lang','lang_desc','denom','num','pct100str','pct100']
-NROWS = None # rows to use from ENWK_TRANS_FILE
 MD_ROW_FILE = '../output/intermediate/tr_stats_dib_md.txt'
-
-#------------------------------------------------------------------------------
-# Constants
-#------------------------------------------------------------------------------
-#LANG_DICT = {item[0]: item[1].split(' ', maxsplit=1)[1].replace(':','')
-#             for item in LANGUAGES}
-
-_PART_OF_SPEECH = ['Adjective','Adverb','Noun','Verb','Conjunction',
-   'Contraction','Derived terms','Determiner','Interjection','Article',
-   'Number','Numeral','Phrase','Prefix','Preposition','Prepositional phrase',
-   'Pronoun','Proper noun','Suffix']
 
 #------------------------------------------------------------------------------
 # Functions
@@ -90,11 +78,6 @@ def calc_freq(group, var):
     return pd.Series({'denom': denom, 'num': num,
                      'pct100': pct100, 'pct100str': pct100str})
 
-def get_pos(h3, h4):
-   if h3 in _PART_OF_SPEECH: return h3
-   if h4 in _PART_OF_SPEECH: return h4
-   return ''
-
 #------------------------------------------------------------------------------
 # Main Entry Point
 #------------------------------------------------------------------------------
@@ -109,9 +92,6 @@ t_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t', quoting=csv.QUOTE_MINIMAL,
                    na_filter=False)
 t_df['tt_param1'] = t_df.transtop_line.map(get_token2)
 add_tseq(t_df)
-t_df['enwk_part_of_speech'] = [
-                    get_pos(h3, h4) for h3, h4 in t_df[['h3','h4']].values
-                              ]
 print(t_df)
 
 f_df = pd.read_csv(DECK_FIELDS_FILE, sep='|', quoting=csv.QUOTE_NONE,
@@ -122,7 +102,7 @@ columns = f_df.iloc[0, 0].split('\t')
 df = pd.read_csv(DECK_FILE, sep='\t', quoting=csv.QUOTE_NONE,
                  usecols=['word_id','note_class','enwk_def'],
                  na_filter=False, names=columns)
-anki_copy = df.copy()
+deck_copy = df.copy()
 df = df.fillna('')
 df['enwk_def_list'] = df.enwk_def.map(
     lambda x: [item.strip() for item in x.split('|')] if x else [])
@@ -191,7 +171,7 @@ final_df['md_row'] = ('| ' + final_df.lang + ' | ' + final_df.lang_desc +
                      ' | ' + final_df.num.astype(str) + ' | ' + final_df.pct100str + ' |')
 final_df['md_row'].to_csv(MD_ROW_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False)
 
-anki_copy['avail'] = anki_copy.enwk_def.map(lambda x: x if x.startswith('_') else 'LINK')
-print(anki_copy.note_class.value_counts())
-print(anki_copy[anki_copy.note_class == 'C'].avail.value_counts())
-print(anki_copy[anki_copy.note_class == 'C'].avail.value_counts(normalize=True))
+deck_copy['avail'] = deck_copy.enwk_def.map(lambda x: x if x.startswith('_') else 'LINK')
+print(deck_copy.note_class.value_counts())
+print(deck_copy[deck_copy.note_class == 'C'].avail.value_counts())
+print(deck_copy[deck_copy.note_class == 'C'].avail.value_counts(normalize=True))

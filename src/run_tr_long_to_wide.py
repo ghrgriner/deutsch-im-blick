@@ -6,11 +6,15 @@ import warnings
 
 import pandas as pd
 import numpy as np
-from trans_file_util import strip_bullet1, strip_bullet2, strip_bullet3
+from trans_file_util import (
+    strip_bullet1, strip_bullet2, strip_bullet3,
+    add_enwk_part_of_speech,
+                            )
 
 #-----------------------------------------------------------------------------
 # Parameters
 #-----------------------------------------------------------------------------
+NROWS = None # rows to use from INPUT_TRANS_FILE, None uses all
 INPUT_TRANS_FILE = '../output/intermediate/en_long_trans.txt'
 INPUT_LANG_FILE = '../input/lang_names_to_code.txt'
 OUTPUT_FILE = '../output/intermediate/en_sel_wide_trans.txt'
@@ -39,7 +43,7 @@ def countit(level2, level3, trans):
 warnings.simplefilter(action='ignore', category=pd.errors.PerformanceWarning)
 
 df = pd.read_csv(INPUT_TRANS_FILE, sep='\t', quoting=csv.QUOTE_NONE,
-                 na_filter=False)
+                 nrows=NROWS, na_filter=False)
 df['tteseq'] = np.where(df.tteseq == '', '9999999', df.tteseq)
 df['tteseq'] = df.tteseq.astype(int)
 
@@ -68,6 +72,7 @@ df_wide = df_nodups.pivot(index=PIVOT_KEY + ['trans_count'],
                           columns='lang_code', values='trans'
                          ).add_prefix('tr_enwk_')
 df_wide = df_wide.reset_index()
+add_enwk_part_of_speech(df_wide)
 
 tr_order = [ 'tr_enwk_' + code for code in ldf.lang_code.unique().tolist() ]
 for var in tr_order:
@@ -75,8 +80,8 @@ for var in tr_order:
     if var not in df_wide:
         df_wide[var] = ''
 
-new_order = (['page','h3','h4','h5','tteseq','transtop_line']
-             + tr_order + ['trans_count'])
+new_order = (['page','h3','h4','h5','enwk_part_of_speech','tteseq',
+              'transtop_line'] + tr_order + ['trans_count'])
 dups = df_wide.duplicated(['page','tteseq'])
 if dups.any():
     print(df_wide[df_wide.dups][['page','tteseq','transtop_line']])
