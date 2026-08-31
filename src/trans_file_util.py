@@ -43,3 +43,21 @@ def add_pseq(df):
 
 def add_tseq(df):
     df['seq_in_param1'] = df.groupby(['page','tt_param1']).cumcount() + 1
+
+def strip_bullet1(x):
+    return _strip_bullet(x, '* ')
+
+def strip_bullet2(x):
+    return _strip_bullet(x, '*: ')
+
+def strip_bullet3(x):
+    return _strip_bullet(x, '*:: ')
+
+def _strip_bullet(x, pfx):
+    if not x:
+        return ''
+    if x.startswith(pfx):
+        return x[len(pfx):]
+    else:
+        raise ValueError('ERROR: should be empty or start with prefix? '
+                         f'{x=}, {pfx=}')

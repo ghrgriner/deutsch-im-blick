@@ -6,6 +6,7 @@ import warnings
 
 import pandas as pd
 import numpy as np
+from trans_file_util import strip_bullet1, strip_bullet2, strip_bullet3
 
 #-----------------------------------------------------------------------------
 # Parameters
@@ -27,23 +28,6 @@ PIVOT_KEY = ['eeseq','page','tteseq','h3','h4','h5','transtop_line']
 #        return DESC_TO_CODE_DICT.get(level1 + ':', '')
 #    else:
 #        return DESC_TO_CODE_DICT.get(level2 + ':', '')
-def strip_bullet1(x):
-    return strip_bullet(x, '* ')
-
-def strip_bullet2(x):
-    return strip_bullet(x, '*: ')
-
-def strip_bullet3(x):
-    return strip_bullet(x, '*:: ')
-
-def strip_bullet(x, pfx):
-    if not x:
-        return ''
-    if x.startswith(pfx):
-        return x[len(pfx):]
-    else:
-        raise ValueError('ERROR: should be empty or start with prefix? '
-                         f'{x=}, {pfx=}')
 
 def countit(level2, level3, trans):
     if level2: return 0
