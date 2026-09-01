@@ -78,6 +78,21 @@ def calc_freq(group, var):
     return pd.Series({'denom': denom, 'num': num,
                      'pct100': pct100, 'pct100str': pct100str})
 
+def get_indices_to_drop(pages_to_keep):
+    page_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t',
+                   quoting=csv.QUOTE_MINIMAL, usecols=['page'], nrows=NROWS,
+                   na_filter=False)
+    page_df['keep_page'] = page_df.page.map(lambda x: x in pages_to_keep)
+    page_df = page_df.reset_index()
+
+    # Use `item + 1` b/c page_df.index has first data row with index 0, but
+    # `skiprows` parameter will give header row index 0
+    skip_indices = {
+             item + 1
+             for item in page_df[~page_df.keep_page]['index'].tolist()
+                   }
+    return skip_indices
+
 #------------------------------------------------------------------------------
 # Main Entry Point
 #------------------------------------------------------------------------------
@@ -86,13 +101,6 @@ ldf = pd.read_csv(INPUT_LANG_FILE, sep='\t', quoting=csv.QUOTE_NONE,
                   na_filter=False)
 
 LANG_DICT = { cod: dsc for cod, dsc in ldf[['lang_code','lang_desc']].values }
-
-t_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t', quoting=csv.QUOTE_MINIMAL,
-                   nrows=NROWS,
-                   na_filter=False)
-t_df['tt_param1'] = t_df.transtop_line.map(get_token2)
-add_tseq(t_df)
-print(t_df)
 
 f_df = pd.read_csv(DECK_FIELDS_FILE, sep='|', quoting=csv.QUOTE_NONE,
                  na_filter=False, names=['Columns'])
@@ -117,6 +125,27 @@ res = x_df.enwk_def_1tok.map(
 x_df['page'] = [ item[0] for item in res ]
 x_df['qual'] = [ item[1] for item in res ]
 x_df['tt_param1'] = [ item[2] for item in res ]
+
+#------------------------------------------------------------------------------
+# The wide file has many records we don't need and many variables, so we can
+# save a significant amount of time by reading the file twice. First we read
+# only the `page` column to get the row indices of the transtab entries on
+# the Wiktionary pages we want, and then a second time to get all variables
+# but skipping most rows. This reduces runtime from 2.5 to 1 minute (for the
+# whole program). Memory consumption is greatly reduced as well. Before the
+# fix res M was around 13 g and up to 25 g virtual. Now, res M tops around
+# 5 g with negligible virtual use.
+#------------------------------------------------------------------------------
+indices_to_drop = get_indices_to_drop(pages_to_keep=set(x_df.page.tolist()))
+
+# 1. Input translation file
+t_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t', quoting=csv.QUOTE_MINIMAL,
+                   nrows=NROWS,
+                   skiprows=lambda x: x in indices_to_drop,
+                   na_filter=False)
+t_df['tt_param1'] = t_df.transtop_line.map(get_token2)
+add_tseq(t_df)
+print(t_df)
 
 tk_df = t_df.merge(
     x_df[['word_id','note_class','page','tt_param1','seq_of_ref']],
