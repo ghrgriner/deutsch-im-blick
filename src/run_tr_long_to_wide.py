@@ -80,8 +80,8 @@ for var in tr_order:
     if var not in df_wide:
         df_wide[var] = ''
 
-new_order = (['page','h3','h4','h5','enwk_part_of_speech','tteseq',
-              'transtop_line'] + tr_order + ['trans_count'])
+new_order = (['page','tteseq','h3','h4','h5','enwk_part_of_speech',
+              'transtop_line','trans_count'] + sorted(tr_order))
 dups = df_wide.duplicated(['page','tteseq'])
 if dups.any():
     print(df_wide[df_wide.dups][['page','tteseq','transtop_line']])

@@ -1,7 +1,6 @@
 '''Convert translations from 'long' to 'wide' format and subset languages
 
-This gives the same rows and columns as `run_tr_long_to_wide.py`, but the
-translation columns are ordered alphabetically.
+This gives the same output as `run_tr_long_to_wide.py`.
 
 The run time is a little longer (104s vs 93s), but the memory use is much
 lower. The other program tops out at 12g resident memory and 13g virtual.
@@ -53,10 +52,11 @@ def countit(level2, level3, trans):
     return 1
 
 def write_entry(otf_writer, trec):
-    data = ([trec.page, trec.h3, trec.h4, trec.h5, trec.enwk_part_of_speech,
-             trec.tteseq, trec.transtop_line]
+    data = ([trec.page, trec.tteseq, trec.h3, trec.h4, trec.h5,
+             trec.enwk_part_of_speech, trec.transtop_line,
+             str(trec.trans_count)]
             + [ str(item) for item in trec.transd.values() ]
-            + [str(trec.trans_count)])
+           )
     for item in data:
         if '\t' in item or '\r' in item or '\n' in item:
             print(f'BAD CHAR in {trec.page=}, {item=}')
@@ -108,10 +108,10 @@ with (open(INPUT_TRANS_FILE, mode='r', newline='', encoding='utf-8') as itf,
                         quoting=csv.QUOTE_NONE,
                         quotechar=None,
                         lineterminator='\n')
-    writer.writerow(['page','h3','h4','h5','enwk_part_of_speech','tteseq',
-                     'transtop_line']
+    writer.writerow(['page','tteseq','h3','h4','h5','enwk_part_of_speech',
+                     'transtop_line','trans_count']
         + [ 'tr_enwk_' + item for item in lang_codes ]
-        + ['trans_count'])
+                   )
 
     row_counter = 0
     curr_entry = []
