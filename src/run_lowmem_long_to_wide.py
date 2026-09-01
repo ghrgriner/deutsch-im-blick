@@ -79,7 +79,7 @@ def process_entry(otf_writer, ldict_, row_list, lang_codes_):
             trec.transd = { key: '' for key in lang_codes_ }
             trec.enwk_part_of_speech = _get_pos(trec.h3, trec.h4, trec.h5)
 
-        if countit(erow['lang_name_b2'], erow['lang_name_b3'], erow['trans']):
+        if erow['has_trans'] == 'Y':
             trec.trans_count = trec.trans_count + 1
         lang_name1 = strip_bullet1(erow['lang_name_b1'])
         lang_name2 = strip_bullet2(erow['lang_name_b2'])

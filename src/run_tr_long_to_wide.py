@@ -28,7 +28,7 @@ LANG_NAMES = ['lang_name1','lang_name2','lang_name3']
 #-----------------------------------------------------------------------------
 # Functions
 #-----------------------------------------------------------------------------
-def countit(level2, level3, trans):
+def countit(has_trans):
     if level2: return 0
     if level3: return 0
     if not trans: return 0
@@ -56,9 +56,7 @@ ldf = pd.read_csv(INPUT_LANG_FILE, sep='\t', quoting=csv.QUOTE_NONE,
 df = df.merge(ldf[ LANG_NAMES + ['lang_code']], on=LANG_NAMES, how='left')
 df['lang_code'] = df.lang_code.fillna('')
 
-df['count_line'] = [ countit(level2, level3, trans)
-                         for level2, level3, trans
-                in df[['lang_name_b2','lang_name_b3','trans']].values ]
+df['count_line'] = df.has_trans.map(lambda x: 1 if x == 'Y' else 0)
 df['trans_count'] = df.groupby(PIVOT_KEY)['count_line'].transform('sum')
 df['trans_count'] = df['trans_count'].fillna(0)
 
