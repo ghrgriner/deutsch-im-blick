@@ -60,7 +60,7 @@ TR_ATTR_ROWS = [
               ' is not sum-of-parts [b]'),
  ('_UNEXNM',  'Matching or partially matching sense expected but none'
               ' available [c]'),
- ('LINK', 'Matching or partially matching sense available'),
+ ('LINK', 'Matching or partially matching sense available [d]'),
 ]
 
 #------------------------------------------------------------------------------
