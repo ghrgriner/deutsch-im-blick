@@ -111,7 +111,8 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
     lines = word.wikitext.split('\n')
     english_entries = 0
     in_english = False
-    pending_trec = False
+    pending_ee = False
+    pending_tte = False
     for line in lines:
         if line == '==English==':
             if not english_entries:  # only write once per file
@@ -119,7 +120,7 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                    + '\t' + word.timestamp + '\n')
             english_entries += 1
             # write at least once for pages with English entry
-            pending_trec = True
+            pending_ee = True
             trec = TransRec()
             trec.title = title
             trec.eeseq = str(ctr + english_entries)
@@ -146,17 +147,22 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                 lev1 = ''
                 lev2 = ''
                 lev3 = ''
+                trec.has_trans = False
+                trec.trans = ''
                 in_trans = True
+                pending_tte = True
                 trec.transtop_line = line
                 trec.tteseq = str(int(trec.tteseq) + 1)
             if in_trans and line.startswith('{{trans-bottom}}'):
                 trec.lev1 = ''
                 trec.lev2 = ''
                 trec.lev3 = ''
-                trec.has_trans = 'N'
+                trec.has_trans = False
                 trec.trans = ''
-                writerow(otf_writer, trec)
-                pending_trec = False
+                if pending_tte:
+                    writerow(otf_writer, trec)
+                    pending_tte = False
+                    pending_ee = False
                 in_trans = False
             if in_trans and line.startswith('*') and ':' in line:
                 # don't clean this page, since none of the headers have
@@ -173,7 +179,8 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                         trec.lev2 = ''
                         trec.lev3 = ''
                         writerow(otf_writer, trec)
-                        pending_trec = False
+                        pending_tte = False
+                        pending_ee = False
                     else:
                         print(f'WARNING: BAD (* )! {trec.title=} {trec.transtop_line=} {line=}')
                 elif line.startswith('*: '):
@@ -184,7 +191,8 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                         trec.lev2 = left
                         trec.lev3 = ''
                         writerow(otf_writer, trec)
-                        pending_trec = False
+                        pending_tte = False
+                        pending_ee = False
                     else:
                         print(f'WARNING: BAD (*: )! {trec.title=} {trec.transtop_line=} {line=}')
                 elif line.startswith('*:: '):
@@ -194,7 +202,8 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                         trec.has_trans = right and 't-needed' not in right
                         trec.lev3 = left
                         writerow(otf_writer, trec)
-                        pending_trec = False
+                        pending_tte = False
+                        pending_ee = False
                     else:
                         print(f'WARNING: BAD (*:: )! {trec.title=} {trec.transtop_line=} {line=}')
                 elif line.startswith('*::: '):
@@ -205,11 +214,13 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                     print(f'WARNING: OTHER_W_COLON (*)! {trec.title=} {trec.transtop_line=} {line=}')
             elif in_trans and line.startswith('*'):
                 print(f'WARNING: OTHER_W_COLON (*)! {trec.title=} {trec.transtop_line=} {line=}')
-    if pending_trec:
+    if pending_ee:
         trec.tteseq = ''
         trec.h3 = ''
         trec.h4 = ''
         trec.h5 = ''
+        trec.trans = ''
+        trec.has_trans = False
         writerow(otf_writer, trec)
     return english_entries
 
