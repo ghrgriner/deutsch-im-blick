@@ -53,15 +53,15 @@ TR_ATTR_FILE = '../output/intermediate/tr_attrition_md.txt'
 
 TR_ATTR_ROWS = [
  ('_NOPAGESOP', 'No Wiktionary page - phrase is sum-of-parts'),
- ('_NOPAGE', 'No Wiktionary page - phrase is not sum-of-parts'),
- ('_NOTRANS', 'Page exists but no translation table [a]'),
+ ('_NOPAGE', 'No Wiktionary page - phrase is not sum-of-parts [*]'),
+ ('_NOTRANS', 'Page exists but no translation table [a][*]'),
  ('_NOSENSESOP', 'Translations available but no matching sense and '
                  'sense is sum-of-parts [b]'),
  ('_NOSENSE', 'Translations available but no matching sense and sense'
-              ' is not sum-of-parts [b]'),
+              ' is not sum-of-parts [b][*]'),
  ('_UNEXNM',  'Matching or partially matching sense expected but none'
               ' available [c]'),
- ('LINK', 'Matching or partially matching sense available [d]'),
+ ('LINK', 'Matching or partially matching sense available [d][*]'),
 ]
 TR_UNDER_DENOM = ['_NOPAGE','_NOTRANS','_NOSENSE']
 
@@ -165,6 +165,9 @@ columns = f_df.iloc[0, 0].split('\t')
 df = pd.read_csv(DECK_FILE, sep='\t', quoting=csv.QUOTE_NONE,
                  usecols=['word_id','note_class','enwk_def'],
                  na_filter=False, names=columns)
+print(df.note_class.value_counts())
+print(df[df.note_class == 'G'][['enwk_def']])
+df = df[df.note_class == 'C']
 deck_copy = df.copy()
 should_match_word_ids = df[~df.enwk_def.str.startswith('_')][['word_id']]
 df = df.fillna('')
